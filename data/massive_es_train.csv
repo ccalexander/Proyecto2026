@@ -1,0 +1,1001 @@
+id,utt,intent
+1,despiértame a las nueve de la mañana el viernes,48
+2,pon una alarma en dos horas desde ahora,48
+4,olly silencio,46
+5,parar,46
+6,olly para por un minuto,46
+7,para por diez segundos,46
+9,haz que la luz sea un poco mas cálida aquí,1
+10,por favor pon la luz adecuada para leer,1
+12,hora de dormir,40
+13,hora de dormir olly,40
+15,apaga la luz del baño,40
+16,olly baja las luces en la sala,31
+18,apaga las luces del dormitorio,40
+20,ajusta las luces a veinte por ciento,1
+21,solo ponga las luces a veinte por ciento,1
+22,atenua las luces en la cocina olly,31
+23,baja las luces de la cocina,31
+25,olly limpia el piso,34
+28,aspirar la casa,34
+29,aspira la casa olly,34
+32,aspirar las alfombras alrededor,34
+33,mirar cuando empieza el espectáculo,32
+34,quiero escuchar la canción de arijit singh una vez más,45
+35,quiero poner esa música una vez mas,45
+36,chequea si mi coche está listo,12
+37,comprueba si funciona mi portatil,12
+38,se está agotando el brillo de mi pantalla,12
+39,necesito los servicios de ubicacion puedes comprobar,12
+40,comprobar el estado de mi uso de energía,12
+43,no estoy cansada estoy en realidad feliz,12
+44,no estoy cansado en realidad estoy feliz,12
+45,que pasa,5
+48,dime la hora en madrid,0
+49,dime la hora en el huso horario más cinco,38
+51,alexa opciones de entrega mejor valoradas de comida china,3
+52,opciones de entrega de comida china más valoradas,3
+54,olly las opciones mas votadas de entrega de comida china a domicilio,3
+55,quiero pedir curry para llevar alguna recomendación,3
+56,quiero pedir curry para llevar hay alguna recomendación alexa,3
+57,encontrar mi comida thai para llevar tailandesa alrededor de mercado central,3
+60,parar alarma de las siete de la mañana,52
+62,por favor enumera alarmas activas,23
+65,qué está pasando en el fútbol hoy,22
+66,por favor pon ayer de los beatles,45
+69,me gusta la música rock,43
+70,mi grupo de musica favorito es despistados,43
+72,comienza a reproducir musica de favoritos,45
+73,por favor pon mi mejor música,45
+75,quién es el autor de esta música,57
+76,cual es ese álbum de música actual,57
+77,realmente estoy disfrutando de esta canción,43
+78,la canción que estás tocando es increible,43
+79,esta es una de las mejores canciones para mi,43
+81,hacer que las luces sean más brillantes,18
+82,por favor sube las luces al máximo,18
+83,hey enciende el robot limpiador,34
+84,enciende el robot de limpieza,34
+87,pide algo de sushi para la cena,16
+88,hola me gustaría que pidas una hamburguesa,16
+91,puedo pedir cena para llevar de la carola,16
+92,el burger king hace pedidos para llevar,3
+93,poner una alarma a las doce,48
+94,poner una alarma dentro de cuarenta minutos,48
+95,poner alarma a las ocho cada día entre semana,48
+96,está lloviendo,13
+97,va a llover,13
+98,está nevando ahora mismo,13
+101,cómo está el tiempo esta semana,13
+104,dime las noticias del país,22
+105,cuáles son las noticias en t. v. e. noticias,22
+106,cuáles son las últimas noticias del veinte minutos,22
+108,pon una canción que me guste,45
+110,pon daft punk,45
+111,pon algunas de coldplay,45
+114,pon en modo aleatorio esta lista de reproducción,28
+116,qué está sonando,57
+117,que música es esta,57
+118,dime quién es el artista de esta canción,57
+119,hazme reir,25
+120,olly hazme reir,25
+121,cuéntame un buen chiste,25
+123,cuentame un chiste,25
+125,alexa cuentame un chiste,25
+126,animame,25
+129,cuentame sobre hoy,12
+130,pedir una pizza,16
+131,pídeme un sandwich de pollo de deliveroo,16
+133,cuando llegará mi pedido,3
+134,cuánto va a tardar mi pedido a domicilio,3
+135,estado del pedido del domino's pizza,3
+136,qué está sonando,57
+137,dime el nombre de esta canción,57
+139,pon mi playlist de jazz,45
+140,iniciar mi playlist de jazz,45
+141,reproduce mi playlist favorita,45
+142,esa es una buena canción,43
+143,no me gusta,7
+144,a mi me gusta esto,43
+145,me gusta el jazz,43
+146,puedes poner algo de jazz,45
+149,esta canción fue muy buena,43
+152,cambia el volumen,29
+153,habilitar la reproducción aleatoria,28
+154,guardar opciones,28
+155,ajusta el brillo a cincuenta por ciento,1
+156,baja el brillo,31
+157,reducir brillo,31
+159,baja brillo,31
+160,baja las luces,31
+161,olly baja las luces,31
+162,hazme un café,56
+163,olly haz un cafe,56
+164,necesito un café,56
+165,me apetece algo de cafe ahora,56
+166,como estas,5
+172,poner la alarma a las diez de la mañana,48
+175,cuéntame las últimas novedades tecnología,22
+176,cuéntame las últimas noticias sobre tecnología,22
+179,dime el tiempo,13
+180,cómo está el tiempo ahora,13
+181,está lloviendo ahora,13
+183,enciende mi lista de reproducción de michael jackson,45
+184,pon rafael de mi playlist,45
+186,pon la última canción de mi lista de reproducción favorita,45
+187,sube el volumen,14
+190,enciende el enchufe,24
+191,enciende el enchufe,24
+192,enciende mi enchufe,24
+193,cuentame un chiste,25
+194,sabes alguna broma,25
+195,que hora es,0
+196,dime la hora,0
+198,domino's pizza hace comida para llevar,3
+199,mi sitio pizzería favorita está disponible para hacer pedidos a domicilio,3
+200,puedo pedir comida para llevar en español,16
+202,eliminar la alarma,52
+203,me enseñas las alarmas que yo tengo puestas,23
+204,tengo yo alguna alarma,23
+205,muestra alarmas,23
+206,cómo está el tiempo en madrid,13
+207,dime el tiempo en barcelona,13
+209,por favor haz que las luces sean más cómodas para leer,1
+210,por favor haz que las luces ideales para ver,1
+211,haz que la habitación sea más brillante,18
+212,y la luz comenzó,41
+213,que fecha es hoy,0
+214,que dia es hoy,0
+215,dime una fecha,0
+218,está lloviendo afuera olly,13
+221,cambia las luces a verde,1
+222,añade esta canción a mi lista de favoritos,43
+223,qué canción es esta,57
+224,olly apaga las luces,40
+225,apaga luces,40
+226,limpia el suelo por favor,34
+227,enciende el enchufe de la olla arrocera,24
+228,apaga el enchufe de la olla arrocera,8
+231,podrías por favor ayudarme a pedir sushi en el deliveroo,16
+233,pon una alarma a las cuatro de la tarde,48
+234,olly avísame a las tres de la tarde para ir al concierto,48
+235,avísame a las tres de la tarde que vaya al concierto,48
+236,puedo yo poner una alarma para mi vuelo por la mañana,23
+238,hay alguna alarma,23
+239,está lloviendo en barcelona,13
+240,va a llover hoy,13
+241,que esta pasando afuera,13
+243,que está pasando en el mundo,22
+244,qué está pasando en madrid,22
+245,enséñame algunas noticias de marca,22
+246,solo muéstrame alguna noticias de b. b. c.,22
+247,pone las noticias de antena tres,22
+248,noticias de piratas olly,22
+249,ponme algo de hip hop,45
+252,death metal ahora,45
+255,olly qué música me gusta después del trabajo,57
+257,pon música de mi pianista favorito,45
+259,eres demasiado ruidoso,35
+260,apenas puedo oírte olly,14
+262,pon las luces azules,1
+264,haz que las luces brillen en azul,1
+265,siri buenas noches luces apagadas,40
+267,está horriblemente oscuro aquí,41
+268,poner las luces más brillantes,18
+269,olly está demasiado oscuro no me puedo ver ni las manos,41
+270,que hora es,0
+273,cuál es la canción,57
+274,olly cual es la canción,57
+275,que quiso decir el cantante con el título de la canción bohemia rapsodia,57
+276,quien interpretó la canción una taza más de café,57
+277,cuál es el tiempo en vigo,13
+278,como está el tiempo en gijón,13
+280,cuál es el estado actual de las negociaciones del brexit,22
+282,quién ganará las próximas elecciones en españa,22
+283,esperas sol el domingo,13
+284,va a llover esta noche,13
+285,va a estar ventoso mañana,13
+287,ilumina la lámpara al lado del sofá,18
+288,ilumina la luz,18
+289,qué hora es en madrid ahora,0
+291,aspirar la cocina,34
+293,que esta pasando en el mundo,22
+294,dime la noticia,22
+300,cuál es el pronóstico del tiempo para hoy,13
+301,que tiempo hace,13
+302,oye que vas a hacer,12
+303,como te va,5
+304,buenos dias que pasa,5
+305,pedir una pizza al telepizza,16
+306,me gustaría tomar sushi me puedes pedir para la cena,16
+307,alexa me gustaría tomar sushi puedes pedírmelo para almorzar,16
+308,pide un sandwich y una sopa para llevar del restaurante italiano,16
+309,cuántos días le quedan a este año,0
+313,incrementa el brillo en veinte por ciento,18
+314,pon las luces a maximo,18
+316,silencio,46
+320,debería coger un paraguas mañana,13
+323,enciende el cargador inteligente,24
+324,cuéntame las novedades en tecnología de engadget,22
+325,feliz,13
+326,tarde,13
+327,domingo,13
+330,más tranquilo,35
+332,silencio,46
+335,me gustaría saber el tiempo en madrid,13
+336,está nevando en barcelona,13
+339,necesito un café ahora,56
+340,ayude a un pobre necesitado hoy olly,56
+341,enciende la cafetera,56
+342,prepara una taza de café ahora,56
+343,cómo estará el clima mañana,13
+347,cuáles son las predicciones meteorológicas para mañana,13
+349,va a nevar mañana,13
+350,encuentra si el restaurante más cercano hace pedidos para llevar,3
+351,mira si el restaurante pone para llevar,3
+352,hay menú para llevar en el restaurante,3
+354,ventinueve de marzo que dia cae,0
+356,cuál es mi próxima alarma,23
+357,por favor dime mis alarmas,23
+358,a qué hora sonará mi alarma hoy,23
+359,puedes decirme la hora,0
+361,reproduce la pista ocho de google play music,45
+363,reproducir una canción al azar de mi lista de reproducción,45
+364,cuál es la fecha actual,0
+367,que esta pasando en las noticias,22
+370,quiero que apague la luz puedes hacerlo por mí,40
+374,dime si lo siguiente es cierto sobre el tiempo,13
+376,mira la aplicación del tiempo para ver si,13
+377,puedes guardar esta canción en mi lista de reproducción,43
+378,cómo guardar esta música,43
+380,por favor pon games de disturbed,45
+381,por favor abra mi aplicación de música y juegue juegos de disturbed,45
+382,por favor pon los juegos de la canción por perturbado,45
+383,apaga la luz del garage,40
+384,mira por noticias en vivo en el mundo,22
+386,alguna noticia sobre muertes en el país,22
+390,cambiar el enchufe inteligente,24
+394,si es mediodia en madrid que hora es en california,38
+395,cuál es la diferencia horaria entre la hora del este y la hora del pacifico,38
+396,pon por qué cantas por kirk franklin,45
+398,va a hacer calor mañana,13
+401,música por favor,45
+402,puedes cambia los colores de luz claros de la casa,1
+403,puedes mezclar la luz de colores en la casa,1
+404,puedes cambiar los colores de la luz a oscuro en la casa,1
+408,qué alarmas tengo activadas,23
+409,léeme mis alarmas,23
+410,a qué hora están mis alarmas fijadas,23
+413,cambia las luces de mi cuarto a azul,1
+414,cambia las luces de mi habitación a un color algo más romántico,1
+416,poner una alarma para mi a las ocho de la mañana,48
+417,pon alarma a las cuatro de la tarde,48
+418,poner una alarma despertador a las ocho cuarenta y cinco de la mañana,48
+422,cuales son las ultimas noticias,22
+425,cuáles son las noticias de vicky cristina barcelona,22
+429,luces apagadas en el baño,40
+432,cómo está el tiempo ahora mismo fuera,13
+433,cuánto calor hace fuera ahora mismo,13
+435,que día del mes será el próximo martes,0
+436,jugar carpeta de mala religión,45
+438,va a llover hoy,13
+440,léeme nuevos titulares,22
+445,repite álbum,28
+446,pon metallica,45
+447,pon música navideña a la antigua,45
+449,hacer café,56
+450,haz cafe olly,56
+452,quien lidera actualmente las elecciones parlamentarias,22
+453,qué día es hoy,0
+454,cambia las luces de la cocina a azul,1
+455,fija las luces en el salon a rojo,1
+458,puedes hablar un poco más alta,14
+459,soy incapaz de oírte puedes hablar más alto,14
+460,por favor habla alto,14
+461,quiero escuchar música clásica,45
+462,quiero escuchar jazz,45
+463,que dia es hoy,0
+464,dime la fecha y la hora,0
+466,siri que día es hoy,0
+467,haz que la luz de mi habitación sea más brillante,18
+469,apaga la luz,40
+470,apaga la lámpara,40
+471,apagar las luces,41
+472,pon canciones de sia,45
+474,abre canciones de prince,45
+477,encuentra noticias sobre brexit,22
+478,abre la noticias sobre repsol,22
+479,encuéntrame noticias sobre el discurso de trump,22
+481,qué hora es en otras zonas horarias,0
+482,cuál es la zona horaria en madrid,0
+483,cuál es el nombre de la canción,57
+485,cuál es la duración de la canción,57
+487,cuál es la hora en españa ahora mismo,0
+488,qué hora es ahora mismo en australia,0
+489,qué temperatura hace fuera,13
+492,qué es una broma tonta sabes,25
+493,que es una broma tonta sabes,25
+496,cambia el color de la luz a azul,1
+497,confirmar si el color es azul,1
+498,cambia el color de la luz a rojo,1
+499,qué hora es en madrid,0
+500,qué hora es en bilbao,0
+502,silencio por favor,46
+503,altavoces apagados,46
+504,silencio por favor,46
+507,confirma la hora de la alarma,23
+509,qué alarmas tengo puestas yo,23
+513,por nuestros marcadores,13
+514,puedes silenciar cuando no estoy en casa,46
+518,pon mis canciones más tocadas,45
+519,que hora es,0
+520,que hora es ahora mismo,0
+521,dame la hora,0
+522,no es posible,13
+524,cuanto tiempo tardaran en preparar el pedido,3
+526,cuéntame un chiste al azar,25
+528,cual es tu chiste favorito,25
+529,apagar enchufe,40
+530,por sensor remoto,40
+531,cuáles son las noticias actuales del mundo,22
+535,necesito una alarma recordatorio a la una,48
+537,pon una alarma a las nueve de la mañana,48
+539,busca el nombre del álbum con katy perry,57
+542,el fin del mundo,43
+543,cuál es la broma más divertida,25
+544,cuentame un chiste verde,25
+545,reproduce la playlist,45
+546,hey olly reproduce la lista de reproducción,45
+547,por favor suba el volumen de la música hips don't lie,14
+548,por favor baja la frecuencia aleatoria de siempre,28
+549,por favor repite de nuevo esa música de ozuna,28
+550,que cancion está sonando,57
+551,quien esta cantando esta canción,57
+553,apaga las luces de la sala,40
+554,por favor apague las luces en la sala de estar,40
+556,puedo tener alguna de música de fondo,45
+557,cuántas alarmas están en la lista,23
+558,tengo yo alguna alarma puesta para mañana,23
+559,cuál es la situación de la alarma para mañana,23
+561,cancelar mi alarma de las ocho de la mañana,52
+563,cambia el color de la luz,1
+565,cambia el color de las luces,1
+566,qué temperatura hay,13
+567,cuánto calor hace,13
+568,qué frío hace,13
+569,cuántos cumpleaños hay el veintitres,0
+570,es el segundo sabado el doce,0
+571,hay navidad el veintidos,0
+572,que fecha es,0
+573,aumenta el volumen,14
+574,repetir la misma canción diez veces,28
+575,reproduce las canciones de pies descalzos de shakira,28
+577,reproducir corazón partido en la lista,45
+578,por favor pon al primer artista en la cola,45
+579,apaga una luz del porche,40
+580,por favor apaga la luz,40
+581,apaga la lampara,40
+583,se pondrá el sol a las cinco y media de la tarde mañana,13
+584,hay alguna probabilidad de lluvia esta semana,13
+586,como las ultimas noticias,22
+587,que es tendencia,22
+589,que hora es en la zona horaria del este,0
+591,qué calor hace ahora,13
+592,por favor enciende la música quiero escuchar mis canciones favoritas,45
+593,puedo escuchar los cincuenta éxitos que puedes escuchar en las radios ahora,45
+594,por favor pon música clásica para la cena ahora,45
+596,puedes cambiar la mejor canción de lady gaga,45
+597,quiero escuchar mi canción favorita de iron maiden,45
+598,sube el sonido,14
+599,baja el volumen,35
+600,sube volumen por favor,14
+602,programar la alarma para que comience,48
+603,cambiar la alarma para que comience a la medianoche,48
+604,qué tiempo hará dentro de una semana,13
+605,cómo se supone que estará el tiempo el martes,13
+606,cuál es el pronóstico del tiempo para el fin de semana,13
+607,silencia por veinte minutos,46
+609,pon otra vez lo hablado antes,14
+611,por favor pon la alarma para la siguiente mañana a las siete de la mañana,48
+613,pon la playlist número siete,45
+615,pon canciones de mi playlist,45
+618,cuál es el último día del més,0
+619,cual es la hora en horario del centro,0
+620,que hora es actualmente en granada,0
+621,cuál es la última controversia sobre pablo iglesias,22
+622,cuál es la última discusión sobre mariano rajoy,22
+627,pon la última canción de éxito del último álbum de metallica por favor,45
+630,avísame cuando haya noticias sobre el gasoducto de perú,22
+632,avísame cuando haya noticias sobre el independentismo en cataluña,22
+633,inicia aspiradora,34
+636,que es lo gracioso en un chiste sobre coche,25
+637,cuéntame un chiste sobre un hombre,25
+639,recuérdame jugar con esta canción esta noche,45
+640,por favor ponme una canción de mi lista de favoritos,45
+641,ponme una canción,45
+642,ponme una canción de adele,45
+643,necesito que enciendas la aspiradora,34
+644,cuál será la temperatura más alta esta semana,13
+645,sube un poco la luz,18
+646,incrementa la luz un poco,18
+647,haz la luz más visible,18
+648,podrías decirme las alarmas que he ajustado,23
+649,tengo alguna alarma puesta para hoy,23
+650,necesito poner una alarma cuántas tengo programadas,23
+652,control de luces apaga las luces de la habitación,40
+653,puedes ubicar algo de música flamenca,45
+654,quiero escuchar algo de música religiosa,45
+655,cómo es el tiempo actual en california,13
+656,como está el tiempo ahora en mallorca,13
+659,hora en madrid ahora,0
+661,por favor puedo saber que horas serán a las seis de la tarde aqui en australia,38
+662,puedes decirme cuántas horas de diferencia hay entre sevilla y valencia,38
+664,apaga las luces,31
+666,necesito apaga las luces,31
+667,reduce el brillo,31
+669,pide dos hamburguesas para mi,16
+670,pedir una pizza,16
+671,podrias decirme que fecha es hoy,0
+672,podrias decirme que hora es,0
+673,que horas es ahora,0
+674,muestra la hora actual,0
+677,por favor apaga el enchufe de mi movil cuando esté cargado,8
+679,quiero que apagues el enchufe antes de que el móvil se cargue,8
+681,mantenerme informado sobre los precios del mercado de valores,4
+683,puedes poner mi última canción,45
+684,pon la canción de estopa,45
+685,toca la canción de anoche a las seis p. m.,45
+687,dime que hora es en barcelona,0
+688,dime la hora de madrid ahora mismo,0
+690,es demasiado fuerte disminuir el volumen,35
+692,cual este el nombre de esa canción que acaba de sonar,57
+693,acabo de pedir comida llame y vea que ha sido entregado,3
+694,mira el envío de mi pedido,3
+695,llama al restaurante para ver si el envío está de camino,3
+696,por favor ilumina la habitación,18
+698,que está pasando en el consejo,22
+699,cual es el informe del tiempo,13
+700,información de cómo está el tiempo,13
+701,chequea el tiempo,13
+703,quiero las luces menos brillante,31
+704,por favor luces menos brillantes,31
+705,dime algo gracioso,25
+706,quiero escuchcar cadena ser por favor,45
+709,consígueme las actualizaciones de las encuestas electorales,22
+713,puedes mostrarme las noticias de última hora de el país,22
+715,dame un periódico,22
+716,quiero saber las noticias de el mundo,22
+717,por favor léeme alguna de las últimas noticias de la voz de madrid,22
+719,hola,5
+720,hola,5
+721,crear una alarma mañana a las cuatro en punto de la mañana,48
+722,poner una alarma para levantarme en cinco horas,48
+723,programar una alarma para despertarme dentro de tres horas,48
+724,dime las estadísticas del tiempo para esta semana,13
+725,muestra el tiempo para la semana,13
+727,quiero escuchar las canciones de rosalía,45
+728,pon la canción de enrique iglesias después de esta,45
+729,pon las últimas canciones de selena gomez después de esta,45
+731,apaga las luces,18
+732,guarda mis preferencia de música,43
+733,guardar mis elecciones de música,43
+734,pon música que me ha gustado,45
+735,puedes por favor bajar tu volumen,35
+736,podrías por favor gritarme la respuesta,14
+739,cuál es la temperatura de hoy,13
+740,cómo de húmedo está el ambiente hoy,13
+742,pon todas las últimas canciones pop,45
+744,reproducir la lista de reproducción feliz a continuación,45
+745,que es popular,22
+746,consígueme los titulares más populares,22
+747,toca la canción de mi lista de trance,45
+748,por favor baja el volumen de esta canción,14
+749,suba el volumen para que pueda escuchar lo en otra habitación,14
+750,baja el volumen a diez por ciento,35
+752,silenciate hasta que te diga el contrario,46
+753,no hablar por un rato,46
+754,cambiar esta zona horaria a madrid,38
+755,cambia la hora a esta ubicación a madrid,38
+757,enciende el enchufe wemo para conectar mi cargador,24
+758,encender el enchufe wemo para conectar mi dongle,24
+759,encuentra la canción que está sonando ahora,57
+766,podrías por favor buscar mi nuevo proveedor de noticias para las últimas noticias,22
+769,dime las últimas noticias de deporte,22
+770,qué está sucediendo en el mundo en estos días,22
+771,dame las actualizaciones de t. v. e.,22
+772,cuáles son las noticias actuales en la vanguardia,22
+773,cómo están las actualizaciones de las últimas noticias en t. v. e.,22
+774,muéstrame las últimas noticias actualizadas de el mundo,22
+775,notificarme cuando trump esté en las noticias,22
+777,avísame cuando la tempertura fuera alcance veinte grados,13
+780,escucha macarena de los del rio,45
+784,pon todas las canciones de rock,45
+785,agregar tu forma a la cola actual,45
+786,oye como estas,5
+787,cómo está el tiempo hoy,13
+788,cuál es la temperatura ahora mismo,13
+789,cómo estuvo el tiempo esta semana,13
+791,dime la temperatura más alta esta semana,13
+792,está siendo el verano,13
+793,qué probabilidad hay de que granice esta semana,13
+794,confirme la alarma para mañana por la mañana,23
+795,a qué hora está la alarma puesta mañana,23
+797,podrías recomendarme por favor un restaurante mexicano que haga comida para llevar,3
+798,qué restaurantes ofertan comida para llevar,3
+799,puedo hacer un pedido de comida para llevar a esta hora,16
+800,quiero saber las últimas noticias locales de la ciudad,22
+801,silenciar el sonido en los altavoces por favor,46
+802,ok google silencia el sonido de los altavoces por favor,46
+805,ok google baja todo el volumen de los altavoces por favor,35
+808,hacer café a las ocho de la mañana,56
+809,haz cafe al mediodia,56
+810,que dia del mes es,0
+811,reproducir nueva lista de reproducción de rosalía,45
+812,crear una nueva lista de reproducción de lady gaga,45
+813,pon rosalía y empieza con con altura,45
+814,abre la aplicación de rtve,22
+815,abre mi actualización de la mañana de el país,22
+816,ponme algo de musica,45
+818,ve a pandora y encuentra julio iglesias en la radio por favor,45
+819,busca en google música de rafael para escuchar,45
+820,aumenta el volúmen,14
+821,pon la playlist en modo aleatorio,28
+822,deja de repetir esta canción,28
+823,cómo está el tiempo donde estoy hoy,13
+824,ok google cómo estará el tiempo donde estoy hoy,13
+825,dime el pronóstico de siete días para mi localización por favor,13
+828,pon la playlist de lo más nuevo de rafael,45
+829,reproduce la playlist lo nuevo de melendi,45
+830,oye hace demasiado calor fuera qué temperatura hará esta tarde,13
+831,oye google hace demasiado calor fuera qué temperatura hará esta tarde,13
+833,va a nevar este fin de semana aquí,13
+834,dime las últimas noticias de r. t. v. e. deporte,22
+836,qué es el último chisme de holywood pasando,22
+838,cancelar llamadas de despertador para esta semana,52
+839,quitar alarma despertador para esta semana,52
+840,pide una pizza para recoger del domino's pizza a las siete de la tarde,16
+841,hacer pedido de pizza para llevar a las siete de la tarde,16
+842,programa una pizza para llevar a las siete de la tarde,16
+844,enciende el robot aspiradora,34
+845,qué alarmas están puestas justo ahora,23
+846,lo que alarmas me despertarán mañana,23
+847,hay alguna alarma activada ahora mismo,23
+848,me encantaría un chiste,25
+849,dame un chiste,25
+850,una broma por favor,25
+852,enciende las luces,18
+853,luces más brillante,18
+854,pon música flamenco,45
+855,pon flamenco,45
+856,música de sevillanas,45
+857,atenua luces,31
+859,prevision de tiempo,13
+860,el tiempo de hoy,13
+863,mis alarmas,23
+865,robot limpia toda la casa ahora,34
+867,apaga enchufe inteligente,8
+868,apaga el enchufe wemo,8
+869,guardar opinión,43
+871,añadir opinión,43
+872,apaga la luz en la habitación,40
+873,apaga la luz en la cocina,40
+874,cambia la luz a apagado en el cuarto,40
+875,pon con altura de rosalia para mi,45
+876,pon melendi para mi,45
+877,pedido de comida por glovo,16
+878,pedir comida por glovo,16
+879,que hora es en pamplona españa,0
+880,que hora es en barcelona españa,0
+881,que hora es en honolulu,0
+882,noticias r. t. v. e.,22
+883,noticias de un periódico de mi comunidad autónoma,22
+886,dime que hora es ahora mismo,0
+888,qué hora es en este momento,0
+889,toca algunas canciones para mí,45
+890,pon algo de música tranquila para mí,45
+892,quiero escuchar algunas canciones,45
+893,pon música ahora,45
+894,apaga la alarma para mañana por la mañana,52
+898,poner las luces azules a las tres de la tarde,1
+899,dame un tono de luces lavanda,1
+900,hazme saber alguna actualización sobre nombramientos del gabinete de rajoy,22
+902,haz una lista de reproduccion de leiva,45
+903,encuentra nueva música de jbalvin para mí,45
+904,cuál será el tiempo la semana que viene,13
+905,como estará la temperatura la semana que viene,13
+907,puedes encender la aspiradora,34
+908,por favor configure la aspiradora para que comience a funcionar ahora,34
+909,que hora es en nueva york,0
+910,que hora es ahora mismo en nueva york,0
+911,dime la hora local en madrid,0
+912,pon mi emisora de pandora favorita,36
+913,pon pandora,36
+915,apaga las luces de mi habitación,40
+916,por favor dime que hora es,0
+917,quitar mi alarma de la mañana,52
+918,por favor borra mi alarma de la mañana,52
+919,olly por favor borra mi alarma por la mañana,52
+922,reproducir música de mi emisora favorita de artistas de pandora,45
+923,tocar música de un artista dado,45
+924,baja las luces un poco,31
+926,baja las luces un poco más,31
+927,quien canta esta canción,57
+928,cuál es el nombre de esta canción,57
+929,cómo se llama el cantante,57
+930,repite esta canción,28
+932,por favor guarda esta canción,43
+933,haz esta mi favorita,43
+934,cambiar el volumen de los altavoces,29
+935,pueeds encender pandora,36
+941,pon mi alarma por favor,48
+942,que hora es en madrid ahora mismo,0
+945,animar a las estudiantes,12
+946,diseño descentralizado,12
+947,siguiente escenario para responder preguntas,22
+948,me gusta la canción de fondo,43
+949,esa canción de fondo es irritante,7
+950,cómo está el tiempo en madrid,13
+952,hace mal tiempo en nueva york en este momento,13
+953,puedes apagar mis altavoces por favor,46
+954,sonido apagado,46
+955,poner la alarma para las cinco en punto de la mañana,48
+956,poner mi alarma mañana a las seis y media de la mañana,48
+957,quiero la alarma activada a las seis,48
+958,preguntar por esta tecnología,34
+959,robot a través del bluetooth deshabilita los dispositivos,34
+960,por favor enciende las luces,18
+961,por favor sube el brillo de este cuarto,18
+963,atenúa las luces por favor,31
+965,el jardín de pekín hace pedidos para llevar,3
+968,enseña noticias recientes sobre un tema específico,22
+970,noticias recientes de un tema particular,22
+971,cuáles son las noticias de hoy,22
+972,qué hay para mañana,22
+973,cuáles son las últimas noticias,22
+976,que hora es en madrid,0
+977,por favor apaga las luces en este cuarto,40
+978,por favor apaga las luces,40
+979,por favor sube la música,14
+980,está muy alto por favor puedes bajar la música,35
+981,sube el volumen al máximo,14
+982,cambia el color de las luces de mi casa de blanco a amarillo,1
+983,cambia el color de las luces de mi dormitorio a rojo,1
+985,noticia de hoy en el mundo,22
+986,noticias actuales del mundo,22
+987,noticias del mundo rtve,22
+988,noticias del mundo,22
+989,enséñame un chiste divertido,25
+990,pon si por mi fuera después de esta canción,45
+991,cuando acabe esta canción pon hotel california,45
+992,después que esta canción termine quiero escuchar me cole en una fiesta,45
+993,jugar irene de tobymac,45
+994,pon via tobella de rosalia,45
+995,quiero escuchar a lolita,45
+996,busca cuatro rosas y ponla,45
+998,apaga la luz de este cuarto,40
+1000,apaga mi enchufe inteligente,8
+1001,por favor enciende mi enchufe inteligente,24
+1002,borrar mi alarma de las ocho de la mañana,52
+1003,borrar mi alarma para mañana por la mañana,52
+1004,por favor apagar mi alarma para esta tarde,52
+1005,jugar hopsin de mi última lista de reproducción,45
+1006,quiero escuchar extremoduro en mi playlist de rock,45
+1008,va a estar el tiempo mal el domingo,13
+1009,cómo va a estar el tiempo este fin de semana,13
+1010,muéstrame las noticias de hoy de el pais,22
+1011,quiero escuchar las noticias en europa press,22
+1013,cuántas horas de diferencia hay entre hong kong y la ciudad de nueva york,38
+1017,por favor abra la aplicación de noticias,22
+1018,cómo estará el tiempo hoy,13
+1019,va a nevar hoy,13
+1020,cómo está el tiempo ahora mismo,13
+1021,hay algún rap que no involucre dinero sexual y drogas,57
+1022,en toda la música clásica alguna vez hay cantantes,57
+1024,quiero saber si el mcdonalds hace envíos para llevar,3
+1025,dime si el jardín de paco comida para llevar,3
+1026,por favor enseñame que dia es hoy,0
+1028,por favor baja las luces,31
+1029,es demasiado brillante aquí atenúa las luces,31
+1031,atenuar las luces del salón,31
+1032,cambiar las luces de la sala de medios de comunicación de morado a verde,1
+1033,haz que las luces sean más brillantes en el frente del porche,18
+1034,toca la música de rosalía,45
+1035,tócame la última canción de rosalía,45
+1036,está mi alarma de trabajo puesta para mañana,23
+1037,qué alarmas tengo puestas para el jueves,23
+1039,qué noticias tienes hoy,22
+1040,qué hay en el rtve,22
+1041,que hay en las noticias de hoy,22
+1044,cuál es la mejor pizza cerca de mi que entrega,16
+1045,puedes tocar los instrumentales de,45
+1046,puedes poner canciones sobre ruptura,45
+1049,cambia la configuración de audio,29
+1050,apaga los graves del audio,35
+1052,cuál es la probabilidad de lluvia hoy,13
+1053,esta canción no es muy buena,7
+1054,por favor guarda esta canción en mis favoritos,43
+1055,no vuelvas a poner esta canción,7
+1056,encienda el robot aspirador trece horas hoy dia,34
+1057,quiero que el robot aspirador comience hoy a la una de la tarde,34
+1060,es necesario enchufar el robot aspirador,34
+1062,quiero tener notificaciones cada hora sobre noticias financieras,22
+1064,mostrar los ajustes de volumen,29
+1066,necesito ver la configuración del volumen,29
+1067,cómo activas el robot aspiradora,34
+1068,hay algo que deba saber antes de activar el robot aspirador,34
+1069,debo preocuparme por el robot aspirador al encenderlo,12
+1070,enciende las luces en el salón,18
+1073,apaga las luces en el salón,31
+1074,por favor baja las luces de techo,31
+1075,puedes apagar las luces en un veinte por ciento,31
+1077,diversion,45
+1078,triste,45
+1079,qué tiempo hará mañana en esta localización,13
+1080,dame la actualización del tiempo para mañana,13
+1081,enséñame la lista del tiempo para mañana,13
+1082,tu volumen es demasiado alto repíte lo más bajo,35
+1083,no puede escucharte repetir eso más fuerte,14
+1086,por favor para un rato,46
+1087,por favor pararte,46
+1088,callarte,46
+1089,enciende las luces por favor,18
+1091,por favor haz que las luces de la habitación sean más brillantes,18
+1092,ir a el país punto com,22
+1095,pon mi playlist de mañanas,45
+1096,reproducir la lista de reproducción previa al juego,45
+1097,pon mi playlist de música pop,45
+1099,cuándo es el próximo mes que tiene treinta y un días,0
+1100,cómo estás hoy,5
+1101,buenos dias,5
+1102,buenos dias,5
+1103,buenas tardes,5
+1104,cuál es el tiempo actual en bilbao,13
+1105,dime el pronóstico del tiempo en barcelona,13
+1106,quiero saber el clima en nashik,13
+1107,me gusta mucho ska music,43
+1109,encuentro la musica rap realmente agradable,43
+1110,pon la noche ed anoche de rosalia,45
+1111,pon la canción de el baile,45
+1112,pon princesas de pereza,45
+1113,guarda todas las canciones de malu,43
+1114,agrupa todas mis canciones de rosalia,45
+1116,pon playlist rafael,45
+1117,pon la lista de maroon five,45
+1118,por favor dime las últimas noticias sobre política,22
+1119,qué está pasando en política,22
+1126,dime la fecha,0
+1128,pon el último álbum en bucle,45
+1129,pon todas mis canciones favoritas,45
+1130,va a llover más tarde hoy,13
+1131,dime los niveles de humedad del centro hoy,13
+1132,pon alarma,48
+1133,poner alarma a las cinco y media de la mañana,48
+1134,alarma de encaje a las cinco en punto de la mañana,48
+1135,cuáles son las noticias esta mañana,22
+1136,cuáles son las últimas noticias del día,22
+1137,dime por favor los eventos actuales para el día,32
+1138,llame a domino's pizza y pedir a pizza para llevar,16
+1139,haz un pedido en la rodilla,16
+1140,pedir macarrones del mamma mia para llevar a casa,16
+1141,es ya el veintinueve,0
+1142,dime que día de la semana es,0
+1143,pon mi playlist de tristeza,45
+1145,por favor enciende mi aspiradora,34
+1146,activa el robot aspirador,34
+1147,enciende la aspiradora ahora,34
+1149,hora en madrid ahora,0
+1150,cual es la hora local en sevilla españa,0
+1152,usa la aspiradora en el pasillo,34
+1153,quita el polvo con la aspiradora,34
+1154,apaga las luces en la cocina,40
+1155,apaga las luces en el dormitorio,40
+1157,noticias principales del día internacional de la mujer,22
+1159,decir cosas graciosas,25
+1161,por favor configura el ecualizador en el modo fiesta,28
+1162,por favor pon todas las canciones con volumen alto y cambia los ajustes al modo de música pop,45
+1163,pon todas las canciones de rosalía,45
+1164,pon mi gran noche de rafael,45
+1165,tengo música de lady antebellum,57
+1166,olly me gustaría un espresso,56
+1167,me gustaría tomar un espresso,56
+1168,puedo por favor recibir un café americano,56
+1169,necesito un café,56
+1170,olly necesito cafe,56
+1171,pon mi playlist,45
+1172,reproducir la canción para mi,45
+1173,ajusta el sonido,29
+1174,da un sonido agradable,29
+1175,ajustar cómodamente el sonido,29
+1178,quién escribió la canción yo quiero bailar,57
+1181,busca nuevos artículos sobre abascal pero no de el país,22
+1183,borrar la de las doce de la noche,52
+1185,cuál es la última noticia local del área de marbella,22
+1186,hay un artículo sobre los osos polares,22
+1187,poner una cancion de disco,45
+1188,pon música melodía,45
+1190,es medianoche en andalucía que hora es en madrid,38
+1193,olly necesito escuchar maldición de nacho vegas ahora,45
+1194,juega a las riendas con sangre de slayer a las cinco de la mañana para asegurar de que realmente estoy despierto mañana,45
+1195,me encantaría escuchar cualquier canción que le haya dado cinco estrellas por malu,45
+1198,dime qué temperatura hacía en mi ciudad a las doce del medio día,13
+1199,di algo gracioso,25
+1200,di algo gracioso,25
+1203,comprueba el estado del tiempo de lugo para esta semana,13
+1204,pon si por mi fuera ahora,45
+1206,apagar mi alarma de las tres de la tarde,52
+1207,cancelar mi alarma de las tres de la tarde,52
+1208,encuentra un restaurante bonito para la cena,19
+1212,reproducir a imagine dragons,45
+1213,solo quiero luz azul,1
+1214,quiero una luz azul,1
+1218,cambia la iluminación a azul,1
+1219,activar spotify aleatorio,28
+1220,repite esta cancion cuando termine,28
+1221,por favor pon con altura de rosalia,45
+1226,dime la fecha del lunes de la tercera semana de este mes,0
+1228,léeme el artículo más reciente sobre el nuevo sistema solar,22
+1229,encuéntrame las últimas noticias sobre la política estadounidense,22
+1230,pídeme una pizza grande de jamón y aceitunas del domino's pizza,16
+1231,puedes indicarme el menú de la comida china para llevar más valorada cerca de mí,16
+1232,dame opciones de comida india para llevar en dólares,16
+1233,que hora es en madrid ahora,0
+1235,que hora es en singapur cuando nuestra hora son las cinco de la tarde,38
+1236,puedes por favor cambiar el estilo de la luz,1
+1237,por favor ajusta los colores de mis luces,1
+1239,shazaam,45
+1240,spotify,45
+1242,hola que hora es ahora,0
+1243,encuentra un chiste en tu cuarto y cuentamelo,25
+1244,me gusta el color rojo para mi casa cámbialo,1
+1245,pon la luz en color rojo,1
+1246,es mr. pizza en saltear los platos,3
+1248,puedes decirme la fecha de hoy,0
+1250,hay alguna posibilidad de lluvia esta semana,13
+1251,por favor infórmame del tiempo de esta semana,13
+1253,por favor dime la hora,0
+1254,cuál fue la temperatura de madrid esta mañana,13
+1255,danos las noticias sobre la eleccion del presidente,22
+1258,dame el detalle del tiempo del quince de marzo,13
+1260,quiero decir algo sobre esta canción,43
+1261,esta canción es genial,43
+1262,cuando está ajustada mi alarma,23
+1263,cuántas alarmas tengo,23
+1267,dime la hora actual en hora centro,0
+1269,que esta pasando en el mundo ahora mismo,22
+1270,cuales son las noticias,22
+1273,caerá de domingo el cinco de diciembre,0
+1274,puedes confirmar que mi reunión de mañana ha sido cancelada,32
+1275,por favor hazme un café rico,56
+1284,cambia esta hora por i. s. t.,38
+1285,quiero la hora exacta en washington ahora mismo,0
+1286,cuál sería la hora ahora en barcelona,0
+1287,cuál es la hora actual,0
+1288,puedes decirme la hora actual,0
+1289,quiero escuchar las canciones de arijit por favor sintoniza eso,45
+1290,enciende el enchufe,24
+1291,apaga el enchufe,8
+1292,enciende el enchufe,24
+1296,consígueme las noticias sobre la reunión de hoy,22
+1297,más alto,14
+1298,olly más alto,14
+1299,lento,14
+1302,el presidente español pedro sánchez está visitando algún país ahora,22
+1303,cuál es la politica economica de trump,22
+1304,hola siri que día es hoy,0
+1305,oye que fecha es hoy,0
+1306,puedes decirme que día es hoy,0
+1307,clima de hoy,13
+1309,cómo va a estar el tiempo hoy,13
+1311,cual es la diferencia horaria entre aqui y ottawa,38
+1313,cómo está el pronóstico del tiempo para hoy,13
+1314,se supone que el tiempo va a estar agradable hoy,13
+1315,oye puedes hacer que sea azul aquí,1
+1316,haz que las luces sean azul aquí,1
+1317,pon musica para mí,45
+1319,toca una canción de tu elección para mí,45
+1320,olly cuál es el tiempo hoy,13
+1321,cómo está el tiempo hoy,13
+1322,obtener el tiempo de hoy,13
+1323,por favor aumente el volumen,14
+1324,oye ese restaurante hace envíos,3
+1325,este restaurante hace pedidos por teléfono,3
+1326,permite ese restaurante pedidos para llevar,3
+1328,cómo está el tiempo hoy,13
+1329,esta el clima normal hoy,13
+1330,cuál es el nombre de esta canción,57
+1331,de quién es esta canción,57
+1332,donde puedo yo encontrar esta canción,57
+1335,a mi me gusta la música de alejandro sanz ponla,43
+1338,qué alarmas tengo programadas para mañana,23
+1339,qué alarmas están puestas para la mañana,23
+1340,es el dieciocho un lunes o domingo,0
+1341,que dia es pascua,0
+1342,esa canción es mi favorita,43
+1343,poner vieja música clásica,45
+1344,intenta poner música clásica de los noventa,45
+1345,cincuenta mil doscientos y diecisiete,0
+1347,ciento cincuenta mil doscientos diecisiete,0
+1348,puedes decirme la hora actual,0
+1350,cuál es el tiempo esta semana,13
+1353,quiero bajar mi altavoz,35
+1355,sistema por favor baja las luces a azúl opaco,31
+1356,por favor cambia el color de la luz a morado,1
+1358,prepárate necesito mi pista de música,45
+1359,reproducir pista de música de paseo,45
+1362,enciende el enchufe,24
+1363,haz que el enchufe esté disponible para mí,24
+1364,mantenga el enchufe en condición de apagada,8
+1366,sube un poco el volumen,14
+1367,bajar el volumen,35
+1368,apaga las luces,31
+1369,puede jugar a las noticias de las rtve para mí,22
+1370,dime las noticias de ahora de veinticuatro horas t. v. e.,22
+1373,podrías hablar,14
+1375,puedes hablar más alto,14
+1376,por favor apaga la luz del baño,40
+1378,alexa el jardín panda hace entregas,3
+1381,sube el volumen de la música,14
+1382,pon música en aleatorio,45
+1384,qué fecha es el tercer viernes de este mes,0
+1386,cual era la fecha hace dos miércoles desde hoy,0
+1388,olly va a llover el sábado,13
+1389,qué tiempo hará el sábado,13
+1390,olly cómo va a estar el tiempo el sábado,13
+1391,olly va a hacer buen tiempo el sábado,13
+1392,oye que pasa,5
+1393,hora,0
+1394,que hora es ahora,0
+1395,cuanto tiempo en el reloj,0
+1396,pon música de taylor swift,45
+1397,pon taylor swift,45
+1398,reproducir música de taylor swift,45
+1399,yo siempre presto atencion,13
+1402,por favor pon algo de jazz,45
+1403,cuáles son los veinte mejores éxitos del jazz,45
+1405,cuánto calor hace ahora mismo en madrid,13
+1407,pon run,45
+1408,pon sanam,45
+1409,toca sholay,45
+1410,hazme un poco de cafe,56
+1411,olly haz me algo de cafe,56
+1412,puedes hacerme un poco de café,56
+1414,necesito un poco de café hecho olly,56
+1415,quiero pedir algo de comida,16
+1417,sitios para hacer pedidos de comida para llevar,16
+1418,por favor ilumina las luces,18
+1419,más luz por favor,18
+1420,por favor dime que hora es,0
+1421,quién canta esta canción,57
+1422,por favor guarda esa canción,43
+1424,hágame saber sobre las noticias de las elecciones,22
+1426,cambia las luces a azul,1
+1429,haz una lista de reproducción de todas las canciones de justin bieber con shuffle,45
+1431,pon la ultima cancion de extremoduro,45
+1432,por favor sube el volumen,14
+1433,por favor baja el volumen,35
+1434,control del volumen por favor,29
+1435,dime la hora de madrid,0
+1436,qué alarmas tengo,23
+1437,déjame ver mis alarmas,23
+1438,qué alarmas tengo yo,23
+1439,descarga las últimas canciones populares con una calificación de cuatro estrellas o superior y reprodúzcalas todas sin reproducción aleatoria,45
+1441,reproducir todas las canciones de indie pop,45
+1443,calla,46
+1444,silencio,46
+1445,silencio,46
+1447,reproducir música de kate perry sin mezclar,45
+1448,cuando es halloween,0
+1450,enciende las luces,41
+1451,adapta la luz,1
+1453,cambia los ajustes semanal de la alarma,52
+1455,tiempo,13
+1456,como esta fuera,13
+1457,cómo está el tiempo en madrid,13
+1459,pedir una pizza grande de pepperoni del domino's pizza,16
+1460,me gustaría pedir un bocadillo vegetal con galletas del subway,16
+1461,haz un pedido para llevar de hamburguesa de queso con patatas fritas del burger king,16
+1462,sigue las noticias de la campaña de vox,22
+1463,notifícame con actualizaciones de las noticias sobre españa,22
+1464,dame actualizaciones sobre la situación en españa,22
+1465,lloverá el viernes,13
+1469,pon beso de una rosa,45

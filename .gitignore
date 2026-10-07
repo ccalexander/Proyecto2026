@@ -1,0 +1,22 @@
+# Modelos pesados y checkpoints de Hugging Face
+models/
+*.bin
+*.safetensors
+*.pt
+*.pth
+
+# Arreglos grandes de Numpy y temporales
+*.npy
+*.csv.bak
+
+# Entornos virtuales y cachés de Python
+venv/
+env/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# Archivos del sistema operativo o IDEs
+.DS_Store
+Thumbs.db
+.vscode/
