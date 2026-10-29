@@ -55,3 +55,23 @@ Un `while` con n iteraciones y trabajo constante por nodo (imprimir). Θ(n).
 Conclusión: la lista enlazada evita reservar memoria contigua y redimensionar,
 pero la búsqueda por id es lineal. Esto justifica el índice ABB/AVL del
 pipeline de inferencia, que reduce la búsqueda por clave a O(log n).
+
+---
+
+# Complejidad: ColaInferencia y PilaHistorial
+
+La cola mantiene referencias a `frente` y `fin`; la pila, solo a `tope`. Por eso
+ninguna operación necesita recorrer la estructura, salvo `recorrer()`.
+
+| Operación                      | Cola       | Pila       | Justificación |
+|--------------------------------|------------|------------|---------------|
+| `encolar(s)` / `apilar(p)`     | O(1)       | O(1)       | Enlaza un nodo en `fin` (cola) o en `tope` (pila). |
+| `desencolar()` / `desapilar()` | O(1)       | O(1)       | Avanza `frente` o `tope` una posición. |
+| `frente()` / `tope()`          | O(1)       | O(1)       | Lee la referencia, no recorre. |
+| `estaVacia()` / `cantidad()`   | O(1)       | O(1)       | Compara con null / lee el contador. |
+| `recorrer()`                   | O(n)       | O(n)       | Visita cada nodo una vez. |
+
+Espacio: O(n) por los nodos; las operaciones usan O(1) de espacio adicional.
+
+La cola necesita la referencia `fin` para que `encolar` sea O(1); sin ella
+habría que recorrer toda la lista (O(n)) para llegar al último nodo.
