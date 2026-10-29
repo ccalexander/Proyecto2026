@@ -75,3 +75,44 @@ Espacio: O(n) por los nodos; las operaciones usan O(1) de espacio adicional.
 
 La cola necesita la referencia `fin` para que `encolar` sea O(1); sin ella
 habría que recorrer toda la lista (O(n)) para llegar al último nodo.
+
+---
+
+# Complejidad: ABB y AVL (índice por id)
+
+Sea **n** la cantidad de predicciones y **h** la altura del árbol.
+
+| Operación            | ABB (mejor / promedio) | ABB (peor caso) | AVL (todos los casos) |
+|----------------------|------------------------|-----------------|-----------------------|
+| `insertar`           | O(log n)               | O(n)            | O(log n)              |
+| `buscar` / `existe`  | O(log n)               | O(n)            | O(log n)              |
+| `eliminar`           | O(log n)               | O(n)            | O(log n)              |
+| `altura()`           | O(n)                   | O(n)            | O(1)                  |
+| `ids()` / `recorrer` | O(n)                   | O(n)            | O(n)                  |
+| `esAVLValido()`      | -                      | -               | O(n)                  |
+
+## Justificación
+- Cada operación sigue un único camino desde la raíz, así que cuesta O(h).
+- **ABB:** h depende del orden de llegada. Con ids ya ordenados el árbol se vuelve
+  una lista y h = n, es decir O(n). Medido en las pruebas con 1000 ids ordenados:
+  **altura 1000**.
+- **AVL:** el balance garantiza h <= 1.44 · log2(n + 2), por lo que todo cuesta
+  O(log n). Medido con los mismos 1000 ids ordenados: **altura 10**.
+- Las rotaciones son O(1) (solo reasignan referencias). Insertar necesita a lo
+  sumo una rotación simple o doble; eliminar puede necesitar una por nivel, es
+  decir O(log n) en total, sin cambiar el orden de crecimiento.
+- `insertar` y `eliminar` llaman primero a `existe` (O(log n)) para validar la
+  precondición; esto no cambia el orden de complejidad.
+
+## Espacio
+O(n) por los nodos. Las operaciones son recursivas, con profundidad h:
+O(log n) de pila en el AVL y O(n) en el peor caso del ABB.
+
+## Comparación con la lista enlazada
+| Estructura                  | Buscar por id |
+|-----------------------------|---------------|
+| Lista enlazada              | O(n)          |
+| AVL                         | O(log n)      |
+
+Con n = 1,000,000 predicciones, buscar en la lista requeriría hasta un millón de
+comparaciones, y en el AVL cerca de 20.
