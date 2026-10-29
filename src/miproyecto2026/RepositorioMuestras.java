@@ -1,13 +1,6 @@
+
 package miproyecto2026;
 
-/**
- * TAD RepositorioMuestras implementado con lista simplemente enlazada.
- *
- * Invariantes:
- *  - cantidad >= 0
- *  - los IDs son unicos
- *  - cantidad == 0  <=>  inicio == null
- */
 public class RepositorioMuestras {
     private Nodo inicio;
     private int cantidad;
@@ -25,7 +18,6 @@ public class RepositorioMuestras {
         return this.cantidad;
     }
 
-    /** Pre: m != null y no existe m.id. Post: existe(m.id), cantidad' = cantidad + 1. */
     public void insertar(Muestra m) {
         if (m == null) {
             throw new IllegalArgumentException("La muestra no puede ser null");
