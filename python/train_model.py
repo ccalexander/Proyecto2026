@@ -55,3 +55,4 @@ print("6. ¡Iniciando el entrenamiento activo! Observa la consola:")
 trainer.train()
 
 print("¡Entrenamiento finalizado y pesos actualizados con éxito!")
+trainer.save_model("models/intent_classifier")
