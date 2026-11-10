@@ -116,3 +116,52 @@ O(log n) de pila en el AVL y O(n) en el peor caso del ABB.
 
 Con n = 1,000,000 predicciones, buscar en la lista requeriría hasta un millón de
 comparaciones, y en el AVL cerca de 20.
+
+---
+
+# Complejidad: arreglos 1D y matriz de confusión 2D
+
+Sea **n** la cantidad de registros del lote y **k** la cantidad de clases (60 en
+MASSIVE completo; menos si el subconjunto de entrenamiento no las cubre).
+
+## ResultadosLote (arreglos 1D `real[]`, `pred[]`, `score[]`)
+
+| Operación                            | Complejidad | Justificación |
+|--------------------------------------|-------------|---------------|
+| `agregar`, `getReal/getPred/getScore`| O(1)        | Acceso directo por posición. |
+| `accuracy`, `scorePromedio`, `scoreMinimo/Maximo`, `scorePromedioSegunAcierto` | O(n) | Un recorrido lineal. |
+| `conteoPorClase(k)` (histograma)     | O(n + k)    | Recorre los n registros y crea un arreglo de k contadores. |
+| `indicesBajaConfianza`               | O(n)        | Un recorrido; se usa un arreglo temporal de n posiciones. |
+
+Espacio: O(n) por los tres arreglos de tamaño fijo. Los arreglos paralelos
+permiten recorrer por tipo de dato con buena localidad de memoria.
+
+## MatrizConfusion (arreglo 2D `int[k][k]`)
+
+| Operación                    | Complejidad | Justificación |
+|------------------------------|-------------|---------------|
+| `registrar(i, j)`            | O(1)        | Incrementa una celda. |
+| `registrar(String, String)`  | O(k)        | Busca dos etiquetas en el arreglo de etiquetas (búsqueda lineal). |
+| `aciertos`, `soporte(i)`, `precision(i)`, `recall(i)`, `f1(i)` | O(k) | Suman la diagonal, una fila o una columna. |
+| `f1Macro`                    | O(k²)       | Llama a `soporte` y `f1` para cada una de las k clases (cada una cuesta O(k)). |
+| `masConfundidos(top)`        | O(top · k²) | Cada selección recorre todas las celdas. |
+| `guardarCSV`                 | O(k²)       | Escribe las k² celdas. |
+
+Espacio: **O(k²)** enteros. Con k = 60 son 3600 celdas, que es despreciable;
+con k de miles de clases la matriz se volvería el cuello de botella y habría que
+usar una representación dispersa.
+
+**Interpretación:** la celda `m[i][j]` cuenta cuántas veces una muestra de la clase
+real *i* fue predicha como *j*. La diagonal son los aciertos; fuera de la diagonal
+están los errores. Precisión = diagonal / suma de la columna; recall = diagonal /
+suma de la fila.
+
+## Pipeline completo
+`PipelineEvaluacion.ejecutar` cuesta, para n predicciones:
+- Cargar la lista enlazada de m muestras: O(m²), porque cada inserción valida
+  unicidad con una búsqueda lineal.
+- Encolar y desencolar n solicitudes: O(n).
+- Insertar en el AVL: O(n log n).
+- Apilar en el historial y llenar la matriz y los arreglos: O(n) (más O(k) por
+  búsqueda de etiqueta).
+- Total dominado por O(m² + n log n + n·k).
