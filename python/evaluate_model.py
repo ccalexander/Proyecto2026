@@ -50,6 +50,8 @@ plt.xlabel("Predicción")
 plt.ylabel("Valor Real")
 
 import os
-os.makedirs("models", exist_ok=True)
-plt.savefig("models/confusion_matrix.png")
-print("\n¡Matriz de confusión guardada con éxito en models/confusion_matrix.png!")
+model_path = "models/intent_classifier"
+checkpoints = [os.path.join(model_path, d) for d in os.listdir(model_path) if d.startswith("checkpoint-")]
+latest = max(checkpoints, key=os.path.getmtime)
+print(f"Cargando checkpoint: {latest}")
+model = AutoModelForSequenceClassification.from_pretrained(latest)
