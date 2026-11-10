@@ -5,20 +5,28 @@ models/
 *.pt
 *.pth
 
-# Arreglos grandes de Numpy y temporales
+# Arreglos grandes de NumPy y temporales
 *.npy
 *.csv.bak
 
 # Entornos virtuales y cachés de Python
 venv/
+.venv/
 env/
 __pycache__/
 .ipynb_checkpoints/
 *.pyc
 
-# Archivos del sistema operativo o IDEs
+# NetBeans / Ant (nbproject/private contiene rutas locales)
+nbproject/private/
+/build/
+/dist/
+*.class
+
+# Logs y archivos del sistema operativo o IDEs
+*.log
+hs_err_pid*
 .DS_Store
 Thumbs.db
 .vscode/
-/build/
-models/
+.idea/
