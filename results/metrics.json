@@ -1,8 +1,8 @@
 {
   "split": "validation",
   "checkpoint": "models/intent_classifier/checkpoint-375",
-  "n_evaluadas": 497,
-  "n_omitidas_intent_no_vista": 3,
-  "accuracy": 0.7686,
-  "f1_macro": 0.4696
+  "n_evaluadas": 2033,
+  "n_omitidas_intent_no_vista": 0,
+  "accuracy": 0.4737,
+  "f1_macro": 0.2389
 }

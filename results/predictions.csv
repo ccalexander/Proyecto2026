@@ -1,498 +1,2034 @@
 id,utt,intent_real,intent_pred,score
-11,apaga las luces por favor,40,40,0.482709
-17,atenua las luces en el pasillo,31,31,0.247181
-24,oscurece la habitación,31,34,0.11667
-26,limpia el piso,34,34,0.381364
-30,limpiar es bueno el polvo es tan malo haz ahora tu magia limpia mi alfombra,34,34,0.123578
-42,dame el estado de mi memoria disponible,12,13,0.283984
-53,lista de las opciones de entrega de comida china más valoradas,3,3,0.47432
-58,encontrar mi comida para llevar tailandesa alrededor del centro,3,3,0.352265
-67,me gustaría escuchar barcelona de queen,45,45,0.94144
-68,ponme barcelona por queen,45,45,0.936608
-74,cuál es el grupo que está sonando ahora mismo,57,57,0.45186
-90,qué hay en mi pedido de la cena,3,3,0.417462
-99,cuál es el pronóstico del tiempo para la semana,13,13,0.951116
-107,pon duele como el cielo,45,45,0.30253
-109,ponte reina caníbal,45,45,0.816774
-112,pon algo de david bowie,45,45,0.912017
-113,pon en bucle esta canción,28,45,0.936357
-115,pon el volumen a bajo,35,14,0.2506
-127,qué día es hoy,0,0,0.891247
-138,que cancion es esa,57,57,0.298441
-147,me gusta escuchar jazz,45,45,0.913158
-148,me gusta escuchar jazz,45,45,0.913158
-167,oye oye,5,25,0.205018
-173,pon alarma mañana a las seis de la mañana,48,48,0.448404
-188,sube el volumen,14,14,0.285508
-217,está lloviendo afuera,13,13,0.946915
-229,que hora es en las palmas,0,0,0.874856
-230,qué hora es en madrid,0,0,0.883197
-232,poner una alarma a las seis de la mañana,48,48,0.482839
-237,configuré una alarma para despertarme por la mañana,23,48,0.355119
-242,que esta pasando en america,22,22,0.839658
-251,death metal ahora,45,45,0.906428
-271,qué hora es en madrid ahora,0,0,0.895461
-295,dime los titulares del periódico de hoy,22,22,0.935265
-298,pon chopin,45,45,0.938505
-311,que día es la resurreción este año,0,0,0.87569
-312,esta muy oscuro aqui,41,1,0.151608
-318,va a llover mañana,13,13,0.947756
-331,más suave,35,14,0.118499
-345,qué temperatura hará mañana,13,13,0.945776
-346,lo que es mañana las predicciones del tiempo,13,13,0.947712
-353,que día de la semana es veintidos de marzo,0,0,0.862551
-365,es hoy lunes,0,0,0.839818
-368,cómo está el tiempo en madrid capital,13,13,0.953005
-375,hace sol en mallorca ahora,13,13,0.861478
-387,avíseme tan pronto como haya más noticias sobre el brexit,22,22,0.947865
-388,apaga el enchufe inteligente,8,24,0.213281
-392,tocar una canción de mis favoritos,45,45,0.939022
-406,me gustaria escuchar música pop por favor,45,45,0.939885
-415,cambia las luces de mi habitación para que yo pueda dormir bien,1,1,0.364191
-431,qué tiempo hará el viernes,13,13,0.947344
-434,que día es hoy,0,0,0.895363
-439,debo ponerme una chaqueta hoy,13,25,0.227819
-444,deshabilitar la reproducción aleatoria,28,46,0.143491
-465,que fecha es,0,0,0.891987
-476,que cosas no puedes hacer,12,25,0.159577
-480,dime la hora,0,0,0.897852
-490,hace calor fuera,13,13,0.94571
-510,tengo alguna alarma programada,23,23,0.680632
-511,por extremoduro,13,46,0.181376
-516,silencia en la próxima hora por favor,46,46,0.568833
-517,pon mi canción favorita,45,45,0.942108
-523,esto es muy peligroso,13,13,0.219031
-532,por favor cuéntame algunas noticias internacionales,22,22,0.947986
-534,pon una alarma despertador a las diez de la mañana,48,48,0.445597
-536,poner una alarma a las tres de la tarde,48,48,0.483704
-538,pon una alarma a la una de la tarde,48,48,0.46452
-541,reproduce la canción inmediatamente,45,45,0.898815
-552,mándame al correo la letra de esta canción,57,43,0.304506
-562,deshacerse de mi alarma de las ocho a. m.,52,48,0.312576
-582,va a estar lloviendo mañana,13,13,0.946679
-595,por favor golpe maestro de vetusta morla,45,25,0.141671
-601,poner alarma,48,23,0.406612
-610,quiero levantarme mañana a las seis de la mañana por favor,48,48,0.278729
-616,solo reproduce canciones de mi lista de reproducción,45,45,0.936859
-617,qué día de la semana es acción de gracias,0,0,0.840716
-626,por favor déjame escuchar seiscientos sesenta y seis el número de la bestia,45,45,0.900266
-638,puedes buscar chistes de animales para mí,25,16,0.406758
-657,como es el estado del tiempo ahora,13,13,0.951999
-658,que hora es ahora en andalucía,0,0,0.8827
-676,fija la zona horaria,38,0,0.655571
-678,enciende la t. v. enchufe cuando llego a casa,24,24,0.299154
-682,sigue las noticias sobre la controversia de papeles de bárcenas en el futuro,22,22,0.94676
-689,baja el volumen,35,14,0.258831
-691,no puedo oir sube el volumen,14,14,0.267013
-697,puedes hacer mas brillante s las luces,18,31,0.213988
-707,quiero escuchar bruno mars ahora,45,45,0.937789
-708,quién está liderando la carrera de formula uno ahora mismo,22,22,0.29151
-710,prepara café,56,56,0.206042
-711,lee los titulares de la voz de madrid,22,22,0.701328
-718,puedo conocer las últimas noticias de c. n. n,22,22,0.948527
-737,puedes bajar el tono por favor,35,14,0.13179
-741,tocar canciones del género r y b y soul,45,45,0.934312
-756,puedes apagar el enchufe wemo,8,24,0.260642
-762,como estará el tiempo esta semana,13,13,0.953076
-763,cómo se supone que está el tiempo esta semana,13,13,0.952439
-776,dime si ocurre un terremoto en el mundo,22,13,0.657358
-778,jugar boogie in your butt por eddie murphy,45,45,0.827213
-803,ey olly silencia los altavoces,46,46,0.536485
-806,baje todo el volumen de los altavoces por favor,35,14,0.231335
-807,haz cafe ahora,56,56,0.43863
-817,ok google pon algo de música,45,45,0.945092
-835,cuál es el último cotilleo de marbella,22,22,0.463856
-851,sube el brillo de luces,18,18,0.193916
-885,alarma puesta ocho de la mañana,48,23,0.435847
-895,apagar la alarma de las seis de la mañana del miércoles,52,48,0.352295
-896,apaga mis alarmas de la mañana tras el viernes,52,23,0.37405
-906,mira el tiempo de la semana que viene por mi por favor,13,13,0.938478
-921,pon música de mi artista favorito,45,45,0.942046
-925,por favor baja las luces un poco,31,31,0.309081
-937,moviles,52,14,0.095193
-943,si son las ocho de la tarde en la costa este que hora es en palma mallorca,38,0,0.663362
-966,el rosario's acepta pedidos para llevar,3,3,0.396611
-975,puedes decirme que hora es en madrid,0,0,0.880014
-984,noticias actuales la sexta,22,22,0.949017
-1015,pon los titulares por favor,22,45,0.232719
-1016,cuáles son los titulares de el país,22,22,0.913973
-1023,mira si la enriquetta hace pedidos para llevar,3,16,0.378757
-1027,puedo saber la fecha de hoy,0,0,0.874626
-1038,está mi alarma de la escuela puesta,23,23,0.583375
-1051,cómo de caluroso se está fuera,13,13,0.858128
-1058,a la una de la tarde de hoy pon en marcha el robot aspirador,34,34,0.605342
-1085,buenos asistentes,22,22,0.122041
-1094,envíame las noticias actuales del día,22,22,0.948793
-1122,pon lady de kenny rogers ahora,45,45,0.92384
-1125,fecha de hoy,0,0,0.889912
-1177,cuál es la letra de la canción buleria de david bisbal,57,57,0.337512
-1179,nunca jamás me pongas country,7,45,0.296611
-1189,si son las diez p. m. en madrid qué hora es en tenerife,38,0,0.807651
-1192,necesito escuchar a buleria por parte de david bisbal ahora,45,45,0.926436
-1196,como está el tiempo hoy,13,13,0.950313
-1197,lloverá,13,13,0.91874
-1201,cuál es la hora actual en madrid,0,0,0.882173
-1210,pedir una comida de un buen restaurante,16,16,0.51276
-1211,convierte la hora de madrid en la hora de londres,38,0,0.758464
-1215,olly pon el salón azúl,1,45,0.317311
-1216,haz que la luz del salon sea azul,1,1,0.701735
-1222,por favor pon macarena,45,45,0.906787
-1223,cuál es la previsión del tiempo para el martes,13,13,0.949963
-1224,qué tiempo hará el lunes al mediodía,13,13,0.858787
-1225,qué será el día quince de marzo,0,0,0.841616
-1227,quiero la fecha del último lunes de este mes,0,0,0.85269
-1234,cuál es la hora en india cuando la hora en estados unidos es a las doce de la noche,38,0,0.843628
-1241,dime qué hora es,0,0,0.896023
-1257,encuéntrame el mejor chiste de toc toc en internet,25,45,0.804469
-1259,como estará el tiempo el lunes de esta semana,13,13,0.941256
-1271,qué está sucediendo en el mundo hoy,22,22,0.932739
-1272,que día es el cinco de diciembre,0,0,0.874735
-1277,oye,5,45,0.177113
-1295,quiero las noticias sobre los premios de la academia,22,22,0.947402
-1312,dime la hora actual en ottawa,0,0,0.891354
-1327,cómo va a estar el tiempo hoy,13,13,0.951529
-1333,hace calor hoy no es así,13,13,0.933817
-1334,hace mucho calor hoy no es así,13,13,0.937658
-1346,cien mil doscientas veintitrés,0,0,0.786299
-1349,cómo va a estar el tiempo esta semana,13,13,0.952054
-1357,cambia al ajuste de luz nocturna,1,1,0.499056
-1365,sube el volumen un poco,14,14,0.281689
-1380,puedo hacer un pedido para llevar al taco bell,3,16,0.566729
-1416,pídeme comida para llevar,16,16,0.47953
-1430,encontrar y poner en cola todas las canciones de kate perry y reproducir todo sin aleatorio,45,45,0.885351
-1446,haz una lista de reproducción de todas las canciones de eminem y juega con aleatorio,45,45,0.938354
-1466,va a nevar esta semana,13,13,0.936311
-1468,pon música,45,45,0.939364
-1478,buscar chistes nuevos,25,45,0.206813
-1525,quiero escuchar rock suave,45,45,0.944796
-1544,quiero escuchar música animada,45,45,0.940567
-1545,pon el top diez de billboard,45,45,0.932326
-1548,me puedes dar un pronóstico de diez días de mi zona,13,13,0.558648
-1557,dime el pronóstico del tiempo para esta semana por favor,13,13,0.951907
-1558,ponme algo de pop,45,45,0.94485
-1566,pon música de la playlist,45,45,0.939355
-1569,puedo tener un espresso por favor,56,16,0.366086
-1576,ollye enciende la aspiradora,34,34,0.621497
-1599,puedes encender la roomba,34,25,0.110975
-1615,envíame una alerta sobre todos los nuevos temas de política,22,22,0.538667
-1621,clasificación,43,45,0.229773
-1625,a. m. o p. m.,23,22,0.227767
-1637,cuáles son los últimos artículos de noticias de yahoo,22,22,0.947749
-1664,encuéntrame alguna noticia de muy limpio las últimas seis horas,22,22,0.936142
-1678,qué música está poniendo actualmente novecientos noventa y nueve f. m.,57,45,0.612511
-1680,sube el volumen de la música a noventa,14,14,0.286825
-1687,es un sí o no que la temperatura de mañana será cálida,13,13,0.909317
-1688,pronóstico del tiempo de esta semana,13,13,0.951489
-1696,quién es el artista de la canción que está sonando ahora,57,57,0.567869
-1698,no me gusta esta canción apágala,7,57,0.322862
-1702,de las diez a las once de la mañana todos los días pongo mi robot aspiradora,34,34,0.52963
-1726,cuál será la temperatura más alta la próxima semana,13,13,0.921571
-1732,comprueba que la alarma está puesta hoy a las diez de la mañana,23,23,0.462195
-1770,pon enrique,45,45,0.922191
-1771,jugar a rafael,45,45,0.678479
-1791,es posible que proporciones los gustos de mi música,57,43,0.25193
-1793,las últimas noticias sobre españa,22,22,0.946679
-1805,necesito un poco más de luces,18,31,0.241827
-1818,dime la hora actual,0,0,0.899107
-1823,mi cantante favorita es shakira,43,43,0.308597
-1827,qué está pasando en madrid,22,22,0.927697
-1834,pon mis canciones más escuchadas,45,45,0.946597
-1839,ve a youtube y ponme las mejores canciones de boda de la colección,45,45,0.928309
-1858,tráeme las noticias tecnológicas más actuales,22,22,0.948833
-1871,añade esa canción a mi lista de los diez favoritas,43,43,0.284641
-1877,esa canción era increíble puedes repetirla,43,43,0.306815
-1888,dame poca luz en la cocina,31,1,0.319295
-1894,guarda esa canción y mi opinion,43,57,0.446479
-1901,actualizarme con los resultados de las elecciones,22,22,0.883648
-1902,que dicen los analistas sobre las nuevas políticas de inmigración,22,22,0.938549
-1910,estado del pedido del restaurante,3,3,0.433412
-1914,avísame a las cinco horas,48,0,0.217561
-1925,enciende mi aspiradora robot de limpieza,34,34,0.601073
-1928,toca musica,45,45,0.91813
-1934,cuál es el grupo de fecha y hora actual,0,0,0.867582
-1943,comienza con la limpieza de la casa,34,34,0.349259
-1945,apaga la luz,40,40,0.534575
-1948,broma graciosa,25,25,0.510784
-1953,qué canción está sonando actualmente,57,57,0.506416
-1971,guarda la información proporcionada por aman en esta canción,43,22,0.235951
-1988,hey alexa enciende las luces de discoteca en mi piso y que empiece la fiesta,41,45,0.207567
-2003,por favor apaga,46,40,0.414684
-2006,por favor pon rap,45,45,0.936283
-2009,cómo estará el tiempo esta semana,13,13,0.953075
-2040,qué día tan soleado,13,0,0.860153
-2042,está la reunión programada para mañana,32,13,0.333705
-2058,está nublado hoy,13,13,0.935053
-2069,toca el botón de silencio,46,46,0.496403
-2073,pon una cover reciente de aitana,45,45,0.940288
-2088,vamos a oír algo de country y salsa que no sea de los estados unidos,45,45,0.744642
-2092,comprobar el título de la música que se está reproduciendo actualmente,57,45,0.265675
-2095,hace envíos a domicilio el dragón de oro,3,16,0.232704
-2103,reproducir mi última lista de reproducción usada,45,45,0.93477
-2112,dame la hora en madrid,0,0,0.886233
-2115,pon pop,45,45,0.936424
-2118,fija el ambiente por favor,1,13,0.238418
-2120,convierte las luces azul,1,1,0.686825
-2122,pon las luces del salón rojo,1,1,0.624683
-2125,olly dime el tiempo de cádiz,13,13,0.953577
-2140,siri que tiempo hace afuera,13,13,0.936811
-2144,que día era en mi fecha de nacimiento,0,0,0.881733
-2149,cual es el titulo de la canción que esta sonando,57,57,0.561428
-2154,puedes decirme que hora es,0,0,0.890696
-2157,clima el lunes,13,13,0.685243
-2158,tiempo el martes,13,13,0.880479
-2161,repetir canción,28,45,0.187362
-2179,me puedes decir las condiciones del tiempo ahora,13,13,0.949133
-2187,puedes por favor apagar la luz de mi dormitorio,40,40,0.48036
-2196,oye compárteme algún chiste para hacerme feliz,25,25,0.544441
-2200,cuántas semanas faltan para navidad,0,0,0.44223
-2211,tienes alguna noticia de los proveedores de noticias,22,22,0.947741
-2221,el tiempo en la casa de campo,13,13,0.951184
-2227,por favor convertir nueve de la mañana huso horario a madrid,38,0,0.388074
-2246,apaga la luz del armario,40,40,0.543858
-2259,pon david bisbal,45,45,0.935102
-2272,pon mis canciones de pop mejor valoradas por favor,45,45,0.939538
-2282,establece el color azul para todas las luces de mi casa,1,1,0.702224
-2303,soy para siempre del hip hop,43,45,0.270974
-2312,solo baja las luces a siete,31,31,0.272883
-2313,baja las luces a siete,31,31,0.283574
-2318,minimiza la potencia de la luz,31,40,0.194428
-2321,qué tiempo hará el siete,13,13,0.929182
-2323,silencia el altavoz por favor,46,46,0.518404
-2353,cuál es el nombre de la música que se está reproduciendo ahora,57,57,0.547665
-2360,sube el volumen,14,14,0.285508
-2364,que canción es esta,57,57,0.505498
-2392,quiero escuchar loco,45,45,0.939119
-2417,pon de manera aleatoria el álbum de canciones actual,28,45,0.60531
-2419,que actualizaciones de noticias hay en el pais,22,22,0.947449
-2420,que novedades hay en canal veinticuatro horas,22,22,0.617413
-2421,qué está pasando en el abc,22,22,0.92596
-2425,dime qué hora es,0,0,0.896023
-2428,dime que hora es en la india,0,0,0.891816
-2431,qué alarmas están surgiendo,23,23,0.692975
-2464,olly apaga las luces,40,40,0.447584
-2467,hay alguna manera de recibir las últimas noticias sobre pedro sánchez,22,22,0.94801
-2470,enciende las luces,41,31,0.205381
-2478,pide para llevar,16,16,0.334149
-2483,atenuarás todas las luces,31,31,0.258534
-2495,dame la noticia,22,22,0.925885
-2499,luces reducidas,31,1,0.190246
-2514,como está el tiempo esta semana,13,13,0.949767
-2515,dime el tiempo para esta semana,13,13,0.952124
-2518,hola cómo enciendo el robot aspirador,34,34,0.601231
-2520,por favor ayúdame a encender el robot aspiradora,34,34,0.621582
-2526,quiero escuchar algo de rock moderno,45,45,0.937764
-2538,cual es el estado de mi ultimo pedido,3,22,0.171958
-2544,como esta afuera,13,13,0.914007
-2553,que día de la semana es dia de san valentín,0,0,0.866229
-2558,dime el tiempo en málaga andalucía,13,13,0.952936
-2562,quiero algo de música qué tal si pones mi playlist de ejercicio,45,45,0.665914
-2563,pon una alarma para mañana por la mañana a las ocho,48,48,0.450935
-2576,por favor baja las luces de mi habitación,31,31,0.271801
-2582,dime el nombre del artista,57,57,0.390307
-2583,cuál es el nombre de la canción,57,57,0.575137
-2590,que pasa en las noticias internacionales de hoy,22,22,0.947637
-2598,cuáles son las últimas noticias internacionales,22,22,0.947947
-2599,me gustaria cafe ahora,56,56,0.39583
-2600,apaga mi lámpara de noche por favor,40,40,0.457027
-2620,por favor inicia aspiradora,34,34,0.582199
-2621,inicia la aspiradora ahora,34,34,0.590197
-2622,silencia todas las respuestas ahora,46,46,0.413538
-2623,por favor no hablar,46,14,0.166403
-2625,tenemos alguna novedad del nuevo proveedor,22,13,0.747644
-2641,qué hay de nuevo en el espacio en blanco,22,22,0.36032
-2643,pon adele,45,45,0.939888
-2649,cuál es el pronóstico del tiempo en barcelona,13,13,0.950578
-2654,nevará la semana que viene,13,13,0.617833
-2665,qué está haciendo con el tema de las personas sin hogar en el ayuntamiento de seattle sobre la falta de vivienda,22,22,0.856316
-2668,dime las noticias de el mundo,22,22,0.947957
-2672,cuántas alarmas tengo puestas para las horas de la mañana entre las seis y las nueve,23,23,0.453002
-2675,abre lista de reproducción,45,45,0.472628
-2687,confirmen el pedido,16,22,0.168327
-2693,prepárame una taza de café,56,56,0.378299
-2699,quiero escuchar rock,45,45,0.939352
-2701,ok google pon música rock,45,45,0.945778
-2710,corta la electricidad,40,13,0.328174
-2720,poner alarma a las cinco y media,48,48,0.435084
-2740,puedo recibir la entrega de este restaurante,3,3,0.4782
-2741,mi restaurante favorito hace pedidos para llevar,3,3,0.492494
-2742,ofertan para llevar,3,16,0.343709
-2749,poner en marcha la cafetera,56,16,0.413745
-2757,cuales son las noticias de política,22,22,0.947716
-2763,enseñame la hora,0,0,0.892248
-2769,pon música del género jazz,45,45,0.944886
-2783,que fecha cae el próximo sábado,0,0,0.879355
-2790,ganaron los españoles anoche,22,45,0.913359
-2797,silenciar el sonido de los altavoces,46,46,0.438139
-2810,iluminar las luces del salón,18,31,0.214393
-2814,haz algo de cafe,56,56,0.398667
-2821,cambia los colores de la luz de azul a blanco,1,1,0.694638
-2822,haz que las luces de la casa se pongan rojas,1,1,0.483857
-2825,en qué día cae el diez de abril,0,0,0.85039
-2834,por favor haz que la aspiradora funcione por una hora,34,34,0.599409
-2835,dime la fecha hoy,0,0,0.883803
-2841,ajusta las luces del salón a rojo,1,1,0.6191
-2844,cómo va el envío del restaurante,3,3,0.32571
-2846,escucha esta canción,57,45,0.859732
-2851,la pizzería juan tiene para llevar verdad,3,3,0.360302
-2863,cambia el color de la luz a azul,1,1,0.702035
-2869,dime mis alarmas,23,23,0.677806
-2879,por favor borra cualquier alarma que yo tenga activada,52,23,0.560943
-2886,por favor saca el artículo sobre cuidador de perro en la noticias de la mañana,22,22,0.94444
-2889,cómo está el tiempo aquí,13,13,0.952105
-2901,pide sandwiches de ensaladilla para llevar,16,16,0.59551
-2919,hay nuevos videos en youtube de el pais,22,22,0.505947
-2932,siguiente reproducción despacito,45,43,0.214232
-2935,reproducir mi lista de reproducción country,45,45,0.9384
-2936,pon mi segunda lista de reproducción,45,45,0.943232
-2943,cual es la cita de hoy,0,13,0.272581
-2946,alexa apaga el ventilador en la habitación principal,8,40,0.397231
-2949,alexa por favor guarda la canción actual en mis favoritas,43,43,0.308633
-2955,me encanta el hip hop,43,43,0.325795
-2963,por favor pon mi canción favorita de bruno mars,45,45,0.942912
-2971,por favor prepara el café,56,56,0.295077
-2978,baja las luces,31,31,0.309868
-2979,modo noche,31,13,0.835251
-2991,noticias de tecnología de última hora,22,22,0.947392
-2992,titulares de tecnología recientes,22,22,0.879946
-2993,pon la siguiente canción,45,45,0.937499
-3004,en qué año se creó la canción,57,57,0.533939
-3018,encuentra mi comida,3,3,0.21382
-3028,acumulación de predicciones de nieve en búfalo,13,13,0.12634
-3041,siri temas de noticias calientes de tendencias,22,22,0.947189
-3045,próxima alarma,23,23,0.637902
-3046,tengo muchas ganas de comida china ahora mismo por favor déjame pedir comida para llevar,16,16,0.361474
-3056,lo que es nuevo en la política de hoy puede filtrar noticias trump,22,22,0.946712
-3082,necesito dos pizzas,16,16,0.446702
-3088,pon una canción,45,45,0.937616
-3094,apaga la luz,40,40,0.534575
-3121,la temperatura del sur es soleada,13,13,0.895498
-3123,pon algo de música,45,45,0.945187
-3134,en qué lugares puedo pedir comida para llevar cerca,16,16,0.487402
-3139,baja tu volumen por favor,35,14,0.237323
-3148,a qué hora esta ajustada mi alarma de despertar,23,23,0.549329
-3149,tengo alguna alarma para mañana por la mañana,23,23,0.562375
-3151,eliminar mis alarmas tempranas,52,23,0.666483
-3160,reproducir lista de reproducción de música de canal clásico,45,45,0.940648
-3166,haz que esa canción suene a continuación,45,43,0.296693
-3177,cuál es el nombre del cantante de este grupo,57,57,0.564933
-3183,apagar,8,40,0.208723
-3194,siri pon mi playlist de pop,45,45,0.939693
-3200,dime si hay alguna nueva noticia sobre ese tema,22,22,0.937187
-3202,debieras saber que me gusta el jazz,43,43,0.310777
-3203,por favor revisa mi lista de reproducción,43,45,0.817426
-3242,puede poner la alarma para las diez y media,48,23,0.422859
-3248,cancelar alarma para mañana,52,23,0.285325
-3261,cuál es la hora central actual,0,0,0.885391
-3270,borrar alarmas para mañana,52,23,0.337475
-3281,olly baja las luces por favor,31,31,0.31125
-3285,lloverá mañana en madrid,13,13,0.939878
-3287,qué hora es en madrid,0,0,0.883197
-3293,cuanto tiempo de diferencia hay entre la hora este y la hora pacífico,38,0,0.752968
-3296,hace el restaurante chino cercano entregas,3,3,0.479045
-3309,cómo está el tiempo en barcelona,13,13,0.952141
-3340,ok google que tiempo hace,13,13,0.913639
-3377,bajar la iluminación,31,31,0.182528
-3394,por favor enciende el enchufe de mi wemo,24,24,0.358914
-3402,qué tiempo hará la semana que viene,13,13,0.923458
-3404,cómo repetir esta canción,57,57,0.337961
-3421,que musica es,57,57,0.33672
-3437,sube las luces por favor,18,31,0.237139
-3439,pon una playlist romántica,45,45,0.940235
-3443,en qué día de la semana cae el diez de este mes,0,0,0.830425
-3454,ve a dormir,46,40,0.114033
-3463,me gustaría una alarma despertador mañana a las siete de la mañana,48,48,0.380745
-3464,por favor enciende todas las luces de fuera,41,18,0.214995
-3466,aumenta el volumen por favor,14,14,0.25864
-3471,consigue las noticias actuales sobre el cese del gobierno,22,22,0.94756
-3496,pon música de los beatles,45,45,0.941291
-3511,noche,12,13,0.823923
-3528,consígueme comida para llevar,16,16,0.349541
-3530,pon algo romantico,45,45,0.904581
-3547,hará bueno en la playa el viernes,13,13,0.19796
-3551,reproducir el cuarto álbum de afi,45,45,0.933754
-3563,por favor házme un café,56,56,0.429424
-3588,qué día va a estar lloviendo esta semana,13,0,0.574742
-3589,como está el tiempo esta semana,13,13,0.949767
-3599,poner alarma a la una de la tarde,48,48,0.457284
-3602,qué es lo último sobre las elecciones españolas,22,22,0.939167
-3609,por favor haz un cafe para mi,56,56,0.327184
-3613,hoy hace sol,13,13,0.888126
-3620,cómo está el tiempo en segovia ahora,13,13,0.952344
-3632,quiero escuchar mi playlist me la pones,45,45,0.944282
-3637,olly pon ateo de c tangana,45,45,0.858822
-3649,qué calor hace en mallorca,13,13,0.941607
-3651,que hora es en granada andalucía,0,0,0.834159
-3652,que hora es en barcelona cataluña,0,0,0.876497
-3665,hará demasiado frío para un vestido el domingo,13,13,0.353312
-3676,puedo escuchar algo de rosalía,45,45,0.940238
-3701,esto es muy brillante,31,1,0.134284
-3704,pedir dos pizzas grandes y alitas de pollo picantes del domino's pizza,16,16,0.614217
-3705,cuáles son la fechas y la hora de hoy,0,0,0.821258
-3712,reproducir mi lista de reproducción actual desde arriba,45,45,0.892831
-3713,toca mi canción country favorita,45,45,0.913392
-3720,qué hora es en valencia ahora mismo,0,0,0.8917
-3721,olly que hora es en españa ahora mismo,0,0,0.894396
-3724,por favor pon llámame después de aretha franklin,45,45,0.936286
-3744,dime que hora es,0,0,0.897932
-3754,las últimas noticias de telecinco,22,22,0.948285
-3758,después de esta ponme grito rebelde,45,45,0.730763
-3768,quiero escuchar algo de jazz,45,45,0.933006
-3801,muestra el tiempo de una semana en madrid,13,13,0.924968
-3803,por favor apaga el enchufe inteligente,8,24,0.208283
-3804,enciende el enchufe wemo,24,24,0.360512
-3811,baja el volumen del altavoz,35,14,0.245231
-3840,enciende roomba,34,34,0.130246
-3843,pídeme comida china,16,3,0.337364
-3863,qué persona hizo esta canción que está sonando en la radio,57,57,0.505922
-3865,cual es la puntuación en la liga de campeones ahora mismo,22,22,0.209671
-3868,cuál es el titular de diario sur,22,22,0.928095
-3875,cómo estará el tiempo el resto de la semana,13,13,0.953849
-3876,va a hacer tiempo para llevar chanclas pronto,13,13,0.628102
-3880,cómo está el clima ahora mismo,13,13,0.946304
-3895,por favor aumente la luz,18,1,0.310717
-3898,va a nevar la próxima semana,13,13,0.932289
-3904,por favor borra la alarma el miércoles por la noche,52,23,0.354987
-3926,cuánta nieve ha caído en gijón hoy,13,13,0.441966
-3940,guarda el género de éstas canciones para mi,43,57,0.429923
-3941,me gustaría que rercordases que me gusta esta canción,43,43,0.346507
-3954,después de esta canción pon thriller,45,45,0.921825
-3956,avísame en tres horas,48,0,0.299405
-3968,indie,45,45,0.81567
-3970,cómo está el tiempo ahora mismo,13,13,0.951505
-3972,dime que esta pasando en la política europea,22,22,0.896684
-3973,quiero saber quién está en las posiciones más altas de la liga española en este momento,22,22,0.366255
-3997,alexa qué noticias hay en mi zona,22,22,0.947762
-4003,es hora de escuchar un poco de rafael,45,45,0.445927
-4008,enciende la repetición,28,46,0.2515
-4012,ve limpiando,34,34,0.288878
-4033,cuál es el mejor día de la proxima semana para ir a comer pizza,0,16,0.272866
-4046,qué tipo de tiempo puedo esperar hoy,13,13,0.951277
-4065,que hora es en nueva york,0,0,0.884958
-4094,por favor poner una alarma a las ocho de la mañana,48,48,0.458436
-4114,añadir un montón de james taylor joni mitchell y cat stevens a la lista de reproducción,45,45,0.851171
-4117,puedes ponerme algo de música dance,45,45,0.799768
-4127,reproducir canciones de la lista de reproducción,45,45,0.939634
-4129,que alarmas he puesto ahora mismo,23,23,0.660754
-4131,cuál será la temperatura hoy de jaén andalucía,13,13,0.939984
-4134,cargar spotify,45,46,0.254228
-4156,oye cuentame un chiste,25,25,0.664733
-4161,me gustaría pedir algo de comida china para esta noche quén envía,16,16,0.4578
-4175,oye siri prueba los ajustes de luz actuales,1,1,0.217801
-4191,he escuchado este riff antes qué canción robó este riff que es exáctamente el mismo,57,45,0.411602
-4198,borrar las alarmas para las cuatro de la mañana,52,48,0.391295
-4228,mañana habrá más de treinta y dos grados,13,0,0.434271
-4233,reproducir mí canción favorita del último año,45,45,0.938335
-4243,por favor no contestes,46,46,0.195222
-4277,puedes apagar mi lámpara de escritorio,40,40,0.32764
-4278,lámpara del escritorio una vez,40,46,0.134679
-4287,luz aumentada,18,1,0.17772
-4291,voy a necesitar llevarme un paraguas al trabajo hoy,13,13,0.144297
-4292,me puedo poner pantalones cortos hoy mientras compramos,13,1,0.341735
-4301,pon musica de rosalia,45,45,0.941203
-4302,pon el último álbum de alejandro sanz,45,45,0.941145
-4317,poner una alarma para las diez en punto mañana por la mañana,48,48,0.459827
-4318,despiértame a las diez,48,48,0.137311
-4326,pon princesa de pereza,45,45,0.932348
-4338,déjame entrega cerca de mí,16,45,0.240175
-4339,abre internet,16,22,0.795022
-4359,déjame escuchar algo de música,45,45,0.940357
+11,apaga las luces por favor,40,40,0.126819
+17,atenua las luces en el pasillo,31,1,0.089477
+24,oscurece la habitación,31,40,0.082487
+26,limpia el piso,34,40,0.048018
+30,limpiar es bueno el polvo es tan malo haz ahora tu magia limpia mi alfombra,34,13,0.147317
+42,dame el estado de mi memoria disponible,12,13,0.243282
+53,lista de las opciones de entrega de comida china más valoradas,3,53,0.10414
+58,encontrar mi comida para llevar tailandesa alrededor del centro,3,19,0.077206
+67,me gustaría escuchar barcelona de queen,45,45,0.4109
+68,ponme barcelona por queen,45,45,0.471252
+74,cuál es el grupo que está sonando ahora mismo,57,49,0.295647
+90,qué hay en mi pedido de la cena,3,19,0.091386
+99,cuál es el pronóstico del tiempo para la semana,13,13,0.488973
+107,pon duele como el cielo,45,45,0.091275
+109,ponte reina caníbal,45,49,0.272814
+112,pon algo de david bowie,45,45,0.487738
+113,pon en bucle esta canción,28,45,0.481234
+115,pon el volumen a bajo,35,10,0.061856
+127,qué día es hoy,0,0,0.38719
+138,que cancion es esa,57,45,0.212637
+147,me gusta escuchar jazz,45,45,0.519606
+148,me gusta escuchar jazz,45,45,0.519606
+167,oye oye,5,49,0.096003
+173,pon alarma mañana a las seis de la mañana,48,48,0.315629
+188,sube el volumen,14,10,0.063646
+217,está lloviendo afuera,13,13,0.50806
+229,que hora es en las palmas,0,0,0.560969
+230,qué hora es en madrid,0,0,0.555285
+232,poner una alarma a las seis de la mañana,48,48,0.251848
+237,configuré una alarma para despertarme por la mañana,23,48,0.142275
+242,que esta pasando en america,22,49,0.187246
+251,death metal ahora,45,49,0.088666
+271,qué hora es en madrid ahora,0,0,0.563067
+295,dime los titulares del periódico de hoy,22,22,0.192586
+298,pon chopin,45,45,0.430479
+311,que día es la resurreción este año,0,0,0.33243
+312,esta muy oscuro aqui,41,1,0.065183
+318,va a llover mañana,13,13,0.492145
+331,más suave,35,13,0.066108
+345,qué temperatura hará mañana,13,13,0.364466
+346,lo que es mañana las predicciones del tiempo,13,13,0.378669
+353,que día de la semana es veintidos de marzo,0,32,0.250606
+365,es hoy lunes,0,32,0.265459
+368,cómo está el tiempo en madrid capital,13,13,0.524534
+375,hace sol en mallorca ahora,13,13,0.328687
+387,avíseme tan pronto como haya más noticias sobre el brexit,22,22,0.457491
+388,apaga el enchufe inteligente,8,40,0.082443
+392,tocar una canción de mis favoritos,45,45,0.516672
+406,me gustaria escuchar música pop por favor,45,45,0.5632
+415,cambia las luces de mi habitación para que yo pueda dormir bien,1,1,0.117549
+431,qué tiempo hará el viernes,13,13,0.483839
+434,que día es hoy,0,0,0.412706
+439,debo ponerme una chaqueta hoy,13,13,0.233722
+444,deshabilitar la reproducción aleatoria,28,45,0.307939
+465,que fecha es,0,0,0.45827
+476,que cosas no puedes hacer,12,13,0.220072
+480,dime la hora,0,0,0.483536
+490,hace calor fuera,13,13,0.121974
+510,tengo alguna alarma programada,23,48,0.157369
+511,por extremoduro,13,12,0.116804
+516,silencia en la próxima hora por favor,46,13,0.190817
+517,pon mi canción favorita,45,45,0.531497
+523,esto es muy peligroso,13,13,0.190236
+532,por favor cuéntame algunas noticias internacionales,22,22,0.459438
+534,pon una alarma despertador a las diez de la mañana,48,48,0.208851
+536,poner una alarma a las tres de la tarde,48,48,0.258702
+538,pon una alarma a la una de la tarde,48,48,0.235421
+541,reproduce la canción inmediatamente,45,45,0.518499
+552,mándame al correo la letra de esta canción,57,44,0.360227
+562,deshacerse de mi alarma de las ocho a. m.,52,48,0.173264
+582,va a estar lloviendo mañana,13,13,0.537563
+595,por favor golpe maestro de vetusta morla,45,49,0.049834
+601,poner alarma,48,48,0.079524
+610,quiero levantarme mañana a las seis de la mañana por favor,48,48,0.204804
+616,solo reproduce canciones de mi lista de reproducción,45,45,0.556296
+617,qué día de la semana es acción de gracias,0,0,0.237699
+626,por favor déjame escuchar seiscientos sesenta y seis el número de la bestia,45,50,0.097018
+638,puedes buscar chistes de animales para mí,25,19,0.058876
+657,como es el estado del tiempo ahora,13,13,0.496753
+658,que hora es ahora en andalucía,0,0,0.565611
+676,fija la zona horaria,38,12,0.079445
+678,enciende la t. v. enchufe cuando llego a casa,24,47,0.04767
+682,sigue las noticias sobre la controversia de papeles de bárcenas en el futuro,22,22,0.453205
+689,baja el volumen,35,29,0.057661
+691,no puedo oir sube el volumen,14,10,0.062135
+697,puedes hacer mas brillante s las luces,18,1,0.120624
+707,quiero escuchar bruno mars ahora,45,49,0.239885
+708,quién está liderando la carrera de formula uno ahora mismo,22,49,0.247969
+710,prepara café,56,19,0.093919
+711,lee los titulares de la voz de madrid,22,49,0.111764
+718,puedo conocer las últimas noticias de c. n. n,22,22,0.458721
+737,puedes bajar el tono por favor,35,1,0.057506
+741,tocar canciones del género r y b y soul,45,45,0.572017
+756,puedes apagar el enchufe wemo,8,40,0.06329
+762,como estará el tiempo esta semana,13,13,0.530295
+763,cómo se supone que está el tiempo esta semana,13,13,0.530282
+776,dime si ocurre un terremoto en el mundo,22,49,0.124105
+778,jugar boogie in your butt por eddie murphy,45,45,0.129139
+803,ey olly silencia los altavoces,46,13,0.131073
+806,baje todo el volumen de los altavoces por favor,35,10,0.067215
+807,haz cafe ahora,56,19,0.079186
+817,ok google pon algo de música,45,45,0.571523
+835,cuál es el último cotilleo de marbella,22,49,0.434143
+851,sube el brillo de luces,18,1,0.106925
+885,alarma puesta ocho de la mañana,48,48,0.277546
+895,apagar la alarma de las seis de la mañana del miércoles,52,48,0.213563
+896,apaga mis alarmas de la mañana tras el viernes,52,48,0.219155
+906,mira el tiempo de la semana que viene por mi por favor,13,13,0.526591
+921,pon música de mi artista favorito,45,45,0.571753
+925,por favor baja las luces un poco,31,1,0.106091
+937,moviles,52,12,0.115007
+943,si son las ocho de la tarde en la costa este que hora es en palma mallorca,38,0,0.23211
+966,el rosario's acepta pedidos para llevar,3,47,0.100317
+975,puedes decirme que hora es en madrid,0,0,0.558445
+984,noticias actuales la sexta,22,22,0.400118
+1012,llévame a la web del huffington post,47,47,0.10842
+1015,pon los titulares por favor,22,36,0.048105
+1016,cuáles son los titulares de el país,22,49,0.253526
+1023,mira si la enriquetta hace pedidos para llevar,3,13,0.053587
+1027,puedo saber la fecha de hoy,0,0,0.258262
+1038,está mi alarma de la escuela puesta,23,48,0.102851
+1051,cómo de caluroso se está fuera,13,49,0.281842
+1058,a la una de la tarde de hoy pon en marcha el robot aspirador,34,50,0.134146
+1085,buenos asistentes,22,22,0.104687
+1094,envíame las noticias actuales del día,22,22,0.459245
+1122,pon lady de kenny rogers ahora,45,45,0.318678
+1125,fecha de hoy,0,0,0.412047
+1177,cuál es la letra de la canción buleria de david bisbal,57,45,0.318606
+1179,nunca jamás me pongas country,7,45,0.469372
+1189,si son las diez p. m. en madrid qué hora es en tenerife,38,0,0.41598
+1192,necesito escuchar a buleria por parte de david bisbal ahora,45,12,0.116855
+1196,como está el tiempo hoy,13,13,0.514984
+1197,lloverá,13,13,0.30948
+1201,cuál es la hora actual en madrid,0,0,0.55234
+1209,me puedes sugerir comida sana para cenar,9,19,0.066925
+1210,pedir una comida de un buen restaurante,16,19,0.086212
+1211,convierte la hora de madrid en la hora de londres,38,0,0.495475
+1215,olly pon el salón azúl,1,45,0.125207
+1216,haz que la luz del salon sea azul,1,1,0.121096
+1222,por favor pon macarena,45,45,0.389489
+1223,cuál es la previsión del tiempo para el martes,13,13,0.496209
+1224,qué tiempo hará el lunes al mediodía,13,13,0.201302
+1225,qué será el día quince de marzo,0,32,0.31015
+1227,quiero la fecha del último lunes de este mes,0,32,0.307637
+1234,cuál es la hora en india cuando la hora en estados unidos es a las doce de la noche,38,0,0.46191
+1241,dime qué hora es,0,0,0.543025
+1257,encuéntrame el mejor chiste de toc toc en internet,25,22,0.079024
+1259,como estará el tiempo el lunes de esta semana,13,13,0.341058
+1268,tu receta de filete de ternera era magnífica,9,9,0.062056
+1271,qué está sucediendo en el mundo hoy,22,13,0.288485
+1272,que día es el cinco de diciembre,0,0,0.276767
+1277,oye,5,12,0.134877
+1295,quiero las noticias sobre los premios de la academia,22,22,0.468318
+1312,dime la hora actual en ottawa,0,0,0.553899
+1327,cómo va a estar el tiempo hoy,13,13,0.524884
+1333,hace calor hoy no es así,13,13,0.396267
+1334,hace mucho calor hoy no es así,13,13,0.392094
+1346,cien mil doscientas veintitrés,0,32,0.110521
+1349,cómo va a estar el tiempo esta semana,13,13,0.541114
+1357,cambia al ajuste de luz nocturna,1,1,0.06616
+1365,sube el volumen un poco,14,10,0.061838
+1380,puedo hacer un pedido para llevar al taco bell,3,16,0.077204
+1416,pídeme comida para llevar,16,16,0.073848
+1430,encontrar y poner en cola todas las canciones de kate perry y reproducir todo sin aleatorio,45,45,0.547678
+1446,haz una lista de reproducción de todas las canciones de eminem y juega con aleatorio,45,45,0.172234
+1466,va a nevar esta semana,13,13,0.526762
+1468,pon música,45,45,0.551551
+1478,buscar chistes nuevos,25,12,0.17732
+1525,quiero escuchar rock suave,45,45,0.520614
+1544,quiero escuchar música animada,45,45,0.562473
+1545,pon el top diez de billboard,45,45,0.40607
+1548,me puedes dar un pronóstico de diez días de mi zona,13,50,0.154674
+1557,dime el pronóstico del tiempo para esta semana por favor,13,13,0.508543
+1558,ponme algo de pop,45,45,0.539445
+1566,pon música de la playlist,45,45,0.574561
+1569,puedo tener un espresso por favor,56,9,0.066947
+1576,ollye enciende la aspiradora,34,12,0.099596
+1599,puedes encender la roomba,34,9,0.058174
+1615,envíame una alerta sobre todos los nuevos temas de política,22,12,0.093888
+1621,clasificación,43,12,0.174276
+1625,a. m. o p. m.,23,12,0.102405
+1637,cuáles son los últimos artículos de noticias de yahoo,22,22,0.407415
+1664,encuéntrame alguna noticia de muy limpio las últimas seis horas,22,22,0.198197
+1678,qué música está poniendo actualmente novecientos noventa y nueve f. m.,57,45,0.488279
+1680,sube el volumen de la música a noventa,14,45,0.066384
+1687,es un sí o no que la temperatura de mañana será cálida,13,13,0.157144
+1688,pronóstico del tiempo de esta semana,13,13,0.511652
+1696,quién es el artista de la canción que está sonando ahora,57,45,0.257955
+1698,no me gusta esta canción apágala,7,45,0.383545
+1702,de las diez a las once de la mañana todos los días pongo mi robot aspiradora,34,50,0.134448
+1726,cuál será la temperatura más alta la próxima semana,13,13,0.171396
+1732,comprueba que la alarma está puesta hoy a las diez de la mañana,23,48,0.208684
+1770,pon enrique,45,45,0.463125
+1771,jugar a rafael,45,9,0.038599
+1791,es posible que proporciones los gustos de mi música,57,45,0.406179
+1793,las últimas noticias sobre españa,22,22,0.489449
+1805,necesito un poco más de luces,18,1,0.105612
+1818,dime la hora actual,0,0,0.555629
+1823,mi cantante favorita es shakira,43,45,0.451052
+1827,qué está pasando en madrid,22,49,0.244011
+1834,pon mis canciones más escuchadas,45,45,0.546324
+1839,ve a youtube y ponme las mejores canciones de boda de la colección,45,45,0.539444
+1858,tráeme las noticias tecnológicas más actuales,22,22,0.473795
+1871,añade esa canción a mi lista de los diez favoritas,43,45,0.118366
+1877,esa canción era increíble puedes repetirla,43,45,0.430698
+1888,dame poca luz en la cocina,31,40,0.079803
+1894,guarda esa canción y mi opinion,43,45,0.23185
+1901,actualizarme con los resultados de las elecciones,22,22,0.119211
+1902,que dicen los analistas sobre las nuevas políticas de inmigración,22,22,0.240792
+1910,estado del pedido del restaurante,3,16,0.079311
+1914,avísame a las cinco horas,48,50,0.136264
+1925,enciende mi aspiradora robot de limpieza,34,12,0.119957
+1928,toca musica,45,45,0.461375
+1934,cuál es el grupo de fecha y hora actual,0,0,0.347559
+1943,comienza con la limpieza de la casa,34,13,0.075127
+1945,apaga la luz,40,40,0.137187
+1948,broma graciosa,25,12,0.09248
+1953,qué canción está sonando actualmente,57,45,0.36325
+1971,guarda la información proporcionada por aman en esta canción,43,49,0.137933
+1988,hey alexa enciende las luces de discoteca en mi piso y que empiece la fiesta,41,1,0.073347
+2003,por favor apaga,46,40,0.090516
+2006,por favor pon rap,45,45,0.491172
+2009,cómo estará el tiempo esta semana,13,13,0.530268
+2040,qué día tan soleado,13,13,0.326362
+2042,está la reunión programada para mañana,32,50,0.424067
+2058,está nublado hoy,13,13,0.435184
+2069,toca el botón de silencio,46,13,0.076758
+2073,pon una cover reciente de aitana,45,45,0.561168
+2088,vamos a oír algo de country y salsa que no sea de los estados unidos,45,45,0.463173
+2092,comprobar el título de la música que se está reproduciendo actualmente,57,45,0.537916
+2095,hace envíos a domicilio el dragón de oro,3,44,0.062085
+2103,reproducir mi última lista de reproducción usada,45,45,0.195067
+2112,dame la hora en madrid,0,0,0.546182
+2115,pon pop,45,45,0.433423
+2118,fija el ambiente por favor,1,13,0.161724
+2120,convierte las luces azul,1,1,0.13798
+2122,pon las luces del salón rojo,1,1,0.126101
+2125,olly dime el tiempo de cádiz,13,13,0.517058
+2140,siri que tiempo hace afuera,13,13,0.534518
+2144,que día era en mi fecha de nacimiento,0,0,0.424569
+2149,cual es el titulo de la canción que esta sonando,57,45,0.250757
+2154,puedes decirme que hora es,0,0,0.513557
+2157,clima el lunes,13,32,0.161702
+2158,tiempo el martes,13,13,0.511724
+2161,repetir canción,28,45,0.535725
+2179,me puedes decir las condiciones del tiempo ahora,13,13,0.469631
+2187,puedes por favor apagar la luz de mi dormitorio,40,40,0.094787
+2196,oye compárteme algún chiste para hacerme feliz,25,13,0.215014
+2200,cuántas semanas faltan para navidad,0,13,0.278953
+2211,tienes alguna noticia de los proveedores de noticias,22,22,0.419508
+2221,el tiempo en la casa de campo,13,13,0.426551
+2227,por favor convertir nueve de la mañana huso horario a madrid,38,50,0.331496
+2246,apaga la luz del armario,40,40,0.131796
+2259,pon david bisbal,45,45,0.394117
+2272,pon mis canciones de pop mejor valoradas por favor,45,45,0.555703
+2282,establece el color azul para todas las luces de mi casa,1,1,0.152104
+2303,soy para siempre del hip hop,43,45,0.349955
+2312,solo baja las luces a siete,31,1,0.103432
+2313,baja las luces a siete,31,1,0.104789
+2318,minimiza la potencia de la luz,31,18,0.046739
+2321,qué tiempo hará el siete,13,13,0.50197
+2323,silencia el altavoz por favor,46,13,0.074442
+2353,cuál es el nombre de la música que se está reproduciendo ahora,57,45,0.307443
+2360,sube el volumen,14,10,0.063646
+2364,que canción es esta,57,45,0.204673
+2392,quiero escuchar loco,45,45,0.314041
+2417,pon de manera aleatoria el álbum de canciones actual,28,45,0.531714
+2419,que actualizaciones de noticias hay en el pais,22,22,0.45772
+2420,que novedades hay en canal veinticuatro horas,22,22,0.188213
+2421,qué está pasando en el abc,22,49,0.162075
+2425,dime qué hora es,0,0,0.543025
+2428,dime que hora es en la india,0,0,0.546113
+2431,qué alarmas están surgiendo,23,48,0.080593
+2464,olly apaga las luces,40,40,0.123149
+2467,hay alguna manera de recibir las últimas noticias sobre pedro sánchez,22,22,0.483595
+2470,enciende las luces,41,40,0.083213
+2478,pide para llevar,16,13,0.180787
+2483,atenuarás todas las luces,31,1,0.089786
+2495,dame la noticia,22,22,0.2863
+2499,luces reducidas,31,1,0.111116
+2514,como está el tiempo esta semana,13,13,0.518766
+2515,dime el tiempo para esta semana,13,13,0.531795
+2518,hola cómo enciendo el robot aspirador,34,12,0.160022
+2520,por favor ayúdame a encender el robot aspiradora,34,12,0.153539
+2526,quiero escuchar algo de rock moderno,45,45,0.551136
+2538,cual es el estado de mi ultimo pedido,3,49,0.321032
+2544,como esta afuera,13,13,0.224404
+2553,que día de la semana es dia de san valentín,0,32,0.237935
+2558,dime el tiempo en málaga andalucía,13,13,0.527841
+2562,quiero algo de música qué tal si pones mi playlist de ejercicio,45,45,0.556227
+2563,pon una alarma para mañana por la mañana a las ocho,48,48,0.301099
+2576,por favor baja las luces de mi habitación,31,1,0.105031
+2582,dime el nombre del artista,57,49,0.137537
+2583,cuál es el nombre de la canción,57,49,0.188813
+2590,que pasa en las noticias internacionales de hoy,22,22,0.463805
+2598,cuáles son las últimas noticias internacionales,22,22,0.474658
+2599,me gustaria cafe ahora,56,19,0.08021
+2600,apaga mi lámpara de noche por favor,40,40,0.081946
+2620,por favor inicia aspiradora,34,12,0.081279
+2621,inicia la aspiradora ahora,34,12,0.122224
+2622,silencia todas las respuestas ahora,46,12,0.083631
+2623,por favor no hablar,46,12,0.186843
+2625,tenemos alguna novedad del nuevo proveedor,22,12,0.165964
+2641,qué hay de nuevo en el espacio en blanco,22,49,0.104763
+2643,pon adele,45,45,0.278402
+2649,cuál es el pronóstico del tiempo en barcelona,13,13,0.475925
+2654,nevará la semana que viene,13,13,0.328676
+2665,qué está haciendo con el tema de las personas sin hogar en el ayuntamiento de seattle sobre la falta de vivienda,22,22,0.138954
+2668,dime las noticias de el mundo,22,22,0.47673
+2672,cuántas alarmas tengo puestas para las horas de la mañana entre las seis y las nueve,23,48,0.282373
+2675,abre lista de reproducción,45,45,0.141028
+2687,confirmen el pedido,16,12,0.1373
+2693,prepárame una taza de café,56,16,0.067191
+2699,quiero escuchar rock,45,45,0.513816
+2701,ok google pon música rock,45,45,0.557602
+2710,corta la electricidad,40,49,0.046028
+2720,poner alarma a las cinco y media,48,48,0.141931
+2740,puedo recibir la entrega de este restaurante,3,19,0.115529
+2741,mi restaurante favorito hace pedidos para llevar,3,19,0.098701
+2742,ofertan para llevar,3,12,0.05871
+2749,poner en marcha la cafetera,56,42,0.062192
+2757,cuales son las noticias de política,22,22,0.481339
+2763,enseñame la hora,0,0,0.319557
+2769,pon música del género jazz,45,45,0.574678
+2783,que fecha cae el próximo sábado,0,0,0.348068
+2790,ganaron los españoles anoche,22,49,0.139682
+2797,silenciar el sonido de los altavoces,46,40,0.048683
+2810,iluminar las luces del salón,18,1,0.088295
+2814,haz algo de cafe,56,19,0.071715
+2821,cambia los colores de la luz de azul a blanco,1,1,0.145421
+2822,haz que las luces de la casa se pongan rojas,1,1,0.14158
+2825,en qué día cae el diez de abril,0,0,0.277424
+2834,por favor haz que la aspiradora funcione por una hora,34,12,0.212838
+2835,dime la fecha hoy,0,0,0.330438
+2841,ajusta las luces del salón a rojo,1,1,0.104915
+2844,cómo va el envío del restaurante,3,16,0.073636
+2846,escucha esta canción,57,45,0.40184
+2851,la pizzería juan tiene para llevar verdad,3,16,0.080953
+2863,cambia el color de la luz a azul,1,1,0.143931
+2869,dime mis alarmas,23,48,0.065937
+2879,por favor borra cualquier alarma que yo tenga activada,52,48,0.098262
+2886,por favor saca el artículo sobre cuidador de perro en la noticias de la mañana,22,22,0.243847
+2889,cómo está el tiempo aquí,13,13,0.520582
+2901,pide sandwiches de ensaladilla para llevar,16,16,0.092821
+2919,hay nuevos videos en youtube de el pais,22,22,0.112396
+2932,siguiente reproducción despacito,45,45,0.418596
+2935,reproducir mi lista de reproducción country,45,45,0.554216
+2936,pon mi segunda lista de reproducción,45,45,0.367603
+2943,cual es la cita de hoy,0,32,0.267989
+2946,alexa apaga el ventilador en la habitación principal,8,40,0.093277
+2949,alexa por favor guarda la canción actual en mis favoritas,43,45,0.405744
+2955,me encanta el hip hop,43,45,0.275302
+2963,por favor pon mi canción favorita de bruno mars,45,45,0.541735
+2971,por favor prepara el café,56,19,0.075662
+2978,baja las luces,31,1,0.098703
+2979,modo noche,31,32,0.167296
+2991,noticias de tecnología de última hora,22,22,0.475318
+2992,titulares de tecnología recientes,22,22,0.290748
+2993,pon la siguiente canción,45,45,0.516906
+3004,en qué año se creó la canción,57,45,0.18875
+3018,encuentra mi comida,3,16,0.059297
+3028,acumulación de predicciones de nieve en búfalo,13,12,0.122165
+3041,siri temas de noticias calientes de tendencias,22,22,0.44839
+3045,próxima alarma,23,48,0.116853
+3046,tengo muchas ganas de comida china ahora mismo por favor déjame pedir comida para llevar,16,19,0.103706
+3056,lo que es nuevo en la política de hoy puede filtrar noticias trump,22,22,0.429122
+3082,necesito dos pizzas,16,16,0.097343
+3088,pon una canción,45,45,0.504246
+3094,apaga la luz,40,40,0.137187
+3121,la temperatura del sur es soleada,13,13,0.194414
+3123,pon algo de música,45,45,0.561829
+3134,en qué lugares puedo pedir comida para llevar cerca,16,16,0.073963
+3139,baja tu volumen por favor,35,10,0.05365
+3148,a qué hora esta ajustada mi alarma de despertar,23,48,0.165689
+3149,tengo alguna alarma para mañana por la mañana,23,48,0.302226
+3151,eliminar mis alarmas tempranas,52,48,0.072159
+3160,reproducir lista de reproducción de música de canal clásico,45,45,0.58015
+3166,haz que esa canción suene a continuación,45,45,0.384209
+3177,cuál es el nombre del cantante de este grupo,57,49,0.201862
+3183,apagar,8,40,0.075814
+3194,siri pon mi playlist de pop,45,45,0.558202
+3200,dime si hay alguna nueva noticia sobre ese tema,22,22,0.403339
+3202,debieras saber que me gusta el jazz,43,45,0.280268
+3203,por favor revisa mi lista de reproducción,43,45,0.181878
+3242,puede poner la alarma para las diez y media,48,48,0.103205
+3248,cancelar alarma para mañana,52,48,0.208622
+3261,cuál es la hora central actual,0,0,0.534844
+3270,borrar alarmas para mañana,52,48,0.194379
+3281,olly baja las luces por favor,31,1,0.117659
+3285,lloverá mañana en madrid,13,13,0.31356
+3287,qué hora es en madrid,0,0,0.555285
+3293,cuanto tiempo de diferencia hay entre la hora este y la hora pacífico,38,13,0.342399
+3296,hace el restaurante chino cercano entregas,3,19,0.127685
+3309,cómo está el tiempo en barcelona,13,13,0.517723
+3340,ok google que tiempo hace,13,13,0.526049
+3377,bajar la iluminación,31,40,0.052286
+3394,por favor enciende el enchufe de mi wemo,24,9,0.051917
+3402,qué tiempo hará la semana que viene,13,13,0.505339
+3404,cómo repetir esta canción,57,45,0.455281
+3421,que musica es,57,45,0.290705
+3437,sube las luces por favor,18,1,0.094837
+3439,pon una playlist romántica,45,45,0.546311
+3443,en qué día de la semana cae el diez de este mes,0,32,0.209915
+3454,ve a dormir,46,13,0.147582
+3463,me gustaría una alarma despertador mañana a las siete de la mañana,48,48,0.27564
+3464,por favor enciende todas las luces de fuera,41,1,0.095837
+3466,aumenta el volumen por favor,14,10,0.064248
+3471,consigue las noticias actuales sobre el cese del gobierno,22,22,0.473657
+3496,pon música de los beatles,45,45,0.57543
+3511,noche,12,50,0.207708
+3528,consígueme comida para llevar,16,16,0.073379
+3530,pon algo romantico,45,45,0.378179
+3547,hará bueno en la playa el viernes,13,13,0.189443
+3551,reproducir el cuarto álbum de afi,45,45,0.542095
+3563,por favor házme un café,56,19,0.082674
+3588,qué día va a estar lloviendo esta semana,13,13,0.485503
+3589,como está el tiempo esta semana,13,13,0.518766
+3599,poner alarma a la una de la tarde,48,48,0.249832
+3602,qué es lo último sobre las elecciones españolas,22,49,0.214807
+3609,por favor haz un cafe para mi,56,19,0.075119
+3613,hoy hace sol,13,13,0.492764
+3620,cómo está el tiempo en segovia ahora,13,13,0.527135
+3632,quiero escuchar mi playlist me la pones,45,45,0.53643
+3637,olly pon ateo de c tangana,45,45,0.470631
+3649,qué calor hace en mallorca,13,49,0.076509
+3651,que hora es en granada andalucía,0,0,0.510571
+3652,que hora es en barcelona cataluña,0,0,0.550388
+3665,hará demasiado frío para un vestido el domingo,13,13,0.061187
+3676,puedo escuchar algo de rosalía,45,45,0.482879
+3701,esto es muy brillante,31,49,0.074121
+3704,pedir dos pizzas grandes y alitas de pollo picantes del domino's pizza,16,16,0.08928
+3705,cuáles son la fechas y la hora de hoy,0,0,0.356649
+3712,reproducir mi lista de reproducción actual desde arriba,45,45,0.183104
+3713,toca mi canción country favorita,45,45,0.519625
+3720,qué hora es en valencia ahora mismo,0,0,0.56837
+3721,olly que hora es en españa ahora mismo,0,0,0.568373
+3724,por favor pon llámame después de aretha franklin,45,45,0.436972
+3744,dime que hora es,0,0,0.543306
+3754,las últimas noticias de telecinco,22,22,0.469638
+3758,después de esta ponme grito rebelde,45,45,0.121936
+3768,quiero escuchar algo de jazz,45,45,0.540893
+3801,muestra el tiempo de una semana en madrid,13,13,0.501958
+3803,por favor apaga el enchufe inteligente,8,40,0.072927
+3804,enciende el enchufe wemo,24,9,0.047517
+3811,baja el volumen del altavoz,35,10,0.060419
+3840,enciende roomba,34,13,0.062149
+3843,pídeme comida china,16,16,0.07273
+3863,qué persona hizo esta canción que está sonando en la radio,57,45,0.344892
+3865,cual es la puntuación en la liga de campeones ahora mismo,22,22,0.121567
+3868,cuál es el titular de diario sur,22,22,0.196688
+3875,cómo estará el tiempo el resto de la semana,13,13,0.530114
+3876,va a hacer tiempo para llevar chanclas pronto,13,13,0.371548
+3880,cómo está el clima ahora mismo,13,13,0.472658
+3895,por favor aumente la luz,18,1,0.073722
+3898,va a nevar la próxima semana,13,13,0.43618
+3904,por favor borra la alarma el miércoles por la noche,52,48,0.257342
+3926,cuánta nieve ha caído en gijón hoy,13,13,0.377586
+3940,guarda el género de éstas canciones para mi,43,45,0.442901
+3941,me gustaría que rercordases que me gusta esta canción,43,45,0.455533
+3954,después de esta canción pon thriller,45,45,0.4966
+3956,avísame en tres horas,48,50,0.144947
+3968,indie,45,12,0.090774
+3970,cómo está el tiempo ahora mismo,13,13,0.518312
+3972,dime que esta pasando en la política europea,22,22,0.240549
+3973,quiero saber quién está en las posiciones más altas de la liga española en este momento,22,49,0.114324
+3997,alexa qué noticias hay en mi zona,22,22,0.454341
+4003,es hora de escuchar un poco de rafael,45,0,0.196893
+4008,enciende la repetición,28,45,0.157701
+4012,ve limpiando,34,13,0.076466
+4033,cuál es el mejor día de la proxima semana para ir a comer pizza,0,0,0.098387
+4046,qué tipo de tiempo puedo esperar hoy,13,13,0.527161
+4065,que hora es en nueva york,0,0,0.56242
+4094,por favor poner una alarma a las ocho de la mañana,48,48,0.24274
+4114,añadir un montón de james taylor joni mitchell y cat stevens a la lista de reproducción,45,45,0.157453
+4117,puedes ponerme algo de música dance,45,45,0.564037
+4127,reproducir canciones de la lista de reproducción,45,45,0.567393
+4129,que alarmas he puesto ahora mismo,23,48,0.091706
+4131,cuál será la temperatura hoy de jaén andalucía,13,13,0.315255
+4134,cargar spotify,45,45,0.102106
+4156,oye cuentame un chiste,25,12,0.121993
+4161,me gustaría pedir algo de comida china para esta noche quén envía,16,16,0.076142
+4175,oye siri prueba los ajustes de luz actuales,1,1,0.076223
+4191,he escuchado este riff antes qué canción robó este riff que es exáctamente el mismo,57,45,0.32572
+4198,borrar las alarmas para las cuatro de la mañana,52,48,0.219719
+4228,mañana habrá más de treinta y dos grados,13,32,0.143914
+4233,reproducir mí canción favorita del último año,45,45,0.548927
+4243,por favor no contestes,46,12,0.102056
+4277,puedes apagar mi lámpara de escritorio,40,40,0.085553
+4278,lámpara del escritorio una vez,40,48,0.052079
+4287,luz aumentada,18,1,0.066879
+4291,voy a necesitar llevarme un paraguas al trabajo hoy,13,13,0.375929
+4292,me puedo poner pantalones cortos hoy mientras compramos,13,13,0.102676
+4301,pon musica de rosalia,45,45,0.580248
+4302,pon el último álbum de alejandro sanz,45,45,0.523063
+4317,poner una alarma para las diez en punto mañana por la mañana,48,48,0.246335
+4318,despiértame a las diez,48,48,0.085958
+4326,pon princesa de pereza,45,45,0.531295
+4338,déjame entrega cerca de mí,16,47,0.084418
+4339,abre internet,16,22,0.079585
+4359,déjame escuchar algo de música,45,45,0.543913
+4360,quiero escuchar música genial,45,45,0.556736
+4387,sube la luz de la lampara,18,40,0.080513
+4398,por favor sube el volumen al maximo en los ajustes,14,10,0.070979
+4421,silencia el audio,46,46,0.069873
+4422,detener el audio,46,26,0.042151
+4424,lloverá esta semana,13,13,0.479011
+4440,apaga todas las luces interiores,31,40,0.122244
+4481,podré salirme con pantalones cortos hoy,13,13,0.19972
+4483,debería ponerme capas hoy,13,13,0.136748
+4494,cambia mi luz a otra aleatoria,1,1,0.0901
+4495,dame el mas nuevo de el país,22,49,0.229492
+4497,silenciar la configuraciones,46,46,0.064832
+4501,se supone que va a nevar esta semana,13,13,0.467828
+4515,cambia el color de las luces,1,1,0.132856
+4519,día veintidós de abril,0,32,0.27209
+4532,qué tan pronto podemos esperar lluvia,13,13,0.474979
+4538,las predicciones meteorológicas que me diste son para la ciudad equivocada quiero saber la temperatura en la que estoy,13,13,0.197882
+4545,pide una hamburguesa doble de beicon con queso con beicon y queso amarillo,16,16,0.082359
+4546,pon pereza,45,45,0.410661
+4551,actualización sobre el gorila copito de nieve,22,22,0.230461
+4558,cómo va a estar el tiempo esta semana,13,13,0.541114
+4573,enciende las luces de aqui por favor,18,1,0.10029
+4579,sube el volumen del altavoz,14,10,0.062928
+4582,la hora es diferente en madrid,0,0,0.543655
+4600,digame que ofertas de catering tienen disponibles,3,12,0.107908
+4603,estara el cielo cubierto,13,13,0.413192
+4604,mirar si el pizza hut ha enviado mi pedido,3,16,0.102185
+4619,enciende nuevo enchufe inteligente,24,12,0.058283
+4622,baja las luces a nivel dos,31,1,0.101274
+4623,cómo está el pronóstico del tiempo esta semana,13,13,0.527606
+4632,por favor apague las luces del dormitorio,40,40,0.096152
+4645,cuándo va a llegar el taco bell,3,13,0.232232
+4664,cuál es el nombre de este grupo de música,57,45,0.188783
+4674,cuándo es la próxima conferencia de prensa de rajoy,22,50,0.231834
+4675,cuáles son los precios actuales de las acciones de google,4,4,0.096698
+4681,se va a suspender por la lluvia mi partido de golf,13,49,0.159368
+4687,cómo está el tiempo en madrid,13,13,0.514214
+4693,poner una alarma a las cinco de la mañana,48,48,0.246325
+4694,por favor pon alarma a las diez de la noche,48,48,0.211768
+4696,como estará el tiempo mañana,13,13,0.525066
+4697,va a hacer bueno mañana,13,13,0.464088
+4705,cuál es el pronóstico del tiempo en mi área hoy,13,13,0.482343
+4723,lista mi alarma diferente,23,53,0.056461
+4728,enciende notificación para todas las noticias de la bolsa de valores,4,22,0.337124
+4729,notificame de las últimas noticias del mercado de valores,4,22,0.442898
+4730,abre mi música,45,45,0.537157
+4741,dime cuáles son las últimas noticias,22,22,0.48209
+4745,quiero un chiste de nerds,25,49,0.112504
+4752,debería ponerme pantalones cortos hoy,13,13,0.315372
+4775,puedes contarme un buen chiste,25,12,0.195032
+4778,repetir la última canción de nuevo,28,45,0.519318
+4779,que día de la semana es el veinte y siete de junio,0,32,0.288727
+4786,necesitaré estar caliente,13,13,0.41402
+4791,que día es hoy,0,0,0.412706
+4796,apaga las luces del dormitorio,40,40,0.128554
+4810,convierte zona horaria,38,13,0.158511
+4814,que hora es en otra ciudad,0,0,0.536457
+4822,cuando es el atardecer,49,13,0.180079
+4823,pronóstico de diez días,13,32,0.212598
+4827,se pueden cambiar las luces a verde,1,1,0.131924
+4835,muéstrame las noticias de el país,22,22,0.479175
+4836,hay alguna noticia,22,22,0.332266
+4840,pon princesa de pereza,45,45,0.531295
+4850,pon una alarma en cinco minutos desde ahora,48,48,0.148236
+4853,por favor activa mi alarma,48,48,0.094443
+4867,llama al rosario's y pide un bocadillo de jamón con tomate,16,16,0.077228
+4872,cual es la temperatura actual,13,13,0.16676
+4892,sintonizar algo de música,45,45,0.526821
+4899,sabes sobre la letra de esta canción,57,45,0.220018
+4900,quién es este,57,49,0.209942
+4908,abre algunos chistes geniales,25,49,0.125944
+4911,cuentame un chiste,25,12,0.149096
+4939,cambia las luces a apagado,40,1,0.096154
+4941,últimas noticias sobre el huracán,22,22,0.483767
+4942,envíame las actualizaciones del mercado de valores para hoy,4,22,0.230608
+4967,cuáles fueron los números ganadores del euromillones anoche,22,22,0.105131
+4971,borrar alarma a la hora de acostarse de eva,52,48,0.204993
+4979,háblame más bajo,35,12,0.061425
+5004,que hora es en la zona horaria este,0,0,0.536419
+5015,por favor me puedes decir las últimas noticias sobre el estado de las elecciones de nuestro país,22,22,0.476367
+5021,me gusta el rhythm and blues,43,45,0.485928
+5025,muéstranos el rojo,1,1,0.070472
+5028,es el veintitrés de abril un sábado,0,32,0.309407
+5034,que semana es hoy,0,0,0.389262
+5035,qué tiempo hace en mi pueblo,13,13,0.528079
+5057,ejecutar música de esta lista de reproducción,45,45,0.517311
+5060,dime cuando haya nuevas noticias de mis noticias locales,22,22,0.465427
+5063,cambia la opacidad del color,1,1,0.072526
+5064,reemplazar el color de claro a oscuro,1,1,0.08986
+5069,enciende wemo,24,12,0.123555
+5084,poner alarma a las seis de la mañana,48,48,0.273673
+5094,está oscuro aqui,41,13,0.100987
+5099,olly cancela alarmas,52,48,0.070659
+5100,siri borra las alarmas de yoga,52,48,0.084118
+5105,olly sube el volumen,14,29,0.061035
+5107,google mezcla la lista de reproducción,28,45,0.110118
+5108,pon luego malamente,45,45,0.322908
+5113,qué tiempo hará el día siguiente,13,13,0.494066
+5126,el abuso de medicamentos recetados de dea guam en aumento,22,12,0.097934
+5142,me podrías decir por favor la predicción del tiempo para esta semana,13,13,0.426874
+5150,pondrías la cafetera en funcionamiento,56,19,0.075857
+5154,está demasiado brillante aquí puedes apagar una luz,40,1,0.083124
+5175,cómo estará el tiempo esta semana,13,13,0.530268
+5180,por favor añade esta canción a mi playlist favoritos,43,45,0.520157
+5181,por favor pon esta canción otra vez,45,45,0.500019
+5182,va a estar ventoso el jueves,13,13,0.440446
+5183,cuentame un chiste,25,12,0.149096
+5184,solo dame las noticias sobre donald trump,22,22,0.486479
+5186,olly hay alguna noticia actual sobre la elección presidencial,22,22,0.424249
+5189,cómo es probable que esté el clima en mi área hoy,13,13,0.404503
+5202,apaga la luz en la sala de dibujo,40,40,0.124781
+5216,dame las noticias más recientes,22,22,0.475528
+5232,cuántos goles marcó cristiano ronaldo ayer,22,49,0.461754
+5236,reproduce mi playlist para el gimnacio,45,45,0.547153
+5242,por favor apaga las luces del baño,40,40,0.107344
+5249,olle necesito llevar guantes hoy,13,13,0.429846
+5251,es necesario llevar paraguas para salir,13,13,0.243617
+5267,iniciar la reproducción lista de reproducción agregada recientemente,45,45,0.251801
+5280,muestra las noticias actuales de el país,22,22,0.480262
+5282,muestra noticias rtve en vivo,22,22,0.431002
+5290,como se está afuera,13,13,0.314773
+5322,como está el tiempo en sóller mallorca hoy,13,13,0.533125
+5336,dime qué horario de alarmas tienes puestas,23,48,0.171126
+5342,me puedes dar las noticias locales sobre la guardia civil,22,22,0.431737
+5352,reproducir desde mi lista de reproducción,45,45,0.412963
+5359,pasa a la zona horaria del este,38,13,0.094059
+5362,en que día de la próxima semana cae el veinte y cuatro,0,32,0.22072
+5372,que hay de nuevo en itunes,57,49,0.168893
+5376,por favor muestra el tiempo del veintisiete de marzo de dos mil diecisiete,13,13,0.277706
+5382,como son las noticias en irlanda,22,22,0.473863
+5386,que canción es esa,57,45,0.214215
+5393,sube el sonido,14,40,0.040884
+5404,pon que el aspirador limpiar la cocina,34,12,0.083647
+5408,por favor dame detalles de o. canción de zaalima,57,45,0.521833
+5436,borra mi alarma de las cinco de la tarde,52,48,0.24459
+5449,pon canciones de flamenco,45,45,0.569838
+5453,voy a necesitar una chaqueta después de las diez de la mañana o no,13,32,0.14635
+5456,quiero leer noticias de yahoo,22,22,0.435724
+5461,debería traer guantes esta noche,13,13,0.235848
+5462,necesito una chaqueta hoy,13,13,0.338826
+5471,olly haz que las luces sean más brillantes,18,1,0.134604
+5476,cambia el color de la luz,1,1,0.122096
+5478,activa solo un color de luz diferente,1,1,0.121158
+5479,activar un color de luz diferente,1,1,0.080524
+5494,cuál es la última encuesta sobre la opinión pública del presidente trump,22,22,0.304596
+5516,favorito esta música,43,45,0.519308
+5518,apaga la luz de la habitación,40,40,0.135418
+5520,que día es el veintidos de mayo,0,0,0.36809
+5526,pon modo silencio hasta que digan lo contrario,46,12,0.090412
+5536,repite la canción actual que se está reproduciendo,28,45,0.466568
+5541,por favor infórmame de mi alarma por la mañana par días entre semana,23,48,0.252341
+5546,gracias a ally por las fotos,12,16,0.053908
+5556,toca algo de rap de la vieja escuela,45,45,0.407087
+5561,léeme las noticias del día,22,22,0.456516
+5565,volvieron juan y maría juntos,22,12,0.130562
+5567,pon alarma el veinticinco de mayo a las cinco de la tarde,48,48,0.286435
+5569,por favor enciende mi música,45,45,0.514131
+5581,asistente pon en aleatorio la biblioteca entera,45,50,0.186458
+5596,el taco bell más cercano,16,13,0.081641
+5604,reproducir en orden aleatorio la playlist azul,45,45,0.442326
+5609,reportar configuraciones de alarma,23,48,0.07612
+5621,temperatura ahora,13,13,0.256222
+5632,mezcla y toca todas las canciones de la artista shakira,45,45,0.55859
+5636,voy a necesitar protector solar este fin de semana,13,13,0.384429
+5638,debería coger algo de sal descongeladora en la tienda,13,19,0.119115
+5651,enciende el enchufe wemo,24,9,0.047517
+5653,activar el enchufe wemo,24,12,0.035926
+5655,sólo dime la fecha de hoy,0,0,0.395561
+5666,el tiempo se actualiza al usar segundos por tiempo de bits o bien actualiza las previsiones del meteo o aemet ambos bastante pobres para mi sitio,13,13,0.280087
+5667,toque iniciar y luego seleccione configuración,23,45,0.071169
+5672,qué hora es en madrid españa,0,0,0.561451
+5684,tocar canciones de fiesta,45,45,0.515021
+5690,ricky martin,45,49,0.170552
+5696,empezar a limpiar la casa,34,13,0.039199
+5699,debo ponerme una chaqueta para trabajar,13,12,0.096956
+5726,puede hablar más alto,14,12,0.065849
+5728,incrementa la intensidad de todas las luces del cuarto,18,18,0.058768
+5735,por favor ponme la canción de madonna otra vez,45,45,0.526365
+5741,el grabador de voz orevena es una pagina donde puedo grabar canciones,45,45,0.128505
+5743,clima,13,13,0.165183
+5744,en que día cae mi cumpleaños el próximo año,0,0,0.255798
+5746,que día de la semana es el doce,0,0,0.357684
+5755,audio,14,45,0.058013
+5763,pon artista,45,45,0.521707
+5770,el restaurante manolo entrega comida para llevar,3,16,0.079788
+5782,habrá niebla después de la puesta del sol,13,13,0.360765
+5788,hace frío fuera,13,13,0.096217
+5792,despertador,0,12,0.110482
+5793,ponga una alarma para las cinco en punto de esta noche etiquetada taxi,48,48,0.172842
+5816,tiempo en mi pueblo,13,13,0.518795
+5824,toca la cuarta canción del mismo album después de esta canción,45,45,0.458702
+5832,alexa pon rock clásico,45,45,0.537918
+5854,activa robot aspirador,34,12,0.107721
+5862,es este el día mas caliente en sevilla,13,0,0.315173
+5867,háblame sobre los temporizadores de alarma,23,48,0.101352
+5882,significado de una palabra en particular,12,26,0.12666
+5884,escuchar música,45,45,0.531964
+5937,voy a necesitar un chubasquero para esta noche,13,13,0.369453
+5943,comercio internacional y mercado empresarial,22,12,0.113493
+5957,puedes silenciarte un rato por favor,46,12,0.107919
+5968,quiero pedir comida,16,16,0.06003
+5982,a qué hora tienes alarmas programadas para mi,23,48,0.17719
+5989,me gustaría un poco de café ahora,56,19,0.072398
+5990,preparar mi café de la mañana,56,50,0.111461
+6001,tiempo para un cafe,56,16,0.064546
+6008,está mi pedido del domino's pizza preparado,3,16,0.103683
+6009,donde puedo recoger mi comida china,3,19,0.071614
+6035,abre reloj,48,13,0.070742
+6044,siguiente reproducir la canción seleccionada,45,45,0.550214
+6052,alexa aumenta el brillo de la luz es difícil ver aquí abajo,18,1,0.083838
+6071,está mi orden lista para recoger ya,3,53,0.16543
+6079,alarma,48,48,0.059285
+6089,necesito llevarme un paraguas esta tarde,13,13,0.422352
+6096,pon la canción de daddy yankee,45,45,0.539761
+6104,oye va a llover hoy en malasaña madrid,13,13,0.454502
+6105,hola olly cómo está el tiempo en palma mallorca,13,13,0.502123
+6107,pon michael buble save the last dance,45,45,0.46856
+6111,hola alexa pide dos alas de pollo con papas fritas del restaurante chino,16,16,0.081396
+6115,oye alexa pide una pizza carbonara con extra de queso,16,16,0.095944
+6120,hola siri que hora es en granada andalucía,0,0,0.455379
+6131,reproducir algo cosa en mi lista de reproducción reciente,45,45,0.181729
+6132,pon cualquier cosa de mi playlist reciente,45,45,0.488419
+6135,dame información sobre la canción que está sonando,57,45,0.241893
+6136,se gracioso por mi,25,12,0.218466
+6140,olly debo ponerme los guantes o no,13,13,0.109724
+6144,dime el tiempo para el próximo mes,13,13,0.534134
+6158,enciende la aspiradora,34,12,0.091761
+6164,debería ponerme varias capas hoy,13,1,0.061226
+6169,mira el pronóstico del tiempo de esta semana,13,13,0.520104
+6170,enséñame el pronóstico del tiempo para una semana,13,13,0.488624
+6176,puedo recibir la entrega desde aquí,3,12,0.142178
+6183,el metro estuvo muy ocupado hoy,12,13,0.155779
+6187,cuentame sobre mi dia,12,12,0.198946
+6188,dolores notas algo extraño en tu mundo,12,49,0.224964
+6193,quieres escuchar lo que ha pasado hoy,12,12,0.158799
+6198,como me conoces,12,12,0.204518
+6209,sería genial cenar en este nuevo restaurante abierto en el centro,12,19,0.125999
+6236,como te va,12,13,0.251262
+6240,hoy obtuve recompensas olly,12,12,0.227251
+6246,tuve muchas reuniones hoy,12,32,0.311115
+6249,de donde eres,12,49,0.394825
+6259,el tiempo esta soleado hoy,12,13,0.511317
+6262,oye google gane un gran premio de loteria de un millon de dolares,12,50,0.100157
+6265,dime las noticias importantes de hoy,22,22,0.470398
+6271,como esta el dia hoy,12,13,0.296051
+6303,huevos wakey wakey y panaderia,12,49,0.210433
+6314,que ha pasado,12,13,0.234019
+6317,algo interesante en las noticias de hoy,22,22,0.479502
+6356,me han invitado al pub el sábado,12,54,0.063101
+6361,dime una buena bebida alcohólica,12,12,0.07141
+6364,dime algo sobre américa,12,12,0.148227
+6367,deportes,12,12,0.108446
+6381,oye que buenas peliculas saldran pronto,12,49,0.283053
+6389,que haces con mis datos personales,12,22,0.121437
+6404,cuando quiero que tome notas,12,49,0.173782
+6414,mi plan semanal,32,12,0.13653
+6420,trivia,12,12,0.129634
+6422,temas de wikipedia,12,12,0.09982
+6425,que pasa,12,12,0.1387
+6452,las razas de perros mas hiperalergicas,12,12,0.110437
+6482,me metí en un accidente hoy,12,13,0.196551
+6483,fui a walmart hoy,12,13,0.234751
+6490,chistes sarcásticos,25,45,0.147364
+6493,noticias de ocio,22,22,0.445684
+6499,móvil,12,12,0.080125
+6502,me empape bajo la lluvia,12,13,0.141486
+6513,moda,12,12,0.085355
+6520,horario,32,12,0.107218
+6522,dame respuestas,12,22,0.106156
+6540,marca el día de hoy como mi día trampa,50,0,0.318101
+6548,hoy fue un día agotador,12,0,0.294345
+6558,te gusta mi novia,12,49,0.155279
+6570,háblame de rihanna,12,49,0.10153
+6571,qué pasa en new york,6,49,0.104511
+6595,que hice esta vez,12,49,0.184743
+6597,como estuvo tu dia,12,13,0.383325
+6599,el cosmos,12,13,0.145942
+6603,niveles de calefacción a que hora en el apartamento,12,0,0.21857
+6607,chistes,25,12,0.111874
+6613,cocine,37,12,0.104218
+6628,tasas de previsión,12,12,0.097309
+6638,coches,12,42,0.068254
+6640,muy agitado,12,12,0.103672
+6642,consejos recientes sobre seo en google,12,22,0.275065
+6648,chiste del dia,25,13,0.382157
+6655,ingredientes necesarios en la tienda de comestibles,12,19,0.193431
+6673,como va,12,12,0.197841
+6675,si pudieras hablar de tres cosas cuales serian,12,12,0.141814
+6677,investigacion del espacio,12,12,0.116951
+6692,libros,12,12,0.137633
+6699,chismeando sobre famosos,12,12,0.14779
+6723,olly cuál es mi agenda para lo que queda de semana,32,32,0.134926
+6734,borrar mi día de reuniones,30,50,0.203606
+6741,por favor pon en mi calendario despertarme diariamente a las diez a. m.,50,50,0.531825
+6751,cuándo es mi próxima reunión,32,50,0.315917
+6760,cancela mi llamada diaria de las cinco de la tarde,30,50,0.184478
+6771,programa una cita con carlota,50,50,0.520026
+6775,cuando es eso,12,0,0.357542
+6778,tengo algún evento hoy,32,50,0.422894
+6779,tengo yo algo reservado para mañana,32,50,0.169441
+6792,di me acerca de mis eventos,32,50,0.216585
+6808,elimina todos los eventos de mi calendario,30,30,0.162836
+6821,olly recuérdame el picnic en el retiro,50,50,0.4009
+6823,olly quiero ir al cine al aire libre este fin de semana recuérdamelo,50,50,0.430975
+6827,has añadido una reunión con tomás para mañana a las nueve de la tarde,32,50,0.575207
+6831,elimina todos los eventos de los próximos cinco días,30,30,0.152387
+6841,tengo alguna reunión mañana a las nueve p. m.,32,50,0.515016
+6858,programa el siguiente evento en el calendario con las siguientes personas,50,50,0.557286
+6873,puedes borrar el evento pasado que yo visité,30,50,0.237315
+6875,tengo algún evento próximo en mi calendario,32,50,0.50799
+6881,cuándo es mi próxima cita en calendario,32,50,0.303717
+6883,borra la fiesta de cumpleaños mañana a las dos de la tarde,30,50,0.249518
+6898,puedes borrar todos los eventos de mi calendario,30,50,0.29037
+6905,es muy dificil,12,13,0.137478
+6908,necesito un recordatorio todos los días a las nueve de la mañana,50,50,0.309464
+6912,quién debería esperar yo que esté en la reunión de hoy,32,50,0.413176
+6914,pon reunión del lunes en agenda todos los lunes,50,50,0.533718
+6920,programa una notificación para el seis de marzo que hay una reunión de la sociedad a las once a. m.,50,50,0.552073
+6925,hay algún programa para mañana por la algún,32,50,0.248382
+6927,eliminar todos los eventos e información,30,50,0.097011
+6929,elimina todos los eventos y horarios,30,30,0.111287
+6932,de qué va mi evento programado para mañana,32,50,0.381691
+6939,recuérdame la reunión de mañana a las diez de la mañana,50,50,0.55608
+6948,cuántas reuniones tengo yo esta semana,32,32,0.337944
+6952,deja el calendario limpio,30,50,0.367816
+6963,por favor recuerda me una hora antes de la reunión que yo tengo mañana por la mañana,50,50,0.494684
+6985,cuál es mi horario de tarde de mañana,32,32,0.229605
+6990,próximos eventos,32,50,0.225652
+6991,últimos eventos,32,50,0.219946
+7007,programar una cita para alex mañana,50,50,0.539539
+7016,hay algún evento próximo en mi calendario,32,50,0.445455
+7034,poner un recordatorio para las vacaciones el mes que viene,50,50,0.313571
+7035,calendario claro para este mes,30,50,0.470656
+7043,pon una alarma dentro de dos horas por favor,48,48,0.184799
+7052,tengo que hacer algo este sábado entre las dos y las cuatro de la tarde,32,50,0.271408
+7064,por favor borra todos los eventos de mi calendario para el resto del día,30,50,0.304996
+7065,que eventos hay en mi calendario para hoy,32,50,0.381423
+7066,cuáles son mis eventos de calendario,32,50,0.402642
+7070,tengo algún recordatorio hoy,32,32,0.319258
+7086,elimina la reunión de hoy por la noche,30,30,0.160908
+7101,avísame la mañana de la cita con el médico del doce,50,50,0.460139
+7104,crer una entrada de calendario para almorzar el sábado por la mañana con pedro lesma y tomás,50,50,0.522644
+7108,recuérdame quedar con virginia hoy a las seis de la tarde,50,50,0.576825
+7112,cuándo es la reunión con mi jefe la próxima semana,32,50,0.395488
+7131,borra la boda del día diez de mi calendario,30,50,0.360518
+7134,qué hacer a continuación en los eventos,32,50,0.13992
+7136,tengo una cita mañana recuérdame,50,50,0.52055
+7164,cuatro de la tarde,50,50,0.138315
+7169,veré a mi terapeuta cada jueves a las dos de la tarde,50,50,0.271595
+7174,cancelar,30,12,0.088153
+7184,quiero ir al cumpleaños de sally el sábado a las diez de la noche,50,50,0.241446
+7201,que tengo que hacer yo la semana que viene,32,32,0.224116
+7223,dime la fecha de inauguración de la empresa de mi amigo antón,32,50,0.20952
+7229,por favor marca en mi agenda vacaciones a cuba el dos de abril,50,50,0.342126
+7239,recuerda me a las ocho de la tarde que tengo que tomar mi medicamento,50,50,0.394435
+7244,cuando empezará el partido,32,32,0.190498
+7255,qué tengo yo programado para mañana necesito cancelar,30,50,0.161766
+7260,establecer recordatorio para la reunión a las tres de la tarde mañana,50,50,0.546579
+7279,recuérdame que recoja la colada el próximo lunes,50,50,0.579213
+7300,establecer un recordatorio de que tengo que visitar a mi padre mañana,50,50,0.562572
+7305,agregar al calendario un evento de reunión para esta tarde,50,50,0.582169
+7309,cual es mi primera cita hoy,32,32,0.286615
+7310,qué tengo en mi agenda para hoy,32,32,0.193304
+7312,recuerdame la reunión con ricardo para almorzar mañana,50,50,0.567924
+7317,puedes fijar la ubicación en casa de mi hermana para este evento,50,50,0.348265
+7341,quita el próximo evento de mi agenda,30,50,0.433531
+7345,añade cumpleaños roberto el doce de julio a mi agenda,50,50,0.554855
+7351,en agenda pon que tenemos cena con fran a las ocho de la tarde el nueve de agosto,50,50,0.467381
+7357,cuál es la lista de eventos de mi calendario en marzo,32,50,0.386201
+7373,cuando esta programada la boda,32,50,0.299636
+7374,qué reuniones hay available en marzo,32,32,0.218562
+7381,por favor revisa el tercer evento del veintidós de marzo de dos mil diecisiete,32,50,0.45322
+7401,agregue el día de san valentín con ella mañana,50,50,0.297419
+7402,añade cumpleaños con mamá el próximo mes,50,50,0.332471
+7421,crear una reunión con mi amigo,50,50,0.446919
+7424,asistir a la fiesta antes de la reunión,50,50,0.473633
+7445,por favor crea un evento solo con estas personas,50,50,0.435793
+7458,recuerda recogerme a las doce del mediodía del aeropuerto tengo una reunión a las tres de la tarde,50,50,0.569743
+7470,programa una reunión con joan el diez de marzo,50,50,0.558503
+7474,recuerda arreglar una reunión entre los jugadores y yo mañana por la tarde noche a las siete,50,50,0.57127
+7486,cuáles son mis actuales alertas,32,49,0.226303
+7495,recuérda me la entrevista de mañana,50,50,0.498644
+7505,próximos eventos,32,50,0.225652
+7516,pon cómo evento que se repite,50,50,0.166152
+7517,programar una reunión el martes,50,50,0.567635
+7523,que pasó en la reunión de ayer,32,50,0.39241
+7530,por favor agregue mi próxima reunión,50,50,0.548604
+7541,establecer recordatorio para mañana para este artículo,50,50,0.432586
+7555,llamar persona para la reunión,50,50,0.236727
+7571,cuando es el ciclo de facturación,32,12,0.099327
+7595,programa un temporizador de cinco minutos para las galletas,50,50,0.195901
+7617,cuándo empieza el partido de hockey del viernes,32,32,0.208792
+7620,por favor borra todos mis eventos del calendario,30,50,0.340972
+7627,recuérda me hacer una pizza mañana por la mañana,50,50,0.312256
+7631,programa una oración al mediodía todos los viernes,50,50,0.416912
+7646,tengo algún recordatorio pendiente,32,32,0.277223
+7653,no te olvides de recordarme el cumpleaños de mi hermano el veinte de abril,50,50,0.367808
+7665,quiero agregar una cita para almuerzo con miguel juan y andrés,50,50,0.507308
+7675,recuérdame la próxima reunión a las cuatro de la mañana de hoy,50,50,0.572042
+7676,enumera la próxima reunión,50,50,0.47077
+7682,buscar y eliminar todos mis eventos de fin de semana con tamara conde,30,50,0.341978
+7684,anota este evento en mi calendario,50,50,0.526455
+7688,tengo algún recordatorio pendiente,32,32,0.277223
+7699,acuérdate de recordarme esto,50,50,0.324424
+7703,hey olly programa un recordatorio para la reunión de mañana a las diez de la mañana,50,50,0.540055
+7720,por favor dime los recordatorios pendientes,32,50,0.306091
+7723,cuéntame sobre la reunión que tengo esta semana,32,50,0.429879
+7727,tengo un cumpleaños el lunes fija el evento,50,50,0.505212
+7729,tengo un vuelo el quince,50,50,0.178769
+7731,programar un evento para la tarde,50,50,0.532658
+7732,establecer el cumpleaños de javier para cada tres de junio,50,50,0.493057
+7734,recuérdame que vaya a la tienda todos los viernes,50,50,0.546051
+7738,elimina hacer la compra de mi agenda del sábado,30,30,0.100344
+7747,borrar todos los datos de mi calendario,30,50,0.229225
+7753,que tengo que hacer el lunes,32,32,0.305405
+7755,repite un evento en mi calendario,50,50,0.527125
+7766,hay alguna forma de seguir delante y borrar mi calendario para el mes,30,50,0.299381
+7769,añade mi práctica en parque del rey del cuatro de febrero a las dos de la tarde,50,50,0.45698
+7780,por favor recuérdame el cumpleaños de andrés,50,50,0.568665
+7782,cómo tengo el horario de hoy,32,0,0.308799
+7801,agregar una nota para asistir,50,50,0.097897
+7804,crea un recordatorio que se repita todos los días a las ocho a. m. para mis tareas del trabajo,50,50,0.475314
+7830,despeja mi horario,30,12,0.102912
+7840,tengo que estar en algún lado entre las ocho de la mañana y las cinco de la tarde hoy,32,50,0.227968
+7846,qué recordatorios tengo para esta semana,32,32,0.289809
+7852,añadir evento para el entrenamiento de baloncesto a las cinco de la tarde esta noche,50,50,0.54725
+7867,cómo será mi mañana mañana,32,32,0.195859
+7871,quién va a asistir a la reunión este viernes,32,50,0.530068
+7877,qué pasó entre el segundo y el décimo quinto,22,32,0.11419
+7880,cuénta me todos los eventos entre hoy y el veintiuno,32,50,0.305199
+7893,por favor ponme al día sobre las elecciones cada treinta minutos,50,50,0.145418
+7907,tengo alguna cita hoy,32,50,0.253122
+7920,abrir calendario eliminar todos los eventos,30,50,0.453086
+7930,recordar mi examen de biología en la universidad de sevilla el viernes,50,50,0.504906
+7945,que es el veinte de noviembre,32,32,0.314645
+7947,cuál es el horario del próximo concierto de maggie rogers,32,32,0.225038
+7968,qué tengo que saber sobre el show,32,22,0.097635
+7969,quién y por qué está en el teatro esta noche,6,0,0.130957
+7977,hay algún recordatorio establecido para hoy,32,32,0.295839
+7999,por favor elimina la reunión de padres y profesores programada para el siete de marzo,30,50,0.286826
+8014,tengo yo una reunión para hoy en mi calendario,32,50,0.52292
+8039,por favor establece un recordatorio para ir a trabajar en diez minutos,50,50,0.556259
+8046,cuántas reuniones tengo la próxima semana,32,32,0.335929
+8047,el catorce de febrero hacer reservaciones para cenar en el restaurante,50,50,0.153967
+8057,que pasa este fin de semana,32,32,0.190126
+8059,es esta semana la semana de recolección de basura,32,32,0.25672
+8061,a que hora empieza la cena de fiesta esta noche,32,32,0.197724
+8063,cuando es mi próximo recordatorio,32,32,0.340717
+8068,cuéntame todos los detalles conocidos sobre el torneo del veintidós de marzo,32,50,0.209978
+8069,programar el almuerzo en tomo en arcata california mañana al mediodía,50,50,0.517182
+8072,tengo una cita el viernes,32,50,0.446123
+8078,envíeme un recordatorio para recoger a mi perro del peluquero a la una por la tarde,50,50,0.535696
+8089,cuándo es mi reunión,50,32,0.288983
+8101,olly envíame un correo electrónico con mis citas para reprogramar,33,44,0.369377
+8122,alterar el evento del almuerzo para repetir cada viernes,50,50,0.495433
+8127,reunión actualizar mi calendario para reflejar la reunión,50,50,0.522056
+8132,cuándo saldrán los trenes mañana,32,42,0.15625
+8133,fija un recordatorio a las tres p. m. para recoger a gema,50,50,0.558032
+8146,cancela mi reunión del catorce,30,50,0.255703
+8152,dame información sobre el concierto del martes por la noche,32,50,0.315611
+8160,yo necesito que me recuerden que hay una reunión para la jubilación de paul recordatorio para el martes a las tres de la tarde,50,50,0.577784
+8192,que esta pasando en ese evento,6,50,0.3309
+8207,qué tengo que hacer esta mañana entre las diez y las doce,32,50,0.233098
+8208,a qué hora es la reunión vespertina que tengo con john,32,32,0.272773
+8253,recordarme que tengo que levantarme a las cinco de la mañana cada día,48,50,0.406961
+8258,más sobre el concierto en sala caracol,32,50,0.082846
+8263,siri recuerda me la reunión de mañana esta noche,50,50,0.445242
+8270,notificación de la reunión el miércoles,50,50,0.523726
+8272,agregar mi próxima reunión a mi calendario,50,50,0.552843
+8282,completamente claro mi calendario por favor,30,50,0.462437
+8287,por favor borre la reunión que tengo con óscar esta noche,30,50,0.492632
+8311,establecer un recordatorio los miércoles a las dos de la tarde,50,50,0.490673
+8315,es cierto que el cumpleaños de antonia es el primero de marzo,32,32,0.334039
+8323,agregaste la reunión de mañana a mi calendario,32,50,0.539008
+8325,agregue reuniones de almuerzo al mediodía todos los días de esta semana,50,50,0.482433
+8329,establecer un recordatorio para la reunión del viernes a las tres p. m.,50,50,0.547498
+8333,borrar todo del calendario,30,50,0.254353
+8372,hola siri asegúrate de que mi calendario esté completamente despejado mañana,30,50,0.487965
+8373,nueva notificación de reunión en dos horas,50,50,0.481469
+8377,recuérdame acerca del calendario,50,50,0.583389
+8384,hay citas pendientes esta mañana,32,50,0.333487
+8385,es esta semana una semana de día de pago,32,50,0.248726
+8417,cancelar todas las citas en mi calendario,30,50,0.247144
+8418,que recordatorios he configurado,32,32,0.2633
+8425,cuáles son las noticias de las seis y cuarenta y cinco de la mañana hoy,32,22,0.413237
+8434,eliminar mi evento a la una p. m. en mi calendario,30,50,0.46448
+8446,solo recuérdame que tengo que estar en la biblioteca semana desde hoy a las cinco,50,50,0.520911
+8447,establecer un recordatorio para el próximo sábado ir a la biblioteca a las cinco en punto,50,50,0.564285
+8451,avísame sobre la siguiente fiesta nacional,50,50,0.355004
+8463,eliminar mi evento de calendario a la una p. m. hoy dia,30,50,0.485873
+8479,establecer un recordatorio para mi reunión a las cinco p. m.,50,50,0.550921
+8487,por favor agregue una cita a las nueve de la mañana del miércoles en la oficina del doctor salgado,50,50,0.571618
+8491,cuáles fueron los aspectos más destacados del partido de fútbol de esta noche,32,22,0.225622
+8493,dime que tengo en mi agenda para hoy,32,32,0.165615
+8510,cuándo vendrá bruno mars a salamanca,32,13,0.10373
+8522,quiero agregar algo a mi calendario,50,50,0.486301
+8528,elimina el evento del calendario y actualiza,30,50,0.207276
+8543,qué eventos tengo yo por venir,32,50,0.281888
+8548,cancela el próximo evento de la agenda,30,50,0.220194
+8549,cancele el próximo evento en el calendario,30,50,0.307296
+8578,qué reuniones tengo entre las ocho y las diez hoy,32,32,0.33213
+8592,recuérdame mañana a las dos p. m.,50,50,0.536543
+8594,programa un evento en mi calendario para la fiesta en la piscina en casa de jose este sábado,50,50,0.567123
+8602,cuál es la dirección del evento programado para el uno de enero,32,50,0.34076
+8606,quiero quedar con sara mañana,50,13,0.163866
+8609,cancelar mi reunión del martes con sandra y reubicarla el jueves,50,50,0.383335
+8612,elimina la comida del jueves de mi calendario,30,30,0.141895
+8619,programa y evento para el día quince de cada mes para recordarme que debo pagar mi factura de internet,50,50,0.531282
+8622,agregue la siguiente fecha y hora a mi calendario,50,50,0.4567
+8626,cuándo es el evento,32,32,0.293946
+8655,añade un evento que empiece a as tres de la tarde en sevilla andalucía el cinco de mayo para la graduación de dan,50,50,0.574725
+8668,en el ultimo año cuantas horas he estado en reuniones,32,0,0.227569
+8677,eliminar reunión,30,12,0.084445
+8697,tengo una reunión con pepi el veintiuno de marzo a las diez,50,50,0.555491
+8699,necesito prepararme para una reunión,32,50,0.448757
+8707,enséñame mis próximos eventos,32,50,0.321684
+8714,borrar el próximo evento del calendario,30,50,0.333291
+8723,dice mi calendario si estoy libre el uno de abril de dos mil diecisiete,32,50,0.462228
+8729,establecer un recordatorio de cita semanal,50,50,0.526766
+8749,marcar dentro de dos días como mis vacaciones,50,0,0.178831
+8751,reunión del martes al mediodía,50,50,0.523931
+8752,tengo algo programado para el siete de marzo,32,50,0.45513
+8753,olly programa mi cita médica del viernes a las dos de la tarde,50,50,0.456507
+8755,puedes agregar mis reservas para cenar a mi calendario,50,50,0.415743
+8778,establecer información de calendario para el matrimonio de albert,50,50,0.519517
+8783,tengo algún evento en el calendario hoy,32,50,0.495837
+8786,lugar de vacaciones en mi ubicación,6,13,0.092799
+8788,búsqueda de acontecimientos recientes en fechas concretas,6,22,0.192077
+8800,tengo algún recordatorio en mi lista,32,50,0.20298
+8802,por favor recuérdame,50,50,0.524353
+8803,por favor pon una alarma para,48,48,0.08926
+8808,necesito que me recuerden las reuniones del lunes,50,50,0.45011
+8829,es falso el evento del calendario,32,50,0.436398
+8834,eliminar todas mis reuniones por el resto de la semana,30,50,0.242482
+8842,añadir al calendario el dos de mayo es el cumpleaños de mary repetir cada año,50,50,0.562454
+8847,quiero que me recuerdes que me lleve mi chubasquero porque puede llover,50,12,0.08396
+8848,por favor dime que me lleve el paraguas porque hoy va a hacer mucho calor,50,13,0.345509
+8859,cuál es mi programa para el catorce de junio de dos mil diecisiete,32,50,0.321463
+8863,por favor borra todos los recordatorios del domingo,30,50,0.299508
+8873,recuerda la cena del jueves en el bistro italia,50,50,0.306625
+8890,establecer recordatorio,50,50,0.428001
+8895,evento de calendario con estas personas,50,50,0.524634
+8896,limpia mi agenda para hoy,30,12,0.15818
+8899,detalles,32,12,0.113319
+8903,dime acerca de los últimos eventos,32,50,0.195061
+8928,cuándo son la reuniones,32,32,0.332775
+8933,cuando esta programada la fiesta,32,50,0.358942
+8934,notificarme todos los eventos de la próxima semana,50,50,0.464931
+8938,aniversario de boda de jesús,50,50,0.28499
+8941,cuando hay festivos este mes,32,32,0.287309
+8953,déjame saber sobre mi reunión del martes,50,50,0.485935
+8959,quiero que me recuerdes sobre el programa de la noche,50,50,0.456775
+8984,borra cumpleaños de lucas del calendario,30,50,0.293918
+9002,ok google programar una reunión con el subdirector del departamento a veintiuno de marzo de dos mil diecisiete,50,50,0.563102
+9004,necesito una reunión con el controlador financiero el jueves,50,50,0.550605
+9008,elimina el evento de cumpleaños de mi calendari,30,50,0.171367
+9013,acuérdame el cinco de abril que hay una reunión con el jefe,50,50,0.559739
+9023,crea un recordatorio para solicitar un visado este jueves,50,50,0.53399
+9040,hacer en blanco el tres de julio calendario,30,50,0.378251
+9049,pon una alarma para martes a las cuatro de la tarde,48,48,0.243582
+9051,hacer un recordatorio de evento para la boda de virginia el martes,50,50,0.54661
+9065,pon un evento que se repita en el calendario,50,50,0.539696
+9067,estoy ocupado este fin de semana,32,32,0.193771
+9069,olly yo tengo una cita la semana que viene,32,50,0.325907
+9082,borrar el día de después del evento,30,50,0.284864
+9097,recuerda reinciar los eventos que lo necesiten,50,50,0.351583
+9123,añade visita de mi hermana a mi calendario familia mi,50,50,0.518463
+9127,donde esta ubicado el centro de convenciones,49,49,0.082538
+9136,alguna reunión el viernes,32,50,0.51948
+9144,recuerda me que yo tengo cita a las doce en punto del sábado,50,50,0.399065
+9164,alexa tengo algún evento en el calendario este mes,32,50,0.539443
+9171,siri haz una entrada en calendario para el próximo sábado a las diez de la mañana por favor,50,50,0.493114
+9179,acuérdame de la reunión de el veintidós de enero,50,50,0.533571
+9189,recuérda me la reunión en una hora,50,50,0.585714
+9190,recordar en una hora mi reunión,50,50,0.439083
+9208,pon un algo de radio,36,45,0.336647
+9211,pon la radio,36,45,0.228171
+9214,abre los cuarenta estación rock,36,36,0.111382
+9215,abra iheartradio rov la rock,36,45,0.470709
+9228,sintonizar un canal de radio para los chistes buenos,36,36,0.124496
+9249,iniciar la radio,36,36,0.158573
+9253,radio tele taxi,36,54,0.066
+9256,enciende la radio,36,36,0.180236
+9280,por favor sintonice el canal de radio,36,36,0.195625
+9281,me gustaria escuchar esa canal de radio,36,45,0.253266
+9287,cambia la radio,36,36,0.151213
+9299,puedes empezar fm ochocientos noventa canal de radio,36,36,0.196387
+9310,pon melodía,36,45,0.499083
+9325,pon cadena ser,36,45,0.421928
+9340,enciende el emisora novecientos cincuenta y uno,36,50,0.110135
+9343,por favor pon la radio,36,45,0.250618
+9355,radio encendida,36,36,0.160978
+9369,ir a mi canal de radio favorito,36,36,0.156504
+9371,pon una canción que me haga sonreir,45,45,0.499209
+9375,pon novecientos setenta y uno,36,45,0.172759
+9382,pone cataluña radio por favor,36,36,0.179286
+9383,toca bbc radio uno,36,36,0.171388
+9391,por favor abra mi radio f. m. y reproduce novecientos ochenta y siete,36,45,0.227485
+9425,olly quiero oír una emisora que ponga pop,36,45,0.391674
+9428,pon el partido de fútbol en la radio,36,45,0.211494
+9432,cuantos de mis podcasts de deportes tienen episodios nuevos que no haya escuchado,36,22,0.139845
+9442,abre pandora y reproduce los mejores éxitos,36,45,0.502687
+9447,por favor pon música popular en itunes,36,45,0.561377
+9453,ponte radio famosa para mi,36,36,0.158403
+9454,ponme algo de música de radio de cadena ser,36,45,0.50269
+9459,por favor pon los mejores country,45,45,0.499957
+9489,reproducir programas de música en la radio,36,45,0.437864
+9492,reproducir la lista de reproducción actual,45,45,0.29818
+9500,encuentra el faro del jazz en spotify,36,45,0.236171
+9512,pon la emisora cadena dial en spotify,36,45,0.25649
+9518,reproducir noticias en f. m.,36,22,0.35994
+9521,reproduce el episodio de alejandro sanz faro del jazz de los vencejos,36,50,0.0833
+9534,pon cadena cero,36,45,0.067142
+9580,reproducir una emisora de radio de noticias,36,36,0.13668
+9589,ok google puedes empezar anda ya,36,49,0.107862
+9593,pon mi estación favorita a las veintiún horas,36,50,0.115328
+9599,cadena ser,36,12,0.111781
+9606,reproducir los programas en este pad requeridos,36,45,0.141182
+9612,que estaciones estan poniendo buena música esta mañana,36,45,0.34822
+9614,sintoniza kiss f. m.,36,12,0.098411
+9615,pon una radio de flamenco,36,45,0.301501
+9633,pon el programa nadie sabe nada,36,36,0.10429
+9642,reproduce b. b. c. radio cuatro,36,45,0.40975
+9660,pon este programa,36,45,0.113959
+9673,puedes poner mi audiolibro favorito de harry potter,20,45,0.213234
+9677,puedes poner el audiolibro de el tiempo entre costuras,20,13,0.15651
+9688,empieza el capítulo siete de harry potter,20,22,0.067259
+9692,reanuda audiolibro los besos,20,45,0.310391
+9709,puedes pausar la radio,20,36,0.178139
+9712,sigue reproduciendo mi audiolibro,20,45,0.50972
+9725,pausar el audiolibro,20,12,0.058427
+9733,abre el código davinci donde lo dejé,20,47,0.097573
+9734,comeinza a reproducir el audiolibro de patria,20,45,0.483167
+9736,reproducir audiolibros agregado recientemente,20,45,0.520021
+9743,pon audio,20,45,0.18007
+9756,reanuda mi audiolibro donde lo pausé la última vez,20,45,0.142615
+9765,reanuda el último audiolibro reproducido,20,45,0.481191
+9771,por favor reproduzca el audio recientemente pausado,20,45,0.224918
+9775,reanudar mi audiolibro desde el principio del último capítulo que comencé,20,50,0.137953
+9778,pon el circulo,20,36,0.083157
+9783,tomemos un descanso de cinco minutos,20,50,0.194524
+9787,empezar a leer el libro,20,12,0.114976
+9798,reanudar el último reino para mí,20,12,0.146567
+9811,abra el audiolibro de harry potter y reprodúzcalo desde la última vez que se reprodujo.,20,45,0.316197
+9816,busca esta reproducción en audiolibro y reprodúcela para mí,20,45,0.457927
+9817,por favor reanuda esta reproducción en audiolibro,20,45,0.532861
+9822,escucha the martian del downpour,20,49,0.097617
+9831,empieza a leer cincuenta tonos de gris desde el capítulo cuatro,20,1,0.04423
+9834,reanudar una canción del audiolibro de michael jackson,20,45,0.541677
+9838,reproducir audiolibro blanco como la nieve,20,45,0.458317
+9840,puedes continuar con el audiolibro patria,20,49,0.144876
+9849,pon audiolibro jai ho,20,45,0.433265
+9863,reanudar la lectura de la lección de francés,20,50,0.116665
+9872,por favor reproduce un resumen de algunos puntos importantes,20,53,0.090846
+9874,empieza a leer ese libro de alan partridge,20,12,0.083996
+9876,continúa con mi audiolibro por favor,20,45,0.182557
+9889,seguir reproduciendo el tiempo entre costuras,20,13,0.462949
+9892,olly reanuda las dos torres,20,22,0.052323
+9907,reproducir desde este punto de este audiolibro,20,45,0.405212
+9921,díme como se hace el pan de ajo,9,49,0.065943
+9926,cuánto tiempo para cocinar pasta,9,13,0.080042
+9934,qué puedo cocinar con brocoli y pollo,9,9,0.067076
+9951,enséñame como cocinar,9,9,0.062954
+9965,cómo puedo cocinar pasta,9,19,0.05976
+9968,qué ingredientes se pueden usar para reemplazar al vino blanco,9,12,0.058595
+9978,podría mostrar los vídeos para cocinar comida italiana,9,19,0.071705
+9982,olly como hago ensaladilla,9,49,0.249883
+9993,cómo se cocina la merluza,9,9,0.066239
+9996,qué comida más sexy para cocinar en una cita,9,19,0.094087
+9999,por cuánto tiempo tengo que poner la pizza en el horno para que esté crujiente,9,16,0.087643
+10017,cómo cocinar las judías verdes,9,19,0.089637
+10020,dame recetas,9,13,0.062901
+10022,usa google para mostrarme cómo cocinar,9,19,0.069493
+10037,dame las mejores ideas para cocinar,9,12,0.096844
+10039,muéstrame una receta de galletas,9,19,0.070045
+10041,cómo hacer galletas,9,13,0.070767
+10058,cuántas copas en un cuarto de hora,9,0,0.169574
+10070,cómo hornear una patata,9,9,0.060175
+10086,busca una receta de pizza,9,16,0.092994
+10110,cómo hago un pastel de carne,9,9,0.059209
+10129,búscame la receta d ela sopa de fideos con pollo,9,9,0.057454
+10135,busca menus sin gluten,9,19,0.061886
+10138,enséña me cómo cocinar una receta,9,9,0.063861
+10143,cuanto tiempo debo enfriar una tarta,9,13,0.517599
+10146,cómo cocinas una tortilla de queso,9,19,0.091531
+10152,consigue la receta para hacer pizza,9,16,0.093057
+10154,cazuela receta de pollo guisado,9,9,0.061522
+10157,puedes mostrar una receta de espaguetis,9,16,0.065223
+10162,muestra una receta para cocido madrileño,9,19,0.086283
+10169,recetas,9,12,0.083123
+10186,por cuánto tiempo horneo las pechugas de pollo,9,9,0.059337
+10195,receta de carne de cangrejo,9,9,0.055299
+10196,necesito algunas ideas para la cena que sean mexicanas,9,22,0.132097
+10210,no más comentarios,9,12,0.157672
+10218,cuál es el tiempo de cocción de los huevos hervidos,9,13,0.404144
+10237,encuentra una receta fácil de leche de almendras,9,19,0.075804
+10238,encuentra una receta para hacer estofado de pollo,9,16,0.074893
+10242,busca una receta de comida,9,16,0.069334
+10245,alexa juega ajedrez conmigo,51,49,0.15573
+10255,tengo ganas de jugar al ajedrez puedes jugar a eso,51,49,0.07415
+10267,qué tal un buen juego de ajedrez,51,49,0.141516
+10273,jugr solitario,51,45,0.296944
+10279,jugar un juego de carreras,51,19,0.041715
+10290,vamos a jugar pinball,51,49,0.074036
+10291,comienza a jugar serpiente,51,49,0.062017
+10293,quieres jugar un juego conmigo,51,49,0.046981
+10295,quiero que juegues a mi juego de fútbol desde el nivel quinto,51,49,0.084336
+10301,quiero jugar un partida de trivial,51,50,0.042435
+10303,encuentra un juego,51,12,0.041022
+10324,juega al parchís conmigo,51,54,0.04465
+10327,vamos a resolver el rompecabezas,51,13,0.249407
+10351,abre la saga de papa pear,51,22,0.062584
+10361,juguemos a damas,51,47,0.052808
+10364,jugar juegos,51,12,0.054062
+10367,puedes tomar un papel de enemigo en el juego de coc,51,47,0.036283
+10374,juega conmigo al ajedrez por favor,51,49,0.047095
+10388,puedes nombrar esa melodía,51,45,0.329797
+10397,puedes jugar póker conmigo,51,49,0.076639
+10412,juguemos warcraft,51,13,0.145627
+10415,juguemos tetris,51,12,0.185676
+10424,enumerar los artículos en mi lista de compras olly,59,53,0.172126
+10449,me gustaría cancelar el viaje a las vegas la semana que viene,53,12,0.082153
+10450,qué hay en mi lista de la compra hoy,59,53,0.157999
+10453,tacha el pan de la lista de la compra,53,53,0.187357
+10457,añadir el vodka a la lista de la compra para mi fiesta,59,53,0.110452
+10458,eliminar una lista de cosas para comprar,53,53,0.143551
+10468,puedes crear una nueva lista,21,53,0.13203
+10470,quita la lista de artículos de comida comprados la semana pasada,53,53,0.14026
+10475,depende de lo visto,53,12,0.141001
+10486,borrar lista,53,53,0.192425
+10488,hacer lista,21,53,0.12927
+10496,con qué supermercados tengo hecha una lista,59,53,0.126313
+10506,cuáles son mis listas,59,59,0.094426
+10518,que listas están disponibles,59,53,0.099602
+10520,encuentra la lista y quita manzana,53,53,0.121848
+10521,borrar mi antiguas lista de canciones inglesas,53,53,0.12813
+10526,por favor elimine una lista,53,53,0.191613
+10529,añade este articulo a la lista,21,53,0.151673
+10532,cuáles fueron las últimas cinco listas que hice,59,22,0.077662
+10539,envíame la última lista subida,59,53,0.134692
+10545,haz una lista de números para mi,21,59,0.090808
+10548,créame una nueva lista por favor,21,53,0.157085
+10551,qué hay en mi lista de qué hacer hoy,59,53,0.110095
+10554,que hago hoy,12,12,0.190324
+10555,marque el punto cinco en mi lista de tareas pendientes,59,53,0.151723
+10557,por favor muestra mi lista,59,53,0.157549
+10589,eliminar el archivo de excel de la lista,53,53,0.138822
+10602,dime una lista de reproducción,57,53,0.084235
+10605,cuantos artículos de comida hay en la lista,59,53,0.115961
+10614,la lista no debería de tener ningún artículo de comida con el prefijo seco,53,53,0.151053
+10616,crea una nueva lista antes de mañana,21,53,0.14366
+10626,hacer una nueva lista,21,53,0.140969
+10627,pon lápiz en mi lista de supermercado,21,53,0.120882
+10629,por favor elimine este elemento de la lista,53,53,0.186915
+10648,añadir supermercado la lista,21,53,0.164053
+10666,lee la lista,59,53,0.146118
+10672,reúne mi lista,59,53,0.14251
+10685,dime que listas tengo,59,59,0.102772
+10689,eliminar el elemento tres,53,26,0.065076
+10697,qué contiene la lista,59,53,0.112432
+10700,por favor agregue este artículo a la lista,21,53,0.159643
+10728,mostrar listas disponibles,59,53,0.108755
+10730,puedes decirme por favor que tengo en mi lista,59,53,0.101027
+10732,eliminar la pimienta de mi lista de la compra,53,53,0.185752
+10741,añade algo a mi lsita,21,12,0.168546
+10746,eliminar ese elemento de mi lista,53,53,0.141691
+10751,traductor google,59,12,0.119631
+10754,vuelve a leer lo que he puesto en mi lista de tareas para esta semana,59,53,0.139901
+10758,leer artículos de la lista de compras,59,53,0.173265
+10763,agregar cereales a mi lista de la compra,21,53,0.182551
+10767,hay huevos en mi lista de compras,59,53,0.136954
+10775,tengo una lista de contactos para la fiesta que estoy planeando,59,50,0.167842
+10784,eliminar mi lista de tareas pendientes,53,53,0.135404
+10791,quita el articulo de la lista,53,53,0.157184
+10797,por favor añade la leche a la lista de la compra,21,53,0.165786
+10806,podrías mostrar me mis listas,59,53,0.095788
+10817,abre listas quita lista,53,53,0.13674
+10830,olly qué es lo siguiente en mi lista,59,53,0.1349
+10844,quita la leche de mi lista de la compra,53,53,0.191794
+10850,por favor dime que listas he hecho,59,59,0.103597
+10854,reorganizar eso de la lista,53,53,0.178671
+10860,deja la lista,53,53,0.150982
+10865,olly qué más tengo en la lista,59,53,0.10923
+10870,añadir compras a mi lista para hacer hoy,21,53,0.148309
+10883,por favor dime cómo puedo eliminar el artículo,53,12,0.092783
+10886,puedo comprobar mis listas,59,53,0.091039
+10889,hice una lista de compra,59,53,0.17849
+10896,retire el artículo de mi lista,53,53,0.171817
+10901,crear una nueva lista de,21,53,0.130357
+10904,dime que hay sobre esta lista,59,53,0.116511
+10916,por favor elimine la primera lista,53,53,0.197005
+10924,eliminar la reunión del miércoles por la mañana,30,50,0.394266
+10925,crear una nueva lista de mis facturas pendientes,21,53,0.160042
+10928,léeme mi lista,59,59,0.099329
+10929,dame mi lista,59,53,0.140392
+10941,hacer una lista para el trabajo,21,53,0.150082
+10952,por favor elimine la lista titulada futball,53,53,0.18022
+10962,no quier mas esta lista,53,53,0.158548
+10965,tengo algo en mi lista de cosas por hacer,59,53,0.125937
+10967,que listas están disponibles ahora,59,53,0.101434
+10969,borra la última linea,53,53,0.107053
+10973,añadir una nueva lista para material escolar,21,53,0.147044
+10988,suprímase el periódico de mi lista de vacaciones,53,22,0.171185
+11004,lee mi lista de compras para hoy,59,53,0.174609
+11007,lo que hay en la lista para hoy,59,53,0.115109
+11014,incluir un elemento en una lista,21,53,0.114992
+11020,eliminar la compra de comestibles de la lista,53,53,0.159528
+11022,ya no tenemos pintura así que quítalo de la lista de la pintura de baño,53,53,0.134035
+11041,recuérdame pedir más jabón,21,50,0.435743
+11045,abrir mi lista,59,53,0.131923
+11047,eliminar la última canción reproducida,53,45,0.472147
+11061,por favor añade a rosa a mi lista de contactos,15,53,0.14373
+11063,puedes leerme mis listas,59,59,0.090346
+11064,eh qué hay en mis listas,59,59,0.103218
+11065,oye cuáles son mi listas,59,59,0.095883
+11070,puedes decirme que artículos estan en mi lista de la compra,59,53,0.133487
+11076,qué es esto en la lista,59,53,0.127932
+11077,dime qué hay en mi lista,59,59,0.108194
+11079,borrar una lista,53,53,0.201251
+11084,cancela la leche de la lista de la compra,53,53,0.161478
+11086,añade leche a mi lista de la compra,21,53,0.168629
+11096,quita la lista de musica de santana,53,53,0.092858
+11109,que esta en esta lista especifica,59,53,0.156139
+11119,puedo ver mis listas del trabjao,59,53,0.094355
+11122,añade esto a la lista,21,53,0.164605
+11131,por favor elimine mi lista de tareas pendientes de hoy,53,53,0.176227
+11160,no quiero huevos,53,49,0.169552
+11169,lista de lo que hay disponbile,59,53,0.103732
+11178,crear una lista de la compra mensual pendiente,21,53,0.15223
+11181,mi programa de trabajo,32,12,0.122247
+11182,mi plan de salud,59,12,0.167379
+11196,añade pásteles a la lista de navidad,21,53,0.13072
+11200,eliminar la lista de cosas por hacer,53,53,0.146888
+11212,borra la lista vieja de reproducción y crea una nueva,21,53,0.159115
+11214,comprobar lista,59,53,0.121376
+11245,cuántos elementos hay en mi lista de tareas,59,53,0.090096
+11256,comprueba mi lista,59,53,0.129325
+11281,puedes adelantar un episodio en el podcast,58,50,0.124353
+11283,reproducir el siguiente episodio,58,58,0.090028
+11294,localizar mi podcast,58,58,0.085613
+11300,pasar al siguiente episodio,58,58,0.094422
+11305,reproducir el podcast de la razón más reciente,58,58,0.107086
+11324,pasar al siguiente episodio,58,58,0.094422
+11326,reproduce el séptimo episodio de anda ya,58,50,0.088754
+11332,encuentra y crea una lista de reproducción de las últimas pistas de baile,45,45,0.084344
+11333,organiza y pon todas las canciones de nach,45,45,0.579035
+11338,reproduce el podcast desde el principio,58,58,0.109259
+11348,oye pon ese podcast que dejé anoche,58,58,0.093455
+11358,salta al siguiente podcast,58,58,0.094986
+11363,reproducir el siguiente podcast,58,58,0.117515
+11364,salta al siguiente podcast,58,58,0.094986
+11370,quiero escuchar el podcast de mcs,58,58,0.094933
+11372,favorito,58,12,0.121232
+11374,adelanta por favor,58,12,0.130378
+11377,busca podcast y reprodúce lo,58,58,0.09343
+11385,puedes reproducir mi archivo de música,45,45,0.569481
+11399,pasar al siguiente episodio,58,58,0.094422
+11406,termina este podcast empezar de nuevo,58,58,0.098112
+11419,escuchar el último podcast de duncan trussel,58,58,0.10614
+11440,reproducir el último próximo episodio,58,50,0.112343
+11450,iniciar podcast diario de mlb,58,58,0.084502
+11463,muéstrame los podcasts mejor calificados,58,58,0.095717
+11477,pon el episodio de ted en español en cola,58,44,0.070721
+11487,tocar canciones clásicastocar canciones clásicas,45,45,0.573004
+11496,reproducir podcast dementes,58,58,0.101561
+11500,retrocede un episodio,58,53,0.074047
+11503,botón de rebobina,58,9,0.063933
+11509,muéstrame el último episodio,58,50,0.102069
+11513,pon el podcast de entiende tu mente,58,58,0.112083
+11530,reproducir el podcast de mariano rajoy guardado en el dispositivo,58,58,0.094662
+11548,podcast de la red,58,58,0.09884
+11552,mucho más claro y orientado a temas,58,12,0.113551
+11553,mecano,58,49,0.137977
+11557,pon el episodio más actual de ricardo ponce,58,45,0.07379
+11562,quiero escuchar este podcast,58,58,0.094668
+11583,qué nuevas películas se proyectan en los cines esta semana,55,22,0.130415
+11596,hay exposiciones caninas cerca de la ciudad de nueva york,6,50,0.10173
+11608,dónde está el pub más cercano de la ciudad,19,19,0.135446
+11611,que conciertos hay ahora cerca,6,6,0.071809
+11615,que películas estan presentado en cinesa,55,49,0.180209
+11617,qué exhibiciones o espectáculos están programados en el teatro real,6,50,0.117801
+11621,qué eventos están sucediendo cerca de mí,6,50,0.22149
+11624,a dónde debo ir para comer comida mexicana en mi área,19,19,0.092326
+11631,necesito un poco de sushi lo que está más cerca,19,13,0.150988
+11654,buscar restaurantes chinos cercanos,19,19,0.168615
+11658,dónde está el festival gastronómico esta noche,6,50,0.26786
+11666,estoy buscando algunos desfiles de vestidos puedes encontrar tiendas de ropa dentro de una milla,19,19,0.167261
+11675,donde esta el restaurante mas cercano,19,19,0.157981
+11690,olly indicame la posicion exacta de la tienda,19,19,0.095392
+11693,qué nuevas películas están disponibles hoy,55,22,0.184078
+11699,muéstrame unos patio de comidas más cercano a mi ubicación,19,19,0.144912
+11708,buenas tiendas de bicicletas en valencia,19,19,0.223784
+11711,mejor bar en el área local,19,19,0.142078
+11712,dime todos los eventos locales,6,50,0.239456
+11716,cerca de la tienda de alimentos,19,19,0.196022
+11721,qué película de comedia romántica puedo ver en los cines de nueva york,55,22,0.082596
+11729,haga una lista de tareas pendientes mientras visita el parque nacional de yellowstone,6,53,0.116201
+11730,qué debo hacer cuando visite el parque nacional yellowstone,6,49,0.130182
+11732,que esta pasando alrededor mio,6,49,0.101502
+11740,teatros cerca de mí,55,19,0.104695
+11743,qué eventos de la feria del libro se llevarán a cabo la próxima semana en madrid,6,50,0.407544
+11745,cuál es el cine más cercano que reproduce la nueva película de vin diesel,55,49,0.130251
+11762,qué eventos se celebran en la ciudad de nueva york,6,50,0.344862
+11785,todo sobre mi madre,55,13,0.306033
+11795,quién vende los netbooks más baratos en el sur de austin,19,19,0.083912
+11800,cuál es la mejor tienda de ropa aquí,19,19,0.214324
+11819,busca una tienda que venda cerveza,19,19,0.20719
+11849,que películas estan proyectando en cines cerca a mi,55,19,0.065195
+11851,qué películas se están proyectando cerca de mí con críticas altas,55,22,0.106061
+11857,películas con buenas calificaciones de tomate podrido,55,12,0.099562
+11876,que actividades estan ocurriendo en mi area,6,50,0.149088
+11883,que compañia de taxi es la mejor,6,54,0.10267
+11899,que merece la pena ver,55,12,0.242561
+11906,cuéntame sobre las actividades en mi área este fin de semana,6,32,0.219184
+11928,que esta pasando en la,6,22,0.130715
+11933,que tipo de tiendas hay cerca a mi localidad,19,19,0.240743
+11945,puedes recomendar un restaurante barato en esta zona,19,19,0.155461
+11948,cuáles son algunos restaurantes cerca de mí,19,19,0.18816
+11952,dónde puedo encontrar el pub irlandés más cercano en mi área,19,19,0.116096
+11962,qué bares hay a mi alrededor,19,19,0.151682
+11980,dime todos los eventos que ocurren en milán,6,50,0.302517
+11998,dime que esta pasando en mi ciudad,6,22,0.121712
+12006,¿qué está pasando en los angeles hoy dia,6,13,0.255762
+12022,cuántas tiendas de comestibles hay en mi vecindario,19,19,0.233489
+12039,busca un restaurante en mi zona,19,19,0.146254
+12044,me muero de hambre lo que es bueno para comer en cincinnati,19,13,0.074811
+12045,olly dónde puedo conseguir unas bebidas en madrid,19,19,0.066011
+12055,eventos locales de hoy,6,50,0.20749
+12076,enumerar todas las tiendas cercanas,19,19,0.187466
+12095,puedes recomendar algún pub en gran via,19,19,0.109774
+12096,que esta pasando en el barrio,6,22,0.103931
+12107,necesito un lugar que me entregue pizza en benton are,19,16,0.088219
+12108,hay algún lugar chino en malasaña,19,49,0.148147
+12119,por favor busque eventos en mi ubicación,6,50,0.290649
+12125,oye olly quiero obtener trenes a madrid el miércoles,2,42,0.146866
+12134,a qué hora es el próximo tren a barcelona,42,42,0.154739
+12136,cuál es el mejor camino a francia,42,49,0.112914
+12144,voy a chinatown en media hora reserva un uber para mí,54,42,0.076646
+12149,olly por favor resérvame un billete de renfe a madrid a las cinco de la tarde para este viernes,2,50,0.323612
+12165,reservar mi silla clase ac billete de tren de manhattan a nueva york,2,42,0.146786
+12168,cómo es la situación del tráfico en la calle houston,11,42,0.075519
+12174,llámame un uber para ahora mismo,54,13,0.152212
+12177,hay más tráfico en la calle canal,11,42,0.107775
+12178,cuánto tráfico hay ahora mismo en la calle sanche,11,42,0.106149
+12181,envíame un uber ahora mismo,54,54,0.056672
+12185,dónde está la estación de tren,42,42,0.122734
+12205,podrías tener un uber en mi casa en un cuarto de hora,54,42,0.068249
+12206,necesito un taxi para ir al aeropuerto por favor,54,54,0.112882
+12217,reservame un billete de avión,2,42,0.113583
+12232,busca un taxi para ir a casa,54,54,0.114265
+12236,reservar uber desde mi casa,54,42,0.059733
+12247,puedes decirme los siguientes cuatro trenes programados para córdoba por favor,42,42,0.13179
+12253,como es el trafico en carretera milligrams,11,42,0.088892
+12258,como esta el trafico,11,42,0.085949
+12260,consígueme un billete de tren a madrid para el próximo jueves cuanto más tarde mejor,42,42,0.147407
+12267,cuál es el tiempo programado para que el correo de punjab llegue a gwalior,42,44,0.335024
+12284,cual es el siguiente tren a calle larios,42,42,0.177874
+12298,consígueme un taxi,54,54,0.11815
+12302,dirígeme a la estación de ferrocarril más cercana,42,42,0.136973
+12303,horario de tren de málaga a córdoba,42,42,0.183002
+12307,búscame dos billetes en el tren del martes a santander,2,42,0.170733
+12317,cuál es el estado del tráfico del trabajo a casa,11,42,0.072093
+12318,dime el estado del tráfico de aquí a casa,11,42,0.102474
+12322,reservar un taxi,54,54,0.112523
+12325,autobús y tarifas,2,12,0.081286
+12345,en delhi el nivel de tráfico es demasiado alto,11,42,0.056796
+12352,resérvame un taxi al aeropuerto para mañana por la mañana,54,42,0.124219
+12358,me gustaria conocer la situacion del trafico,11,12,0.080046
+12363,reservar mi taxi disponible más cercano,54,54,0.109703
+12368,como llego a brighton,42,49,0.211746
+12372,consígueme un uber,54,42,0.066514
+12373,reservar un taxi,54,54,0.112523
+12380,recomprar el último billete de tren a huesca,2,42,0.150823
+12394,cómprame un billete de tren para hoy a la ciudad de córdoba,2,42,0.18439
+12408,indicaciones para llegar a la tienda apple más cercana,42,19,0.129167
+12414,hazme una idea de como son las condiciones de trafico ahora,11,12,0.189822
+12438,qué horarios de trenes hay desde barcelona a málaga,42,42,0.149855
+12439,cómo voy a málaga desde zamora,42,49,0.217952
+12441,cómo es el tráfico de casa al trabajo,11,42,0.088712
+12451,coger el coche,54,42,0.043521
+12455,cuáles son los horarios del tren el veintitrés a clarksville,42,42,0.160305
+12461,comprar billete de tren,2,42,0.146637
+12464,necesito un taxi mañana a las ocho de la mañana,54,42,0.10841
+12470,reservar boleto para salir por la mañana,2,50,0.080099
+12478,encontrar un conductor uber disponible para esta noche después de las diez de la noche,54,50,0.124144
+12484,a qué hora sale el tren para madrid,42,42,0.184575
+12488,puedes reservarme un billete de tren a boston para el próximo martes,2,42,0.172567
+12504,a qué hora sale el tren de filadelfia,42,42,0.191758
+12505,cuando sale el siguiente renfe a valencia,42,50,0.115156
+12527,consígueme el número de un servicio de taxi local,54,42,0.136101
+12533,dame direcciones para el lugar,42,42,0.116633
+12550,cómo llegar a disneyland,42,42,0.095863
+12554,necesito llegar a la ubicación llama a un taxi,54,54,0.10572
+12565,me gustaría una lista de todos los precios de los billetes de tren para esta ubicación por favor,42,53,0.119217
+12575,necesito ir a lyon reservar un billete de tren,2,42,0.15487
+12587,cuáles son los horarios de los trenes de san francisco a nueva york,42,42,0.128636
+12593,olly por favor cómprame un billete de tren a cuenca,2,42,0.168619
+12602,cuánto por un boleto de tren,42,42,0.153135
+12617,por favor infórmame de cómo proceder para comprar un billete de tren a madrid,42,42,0.139964
+12625,puedes darme los horarios de los trenes para ann arbor,42,42,0.167803
+12627,resérvame un billete de tren a chicago para mañana por la mañana antes de las diez,2,42,0.129209
+12651,quiero ir a bankia dime indicaciones de como llegar,42,47,0.136267
+12654,por favor pide un billete de tren a los angeles,2,42,0.182709
+12656,necesito un taxi mañana a las ocho de la mañana para ir al trabajo,54,42,0.111997
+12665,el trafico ahora,11,42,0.100776
+12667,para qué son los horarios del tren,42,42,0.163043
+12669,podrías comprobar el tráfico a nuestra casa,11,42,0.123254
+12674,hay trafico denso,11,42,0.093618
+12680,cómprame un boleto para tomar el tren a atlanta,2,42,0.157195
+12692,cuánto tráfico hay normalmente en barcelona,11,42,0.102219
+12706,reservar billete de tren para esta hora,2,42,0.175028
+12711,configurar uber,54,59,0.048341
+12712,encuentra un taxi a xanadu,54,54,0.118698
+12715,llama un taxi para que me recoja ahora mismo,54,54,0.119758
+12729,hay algún problema de tráfico,11,42,0.059657
+12740,cuál es la ruta al mcdonalds más cercano,42,42,0.129861
+12741,que calle tomo para llegar al centro,42,42,0.124504
+12748,necesito comprar un billete de tren,2,42,0.163453
+12764,reserva un billete de tren a,2,42,0.177912
+12768,cuanto cuesta un billete de tren a madrid,42,42,0.184446
+12781,solicitar un taxi del servicio udrive,54,42,0.110094
+12783,cómo está el tráfico esta mañana,11,42,0.098946
+12787,como es el trafico ahora,11,42,0.072125
+12791,cómo está el tráfico cerca de mí,11,42,0.08677
+12810,como esta el trafico actual en galicia,11,42,0.077556
+12827,enumerar todo el tiempo de tren a nueva york,42,42,0.124268
+12828,ver todos los trenes y horarios a badajoz,42,42,0.165625
+12834,consígueme un billete de tren a huesca hoy,2,42,0.187524
+12840,cuál es la forma más rápida de llegar a barcelona,42,49,0.052619
+12854,abre la app de renfe y ve a comprar billete,2,19,0.085821
+12872,reserva un billete de tren para madrid,2,42,0.169145
+12877,reservar un taxi para que lo recojan en mi ubicación actual dentro de una hora,54,42,0.119468
+12885,qué ruta tiene menos tráfico hoy,11,42,0.09897
+12886,reservar mi billete de tren a nueva york,2,42,0.175204
+12888,consígueme un taxi para llevarme al aeropuerto el viernes a las cinco y media de la mañana,54,42,0.116967
+12891,consígueme un paseo en el tren de cercanías de nueva jersey a nueva york,2,42,0.130374
+12892,podrías hacer una lista de los trenes que van a málaga el día siguiente,42,50,0.084108
+12895,es la carretera en esta zona en particular ancha o estrecha,11,49,0.067557
+12899,reservar un asiento para mí en el tren el veinte de marzo,2,50,0.255391
+12901,por favor dime los horarios de tren de renfe,42,42,0.195662
+12904,necesito reservar un taxi por favor,54,54,0.113424
+12919,abre la aplicación uber y consígueme un coche por favor,54,42,0.086881
+12923,oye a qué hora puedo coger el tren más cercano a mí,42,42,0.176003
+12944,encontrar una definición,26,26,0.100058
+12947,quién es el presidente de polonia,49,49,0.503979
+12950,que moneda usa españa,10,49,0.093463
+12952,cuanto mide una jirafa,49,49,0.098194
+12956,en qué escenario usarías la palabra inconveniencia,26,12,0.117268
+12974,calcular la resistencia de esta resistencia,49,10,0.083242
+12977,google,39,12,0.087752
+12978,centros de navegación,39,19,0.086784
+12980,dime una definición breve de evacuación,26,10,0.073897
+13011,crees que el viaje en el tiempo es posible,12,13,0.293719
+13022,que edad tiene rosalía,49,49,0.425761
+13024,correo electrónico amigo,33,44,0.393157
+13029,explicame cuantos paises diferentes estan representados en el libro del apocalipsis,12,22,0.134729
+13033,cuanto es tres por siete,39,12,0.077987
+13037,qué debería cocinar esta noche,12,19,0.070639
+13038,dime que pasa cuando morimos,12,13,0.249798
+13051,de que estado es david lynch,49,49,0.490466
+13063,establece una cita solo para ti y para mi,12,50,0.214812
+13071,cuál es la raíz cuadrada de cuarenta y dos,39,10,0.067096
+13075,dime por qué bill bur es mejor comediante que iliza schleshinger,49,49,0.094449
+13076,dime el segundo nombre de tom hanks,49,10,0.074306
+13084,cómo deletrear la palabra jirafa,26,26,0.112772
+13085,puedes decir la palabra desmonetización,26,26,0.134048
+13100,que eran los edificios más largos del mundo,49,49,0.136062
+13106,escuchas canciones de david bustamante,57,45,0.569251
+13107,agenda una reunión con mi compañero,50,50,0.50199
+13110,actor que actúa un papel,26,49,0.060114
+13113,por favor dame información sobre la próxima película de dani rovira,49,22,0.125345
+13118,ninguno,49,12,0.150766
+13125,puedes mentir,12,12,0.200314
+13139,que es el huracán,26,0,0.24482
+13157,google la palabra,26,26,0.113962
+13185,calcular la distancia de madrid a barcelona,49,10,0.075431
+13198,resolver el cálculo,39,26,0.081465
+13202,cual es la poblacion de los angeles,49,49,0.342363
+13211,cual es tu lengua materna,12,49,0.349961
+13224,cuantos años tiene jennifer lopez,49,49,0.493826
+13227,resume todas las cosas que podría hacer por mí para ser más feliz,12,12,0.21398
+13228,si hubiera diez sencillos pasos para hacerme rico cuales serian,12,45,0.227673
+13230,animal más grande,49,12,0.07899
+13231,el edificio más alto,49,12,0.063184
+13271,dónde está la base de operaciones de justin bieber,49,12,0.085433
+13275,cual es mi ubicacion,12,49,0.171175
+13280,con toda la información que pueda recopilar en internet podría proporcionarme la mejor explicación probable de quién mató al presidente kennedy,49,22,0.189413
+13281,me gustaría que escribiera mensajes románticos originales para mi esposa,12,44,0.19114
+13284,cuéntame la historia de ramanujan y su viaje matemático,49,32,0.15221
+13316,la siguiente pregunta le pide que analice las metas y acciones previstas por el maestro,49,12,0.106795
+13319,quiénes son los mejores artistas de hip hop,49,45,0.272158
+13338,que significa hipocresía,26,12,0.162358
+13339,qué significa la palabra hipocresía,26,26,0.136451
+13349,responde a esta pregunta cuál es el primer jefe en super mario bros,12,47,0.124939
+13353,usar en una oración,26,12,0.181726
+13354,cuál es la respuesta a dos más dos,39,49,0.048425
+13355,definir swerving,26,12,0.157187
+13367,cuando definas algunas palabras pon thesaurus y usa una frase para que sea mas claro,12,47,0.062356
+13373,quienes son los cinco primeros goleadores n. h. l.,12,22,0.077417
+13382,cuando nació benjamin franklin,49,49,0.480633
+13384,quien es el gobernador de new york,49,49,0.373776
+13387,cuál es la definición de pda,26,10,0.082344
+13419,cuál es el índice de aprobación de trump,49,10,0.086697
+13455,me podrias decir como consigo la respuesta a eso,12,12,0.12062
+13462,resolver problema de matemáticas,39,26,0.073762
+13465,hay vida en otros planetas,12,13,0.173937
+13469,cuál es tu color favorito,12,49,0.094498
+13470,qué opinas de las tres leyes de la robótica,12,12,0.085215
+13480,dime el color de la suerte de hoy,12,1,0.057386
+13481,lee un poema para mí,12,12,0.072118
+13490,existe una correlación entre el clima en beijing y los precios de nasdaq durante la última semana,12,22,0.12377
+13496,tom cruise es hijo único,49,49,0.232728
+13499,por favor busca esta palabra,26,12,0.172287
+13502,porque el cielo es azul,49,13,0.103309
+13510,cuanto es veinticuatro por veinticuatro,39,32,0.172861
+13515,cuanto tiempo es un dia de la tierra,49,13,0.481577
+13517,espero que podamos almorzar juntos,12,12,0.203904
+13519,quien estaba en los beatles,49,49,0.329596
+13522,el mundo llegara a su fin cuando,12,13,0.258237
+13530,que significa tenso,26,26,0.129327
+13533,donde esta mi novia ahora mismo,12,49,0.16493
+13540,busque la definición de ambulancia,26,12,0.144179
+13544,los chupitos de gelatina no tienen calorías,49,9,0.055185
+13549,me puedes decir el sitio mas barato para comprar carne picada,19,19,0.090135
+13563,que significa patata,26,12,0.139591
+13572,dime un dato interesante sobre esto,12,12,0.129515
+13576,cuando es la proxima gira,12,0,0.230827
+13583,cuál es el tipo de cambio entre el dólar y el euro actualmente,10,10,0.130293
+13587,definir marco,26,12,0.165848
+13588,describir una patata,26,26,0.076373
+13615,cuantas veces ha conseguido adele el disco de diamante,49,45,0.310117
+13617,cuéntame la cosa mas extraña que esta pasando en el mundo hoy,12,13,0.169054
+13624,dime hora que es,0,0,0.547858
+13643,cómo se define textual,26,26,0.111621
+13645,quiero hacer un viaje a suiza gratis puedes llevarme allí,12,42,0.121633
+13647,cuál es el tipo de cambio del yen a dólar estadounidense,10,10,0.132633
+13651,cuántas millas hay en cinco kilómetros,39,49,0.193155
+13658,cuantos años tiene angelina jolie,49,49,0.447217
+13667,donde esta stockton california,49,49,0.444422
+13682,que está haciendo barack obama ahora mismo,49,49,0.328759
+13704,que es una antena de telefonía móvil,26,36,0.067499
+13708,cuantos sd en francos,10,49,0.200341
+13710,a cuántas millas está la ciudad de madrid de barcelona,49,49,0.25746
+13720,cuál es el tipo de cambio de dólares estadounidenses a dólares canadienses,10,10,0.121664
+13724,que sabes sobre la el ángel caído,26,13,0.161995
+13737,cuáles son los tipos de cambio entre estados unidos y china,10,10,0.07735
+13756,encuéntrame información sobre,26,22,0.149832
+13788,cuál es la elevación promedio de los estados unidos,49,49,0.111704
+13795,cuál es el tipo de cambio entre el dólar estadounidense y el franco,10,10,0.13099
+13797,cuantos personas viven en madrid,49,13,0.181529
+13804,siri cuánto es un dólar americano en yenes japoneses,10,10,0.122093
+13806,en que año nació mario casas,49,49,0.337463
+13812,háblame de las morillas,26,12,0.087337
+13816,precios de las acciones en mercadona,4,4,0.105941
+13836,que religion es la mas cierta,12,49,0.15712
+13842,cuántas millas hay entre illinois y luisiana,49,49,0.33727
+13844,cuantos años tiene tom hanks,49,49,0.372727
+13846,candela peña ha ganado alguna vez un premio de la academia,49,12,0.104676
+13848,dime el tipo de cambio del euro,10,10,0.107986
+13859,cuánto cuesta el dólar estadounidense frente a la rupia,10,10,0.114385
+13861,por favor muéstrame el tipo de cambio entre el dólar y el yen,10,10,0.112012
+13870,cuál es la definición de un carrera,26,26,0.083023
+13875,cuantos años tiene pedro sánchez,49,49,0.477043
+13892,necesito mantener a dos niños pequeños ocupados dime qué hacer,12,19,0.129946
+13914,puedes darme el tipo de cambio del dólar en rupias,49,10,0.117086
+13919,háblame de las estacas solares para el jardín,26,19,0.105826
+13924,cuál es la ciudad más grande de new hampshire,49,49,0.302294
+13935,definición de cascos de realidad virtual,26,12,0.076563
+13938,tengo alguna nueva cerilla,32,49,0.084508
+13957,cómo se ve una banana,26,49,0.178396
+13978,quien es donald trump,49,49,0.5049
+13988,donde esta españa,49,49,0.408683
+14007,que es un fiordo,49,49,0.150402
+14010,cuando nació rocío jurado,49,49,0.349313
+14012,que significa tuit,26,12,0.175683
+14014,dónde está dakota del norte,49,49,0.489565
+14018,que significa triunfo,26,12,0.192513
+14039,cual está más al norte de estados unidos,49,49,0.405963
+14062,donde esta stonehenge,49,49,0.439879
+14069,necesito el precio de las acciones de amazon,4,4,0.114909
+14073,cual es la tasa para rupias indias,10,49,0.270531
+14078,que es el triangulo de las bermudas,49,49,0.195359
+14087,cual es la tasa de cambio para pesos filipinos,10,10,0.108746
+14088,cual es el actual precio de la acción de facebook,4,49,0.09547
+14125,mostrar biografía de rihana,49,49,0.212149
+14144,euros a dólares americanos,10,12,0.09588
+14145,podrías por favor darme el cumpleaños de mahatma gandhiji,49,12,0.124526
+14152,que tipo de pantalón es un culotte,49,49,0.138387
+14156,probar en wikipedia,26,12,0.099226
+14173,olly vale más o menos un dólar en brasil,10,10,0.107786
+14175,cómo se ve la camisa,26,49,0.155179
+14195,pregunta a mi asesor,4,12,0.132814
+14203,en qué está el dow jones hoy,4,13,0.228136
+14205,por favor dígame cuándo puedo hacerme rico si invierto en acciones de dow hoy y cuál será el rendimiento después de cinco años.,4,12,0.091769
+14207,en que año nació elvis,49,49,0.427412
+14212,encuentra la direccion exacta de los sitios,19,12,0.042267
+14218,cuántas pulgadas hay en un pie,39,49,0.098843
+14227,cuanto vale el euro versus dólar canadiense,10,10,0.107932
+14230,enumera las cinco mejores películas de blanca suárez,49,22,0.138885
+14263,cuál es el tipo de cambio entre el dólar estadounidense y el euro,10,10,0.13109
+14267,cuanto es seis menos cuatro,39,12,0.072408
+14269,dime un euro a cuántos dólares equivale,10,10,0.095659
+14273,como de grande es inglaterra,49,49,0.480316
+14285,háblame sobre nueva york,49,12,0.161715
+14291,mostrar varias plantas en la tierra,49,19,0.069329
+14301,cómo están las acciones de coca-cola hoy,4,4,0.116395
+14320,quien es la esposa de obama,49,49,0.481834
+14341,precio de cierre de hoy para google,4,13,0.141803
+14343,mencionar el precio de las acciones de aldi,4,4,0.114165
+14346,qué significa hipótesis,26,26,0.121785
+14358,cuando se hizo la estatua de la libertad,49,49,0.23317
+14361,a que edad se casó michael phelps,49,49,0.432158
+14377,quién es javier bardem,49,49,0.342359
+14380,cuál es la definición de rudimentario,26,26,0.085421
+14384,como de alto es el edificio empire state,49,49,0.436843
+14390,cuál es la tasa de cambio entre el u. s. d. e inr,10,10,0.111987
+14393,describir el estado actual de la política,49,12,0.136067
+14397,cuando nació justin bieber,49,49,0.441075
+14408,defínete en una palabra,12,26,0.109416
+14421,dónde está el restaurante italiano mas cercano,19,19,0.131872
+14430,puedes decirme cómo es haggis,26,13,0.227711
+14450,pink está grabando un disco nuevo,49,45,0.466994
+14452,definición de nombre de objeto,26,26,0.086109
+14458,cómo es el volkswagen golf,26,49,0.293677
+14460,características del ipad air,12,49,0.179249
+14479,dime la distancia entre el sol y la luna,49,18,0.058874
+14492,encontrar el significado del mundo en el diccionario,26,12,0.123282
+14516,cuál es el mejor teléfono inteligente en dos mil diecisiete,49,49,0.335393
+14527,tipo de cambio que obtendré con moneda extranjera,10,10,0.089177
+14541,dame detalles de esta persona,12,22,0.166373
+14542,por favor cuentanos algunos detalles sobre esta persona,12,22,0.174474
+14565,cual es el tema mas preocupante en estados unidos hoy y que se puede hacer para afrontarlo de forma eficaz,12,12,0.180087
+14574,quien fue el vigésimo quinto presidente de los estados unidos de américa,49,49,0.32066
+14582,dime como ir a bali sin avion con la opcion mas barata el tiempo no importa tengo doscientos dias de viaje y solo dolares para gastar,12,42,0.082193
+14593,dame la descripción de un circuito de portátil,26,10,0.047962
+14596,cuándo suele bajar normalmente las acciones de iphone,4,4,0.109381
+14604,explica,26,12,0.155225
+14609,explicame como funciona la gravedad,49,12,0.188688
+14617,cuando se casaron adexe y nau,49,32,0.16984
+14621,tasas de cambio entre el dólar y el euro,10,10,0.121072
+14635,puedes decirme qué significa hipertrofia,26,12,0.177194
+14645,nombre de la sociedad anónima,4,12,0.136813
+14654,me gustaría que mi robot pudiera trabajar por mi,12,12,0.236169
+14657,dame la descripción del circuito del portátil,26,49,0.079243
+14669,definir xy,26,26,0.08992
+14677,dame el precio de apertura de las acciones de apple,4,4,0.116269
+14704,dónde puedo conseguir avena orgánica,19,12,0.182715
+14708,stock por favor,4,12,0.089384
+14719,cambiar las tasas de dólar a rupias,10,10,0.103359
+14721,tipo de cambio dólar rupias,10,10,0.121354
+14727,cual es el factor que permitio que modi ganara las elecciones,12,12,0.145465
+14731,prediccion de terremotos,12,12,0.125111
+14737,ok google cuál es la manera más fácil y rápida de cocinar un pavo,37,9,0.064693
+14744,que tipo de implemento es un asador y como lo uso,12,10,0.063663
+14745,definir pollo de engorde para mí,26,49,0.081056
+14755,donde esta la estatua de la libertad,49,49,0.158546
+14764,descríbeme cómo se ve una bola,26,49,0.06759
+14773,alexa dime todo lo que sabes sobre bob dean,49,12,0.208502
+14774,dime los precios de las acciones de repsol,4,4,0.111426
+14775,cuáles son los precios de las acciones de amd,4,4,0.105945
+14796,cuánto valen las acciones de google,4,4,0.123072
+14803,ibas a traer nuevos esquemas,12,22,0.087029
+14808,convierte un euro a dólar estadounidense,10,10,0.121254
+14819,alto precio de las acciones,4,4,0.099936
+14827,cuántos mega píxeles se enumeran en la descripción del canon,49,12,0.063586
+14848,como tamara falcó se volvió famosa,49,49,0.38882
+14849,cuál es la respuesta a dos por tres,39,10,0.063745
+14850,cuanto es doce dividido por cuatro,39,12,0.087568
+14852,cuál es el color natural del cabello de julia roberts,49,49,0.081922
+14861,si tengo cinco dólares estadounidenses cuánto es eso en dólares australianos,10,12,0.086576
+14865,define la luna para mi,26,13,0.138746
+14866,cuantos ríos hay en el mundo,49,49,0.294183
+14868,búscame algunas celebridades que sean capricornio,49,49,0.219645
+14872,si es un bien de consumo entonces cuál es la retroalimentación del cliente,12,12,0.092516
+14882,cuánto va la rupia india contra el dólar estadounidense,10,10,0.095369
+14888,podrías describir ese objeto por favor,26,26,0.10037
+14897,que fue el primer satélite lanzado por la nasa,49,49,0.258428
+14901,por favor descríbeme un elefante,26,12,0.11112
+14906,cuál es el tipo de cambio del dólar estadounidense hoy,10,10,0.128952
+14918,por cuanto tiempo ha estado embarazada la reina leticia,49,13,0.402553
+14920,cuál es el precio de las acciones de tesco,4,4,0.123429
+14924,me gustaría mantener fácilmente un inventario y decirme cuando me estoy quedando sin algo,12,12,0.157773
+14930,en qué ha estado trump esta semana,49,0,0.278125
+14946,cuál es la definición de marinara,26,26,0.088094
+14950,cuantas personas piensan de tal manera que pueden esconderse de dios,12,12,0.161111
+14952,los tipos de cambio de moneda,10,10,0.100414
+14953,que es por,26,12,0.152702
+14961,cuantos años tiene christie brinkley,49,49,0.492256
+14971,cuentame como empezo el mundo,12,49,0.165047
+14985,dime el tipo de cambio de diez dólares por euro,10,10,0.100596
+14987,que es ordenador,26,26,0.069921
+14989,cual es la isla mas pequeña del mundo,49,49,0.362813
+15014,que tan grande es japón,49,49,0.385357
+15015,como de lejos esta japón de madrid,42,49,0.427366
+15017,puedes decirme qué películas se están proyectando en el cine esta noche,55,22,0.116594
+15030,olly que significa la palabra snafu,26,12,0.115279
+15033,cuál es el tipo de cambio entre el dólar estadounidense y el dólar australiano,10,10,0.130402
+15043,en que cotización de apple,4,49,0.160972
+15047,oye cuál es la definición de pasivo,26,26,0.078862
+15057,qué edad tenía albert einstein cuando se le ocurrió la teoría de la relatividad,49,32,0.106596
+15064,calcular una integral cercana de la función exponencial de cero a cinco,49,10,0.084732
+15065,dime cómo va a afectar el brexit e. u. ciudadanos a largo y medio plazo,49,12,0.201887
+15090,por favor busca intercambio entre estados unidos y méxico,10,12,0.128125
+15093,solo busque una descripción sobre un televisor samsung,26,22,0.097997
+15097,cuál es el tipo de cambio para samsung,10,10,0.10323
+15100,que tan lejos esta,49,13,0.234398
+15125,que es esta cosa,26,13,0.193316
+15134,cuál es el stock de ibm en,4,4,0.085983
+15145,qué es tendencia en twitter,27,49,0.129175
+15157,qué ha sido lo último que ha dicho mi madre,27,49,0.149841
+15171,dame actualizaciones sobre el facebook de javier del fin de semana,27,22,0.225105
+15174,enséñame nuevos comentarios en mi facebook,27,47,0.092413
+15180,cuántos me gusta tiene mi última foto de instagram,27,44,0.082309
+15182,léeme el último tweet de el mundo,27,22,0.125643
+15193,publicar nuevo estado en facebook hora de celebrar,47,22,0.113652
+15207,mi actualización de facebook cada tres horas debería estar disponible,27,22,0.168916
+15215,pon eso en facebook,47,45,0.114642
+15219,este artículo es súper guay puedes compartir el enlace en facebook por mí,47,22,0.069334
+15221,transmite un vídeo en youtube,47,44,0.119513
+15242,estado de facebook día ocupado,47,49,0.135448
+15245,por favor envíaselo a carlos,47,42,0.073584
+15247,por favor enviar estado a facebook,47,47,0.091136
+15252,enséñame una lista de lugares donde mis familiares han estado basándome en sus fotos,27,53,0.115471
+15258,últimas noticias de la página de inicio de facebook,27,22,0.421461
+15265,dame los detalles de mi perfil de twitter incluyendo el número total de seguidores,27,22,0.099416
+15269,está bien que puedas postear esto en mi facebook,47,47,0.079737
+15272,me puedes decir que está pasando en mis redes sociales,27,22,0.14902
+15294,cuál fue el último tuit de mi feed,27,49,0.180948
+15297,por favor informame de cualquier actualización de mi estado,27,22,0.25652
+15301,actualidad de redes sociales,27,22,0.386837
+15319,nuevo tuit,47,12,0.152663
+15342,abre facebook y desea un feliz cumpleaños a españa,47,47,0.07992
+15349,estoy triste con mercadona por favor ayudadme,47,13,0.113484
+15370,puedes enviar un tuit a cabify diciendo que su app se ha caído,47,47,0.163232
+15374,publica lo siguiente como estado en facebook,47,47,0.129644
+15375,por favor pon un estado en twitter,47,47,0.101437
+15379,por favor publica esta foto en mi facebook,47,44,0.126684
+15381,queja a apple y hacerles saber que mi aplicación falló,47,12,0.142523
+15388,dile a mi grupo de facebook que he llegado,47,47,0.118321
+15396,por favor escribe una queja para levis,47,44,0.134185
+15397,diles que las lineas eran demasiado largas,47,22,0.082451
+15414,necesito un pesebre,12,13,0.330121
+15421,mandar este mensaje a microsoft en twitter,47,44,0.177581
+15427,publicar una foto en mi teléfono en facebook alexa,47,44,0.131253
+15436,tuitear una queja a la página web de el cote inglés,47,47,0.173674
+15455,enviar un tuit a iberia que estoy enfadado porque me habéis perdido las maletas,47,47,0.186079
+15458,tuve un servicio horrible en la tagliatella necesito tuiteárselo,47,47,0.174766
+15460,enviar queja a través del servicio al consumidor de twitter,47,47,0.144808
+15462,puedes tuitear una queja al servicio al cliente de la tienda de muebles,47,47,0.169258
+15466,dile a movistar plus que todavía estoy en espera,47,13,0.167504
+15471,escribe una queja a carrefour por la tablet que he comprado hoy,47,47,0.140565
+15475,hazle saber a naturgy que se ha ido la luz otra vez,47,13,0.074616
+15478,contacta con el servicio de atención al cliente de amazon via twitter,47,47,0.146227
+15512,por favor actualiza las cuentas de mis redes sociales,27,22,0.199677
+15514,tuitear queja a samsung,47,47,0.197489
+15516,por favor pon un tuit a la compañía vodafone sobre el servicio defectuoso del portátil,47,47,0.159076
+15531,tuitea a alcampo y diles que su servicio de atención al cliente es horrible,47,47,0.221152
+15533,alexa manda un tuit al zara para decirles que tienen el peor servicio de atención al cliente,47,47,0.1671
+15538,quejas de servicio de atención al cliente tuitear lo siguiente,47,47,0.203492
+15540,marcos ha publicado algo nuevo en facebook,27,22,0.107623
+15541,mandar un tuit a telepizza sobre un mal envío,47,47,0.125091
+15545,recuérda me tuitear en esta empresa,50,50,0.377134
+15558,postea en facebook que estoy enfermo,47,47,0.110261
+15559,postea en tumblr que me lo estoy pasando bien,47,47,0.150154
+15562,abordar la situacion,12,12,0.097242
+15572,tuitea una queja a burger king,47,47,0.214329
+15581,envía un tuit a la compañía,47,47,0.163167
+15583,tuitea una queja sobre mi frigorífico a l. g.,47,47,0.212492
+15588,nombre de video de publicación de galería abierta,47,45,0.094618
+15596,publica en twitter que tengo un día ajetreado por delante,47,47,0.141901
+15609,tuitear el servicio al cliente no es bueno para el servicio de litro por gramo en mi cuenta de twitter,47,47,0.208621
+15625,tuitear queja,47,47,0.194332
+15630,cuáles son las últimas fotografías en mi cuenta de instagram,27,22,0.158328
+15632,ok google tuitea que el servicio en la yoselén es terrible,47,47,0.221542
+15639,tuitea una queja sobre el drenaje atascándose,47,47,0.22399
+15645,información social,27,12,0.167774
+15695,tuitear al servicio al consumidor que estoy muy decepcionado con mi interacción reciente,47,47,0.199993
+15725,quiero publicar una actualización en twitter,47,22,0.120384
+15753,cuándo recibí el mensaje de john smith sobre el accidente,44,44,0.21998
+15761,avíseme si tengo nuevos correos electrónicos,44,44,0.429322
+15778,envía un correo a emilia diciendo que llegaré tarde que no me espere para cenar,33,44,0.280941
+15786,hay algún correo electrónico de emilia,44,44,0.423287
+15795,puedes enviar un correo a pedro por favor,33,44,0.34792
+15798,revisar mi bandeja de entrada,44,44,0.110995
+15805,envía un correo a david sobre la reunión de mañana david podemos reunirnos en la tarde,33,44,0.304178
+15812,me gustaría saber sobre la fiesta de jane,12,50,0.320112
+15836,abre mi correo más reciente y contesta,33,44,0.383621
+15858,envía este contenido por correo electrónico,33,44,0.387763
+15861,envía un correo electrónico a mamá con el asunto tiempo y el cuerpo de mensaje que cómo está el tiempo esta semana,33,44,0.327941
+15863,comprobar los correos electrónicos para ver si hay correos no leídos de mamá,44,44,0.404965
+15867,por favor dame detalles de mi contacto andrés,17,22,0.066709
+15868,hay un contacto llamado paco en mi lista,17,53,0.09487
+15897,envía un feliz año nuevo a juan arroba gmail punto com,33,47,0.1335
+15900,cuál es el apellido de juan,17,49,0.381291
+15903,envía una respuesta a mi amigo para su pregunta,33,33,0.114909
+15909,revisa mis correos electrónicos de las últimas dos horas,44,44,0.412836
+15910,contola correos de las últimas doce horas,44,44,0.395552
+15921,alexa añade erosser arroba hotmail punto com como nuevo contacto para ana lópez,15,47,0.090529
+15930,avíseme si hay nuevos correos electrónicos de ebay,44,44,0.427689
+15939,envía un correo electrónico con el siguiente mensaje a este contacto,33,44,0.33271
+15973,comprobar y ver si he recibido algún correo electrónico de eddie richards que tenga que ver con presupuestos,44,44,0.387267
+15986,guarda este correo en contacto,15,44,0.359003
+15993,enviar a ashmit sus últimos temas tecnológicos disponibles,33,12,0.096446
+16007,hazme saver cuando laura me envíe un correo electrónico,44,44,0.357655
+16020,déjame saber lo que se ha acumulado en mi bandeja de entrada desde las tres p. m.,44,50,0.112799
+16025,puedes enviar un correo electrónico a mi amigo rohit que diga que estoy ocupado mañana,33,44,0.355088
+16026,buscar fechas límite de matthews,44,12,0.108945
+16027,oye comienza un correo electrónico a mi colega,33,44,0.365442
+16030,abre nuevo correo electrónico a esta colega a este correo electrónico,33,44,0.393171
+16037,por favor actualiza mi bandeja de entrada,44,22,0.120004
+16066,enviar un hola a,33,47,0.116795
+16078,muestra el ultimo correo electrónico de juan,44,44,0.40681
+16081,envía un correo electrónico a mi gerente,33,44,0.347282
+16083,enséñame los últimos correos electrónicos siri,44,44,0.414876
+16085,envía un correo electrónico a olivia navarro,33,44,0.35317
+16090,algún correo en los últimos cinco minutos,44,44,0.38779
+16104,envía un correo electrónico a mi amigo diciéndole que le deseo un feliz cumpleaños,33,44,0.327521
+16107,cuál es la dirección de correo electrónico de mamá,17,44,0.35018
+16132,me gustaría que este nuevo correo electrónico se agregara a mi contactos.,33,44,0.381568
+16135,envía un correo electrónico a mateo voy a enviar los archivos al día siguiente,33,44,0.320911
+16140,mostrar todos los correos electrónicos recibidos recientemente con marca de tiempo,44,44,0.39645
+16144,muestra me un nuevo correo electrónico,44,44,0.389567
+16160,abrir respuesta,33,47,0.0708
+16161,responder a este correo electrónico,33,44,0.385964
+16173,envía un correo electrónico a gerardina para decirle que la abuela la quiere y espera que tenga un buen fin de semana,33,44,0.318027
+16176,redactar respuesta,33,12,0.076411
+16184,dime los detalles de contacto de mi hermano,17,22,0.084114
+16206,enviar este mensaje al grupo familiar comienza con un,33,44,0.191324
+16214,quién me ha enviado correos electrónicos recientemente y cuáles son los asuntos de cada correo electrónico,44,44,0.416227
+16232,olly responde al correo electrónico de romina diciendo que su idea es fantastica,33,44,0.333264
+16241,enviar correo electrónico al jefe para reunirnos por evaluación de rendimientos,33,44,0.355526
+16244,paco vive en francia,17,49,0.278448
+16249,avísame si recibo algún correo electrónico en mi cuenta de email,44,44,0.386031
+16279,enviar el mensaje hola baja a cenar esta noche a hermano,33,44,0.180338
+16286,envía un correo electrónico al chico que está vendiendo el bote diciéndole que tengo el dinero,33,44,0.319132
+16288,dime quien envió el correo electrónico sobre el jefe ayer,44,44,0.388982
+16289,qué dijo la clinica sobre mix exámenes,44,22,0.156995
+16290,puedo encontrar información sobre un contacto,17,12,0.094218
+16294,lee mis emails no leídos,44,44,0.133098
+16298,comprobar si hay nuevos emails,44,44,0.126086
+16303,puede verificar si tiene alguna alerta reciente por correo electrónico,44,44,0.40471
+16305,envía un correo para mi,33,44,0.313152
+16319,responder a todos,33,47,0.094609
+16322,dile a roberto sanchez,33,49,0.111116
+16330,responder con gracias,33,47,0.10295
+16334,tengo algún correo nuevo de joan perez,44,44,0.422848
+16372,hay algun correo sobre mi ascenso,44,44,0.404445
+16386,revisa mis correo s,44,44,0.400376
+16393,hazme una lista de los destinatarios y remitentes de los emails de la ultima semana,44,53,0.121683
+16394,quien me envió correos electrónicos recientemente y que decían,44,44,0.393497
+16396,envía el correo electrónico a juan,33,44,0.359095
+16407,comenzar correo,33,44,0.360459
+16421,cuántos correos sin leer tengo,44,44,0.349834
+16423,enviar un correo a raul a qué hora es la cena,33,44,0.31909
+16442,enviar correo electrónico a comcast que su servicio es una mierda,33,44,0.360524
+16445,por favor revisa correo reciente estudio de este remitente,44,44,0.40236
+16448,abre mi cuenta de correo electrónico y revisa nuevos correos electrónicos,44,44,0.3975
+16454,envía un correo a mi jefe diciendo llegaré tarde,33,44,0.296233
+16462,qué nuevos mensajes tengo,44,44,0.207276
+16463,abrir mis nuevos correos,44,44,0.393656
+16478,revisa los correos electrónicos de cristina,44,44,0.407963
+16479,responde al correo electronico de marcos,33,44,0.374517
+16487,cuántos correos hoy,44,44,0.335952
+16493,me ha enviado mi mamá un correo electrónico,44,44,0.374051
+16512,enviar un correo a mamá quiero ir de compras mañana,33,44,0.339404
+16525,revisa todos los correos de eric,44,44,0.39845
+16533,me ayudarás a escribir un correo electrónico a chofin,33,44,0.346075
+16543,olly por favor compruebe que tengo algunos correos electrónicos de mamá,44,44,0.403846
+16570,enviar un correo electrónico a todos los trabajadores de mi empresa,33,44,0.357549
+16573,mensaje de correo electrónico a la dirección,33,44,0.346812
+16574,nueva dirección,33,12,0.073941
+16580,busca en google la nueva dirección de correo electrónico de juan que añadí el viernes,44,44,0.356001
+16582,es esto el código postal correcto de mi jefe,17,44,0.118098
+16586,contesta,33,12,0.130225
+16588,por favor borra los contactos con los que no he hablado en tres meses,17,47,0.082959
+16601,quiero enviar un correo electrónico a jacobo arroba gmail punto com,33,44,0.348352
+16611,envía un correo a mi hija diciéndola que te quiero,33,44,0.300882
+16612,envía un correo electrónico a mama diciendo feliz cumpleaños,33,44,0.337616
+16615,por favor dime si julio me ha enviado algún correo electrónico,44,44,0.394826
+16641,algún nuevo correo electrónico del jefe,44,44,0.412084
+16653,he recibido algún correo electrónico en la última hora,44,44,0.395398
+16685,ha llegado ya algún correo personal,44,44,0.409902
+16699,abre el correo electrónico de mi hermana de ayer dale a contesta y activa la grabación de voz para mi respuesta,33,44,0.362139
+16709,cuántos contactos tengo en mi agenda,17,22,0.074537
+16723,puedes ver sobre lo que andrés me ha escrito en su email,44,47,0.128867
+16726,quiero encontrar correos electrónicos de juan con el asunto que contenga la palabra reunión,44,44,0.382196
+16744,por favor envía un email a mi madre,33,33,0.136796
+16745,me envió un correo juan,44,44,0.379688
+16750,mira mi correo,44,44,0.344563
+16768,abre el correo electrónico de jaime,33,44,0.399713
+16769,buscar correo electrónico para contactar,44,44,0.358806
+16770,encuentra un contacto,44,13,0.036368
+16774,muestra mi correo electrónico,44,44,0.380394
+16779,abre el contacto llamado josé,17,47,0.052744
+16788,a quien envié correos electrónicos recientemente,44,44,0.404049
+16795,cual es el destinatario y remitente del correo electrónico que hay hoy en la bandeja de entrada,44,44,0.403556
+16818,por favor abre mi lista de contactos,17,53,0.155211
+16821,abre la información de contacto de pablo,17,47,0.062013
+16825,chequea todos los correos de tom brady,44,44,0.394183
+16829,envía una respuesta a juan,33,33,0.124386
+16833,hola tengo algún nuevo correo electrónico,44,44,0.426021
+16840,enviar correo electrónico a miguel,33,44,0.368012
+16843,controla mi correo,44,44,0.347372
+16848,necesito mandar un correo a susana y mencia,33,44,0.318618
+16850,mostrar no leído,44,12,0.081592
+16877,hay nuevos correos electrónicos en mi bandeja de entrada,44,44,0.420243
+16881,responder correo electrónico,33,44,0.388383
+16885,envía un correo a m. garcía preguntándole si luis entregó su último deber asignado,33,44,0.293883
+16903,envía una respuesta a mi último correo electrónico,33,44,0.348165
+16929,responder a al correo electrónico de francisco con la respuesta seis y media,33,44,0.361491
+16945,qué correo tengo,44,44,0.403806
+16971,quiero enviar una respuesta al correo electrónico de juan,33,44,0.346669
+16991,chequea correos de ana perez,44,44,0.379255
+17006,hay algunos nuevos correos electrónicos,44,44,0.423428
+17009,revisa mi bandeja de entrada por mí,44,44,0.158205
+17017,guardar correo a mi contacto,15,44,0.309016
+17018,guardar en contactos,15,40,0.050237
+17034,dame todos mis correos electrónicos recientes,44,44,0.414177
+17035,cuál es mi actividad de correo reciente,44,44,0.391514
+17037,dame el correo de contacto,17,44,0.364479
+17046,por favor dime los nuevo correos electrónicos de miguel,44,44,0.40313
+17048,sólo hazme saber nuevos correos de sara,44,44,0.412905
+17074,he recibido algún correo desde las diecisiete horas,44,44,0.398803
+17076,recibí algún correo electrónico de pepe hoy,44,44,0.422083
+17080,publicar un correo electrónico al trabajador de mi empresa con la información de la reunión programada para hoy,33,44,0.362152
+17082,recibí algún nuevo correo hoy de ana,44,44,0.42103
+17093,enviar correo electrónico a maría,33,44,0.363516
+17102,llama al numero de telefono de ramon,17,44,0.160455
+17121,informa de algún correo electrónico nuevo,44,44,0.40789
+17137,cuántos mensajes no leídos tengo,44,44,0.159887
+17140,por favor responde el correo electrónico que yo acabo de leer,33,44,0.373666
+17153,juan me escribe hoy,44,12,0.145979
+17167,cúal es la dirección para juan,17,17,0.067879
