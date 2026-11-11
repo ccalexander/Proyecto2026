@@ -27,7 +27,7 @@ Justificación:
 - Es una versión destilada de BERT (6 capas), más pequeña y rápida de entrenar que BERT completo, lo que permite hacer el fine-tuning en un equipo personal.
 - No se reimplementa Self-Attention: tokenizer, embeddings, encoder y clasificador vienen de la librería (PyTorch / Hugging Face), tal como permite la consigna.
 
-Configuración de entrenamiento: 1000 muestras del split `train`, 3 épocas (checkpoints en pasos 125, 250 y 375).
+Configuración de entrenamiento: 1000 muestras del split `train` (mezcladas con semilla 42), lotes de 8 y **8 épocas** (1000 pasos; el último checkpoint es `checkpoint-1000`). `train_model.py` acepta el número de épocas como argumento.
 
 ## 3. Arquitectura
 
@@ -84,8 +84,9 @@ Requisitos: Python 3, JDK y NetBeans.
 pip install -r python/requirements.txt
 python python/prepare_dataset.py     # descarga MASSIVE es-ES y genera data/
 python python/preprocess.py
-python python/train_model.py         # fine-tuning (genera models/)
-python python/export_predictions.py  # genera results/predictions.csv y metrics.json
+python python/train_model.py 8       # fine-tuning, 8 épocas (genera models/)
+python python/export_predictions.py 3000  # genera results/predictions.csv y metrics.json (todo validation)
+python python/evaluate_model.py      # reporte por clase y matriz de confusión (png)
 ```
 
 Luego, en NetBeans, ejecutar `MiProyecto2026` (F6). Lee `data/massive_es_train.csv` y `results/predictions.csv`, y escribe `results/confusion_matrix.csv`. También acepta argumentos opcionales: CSV de entrenamiento, CSV de predicciones y carpeta de salida.
@@ -107,15 +108,25 @@ Ver [`data/README.md`](data/README.md). Resumen: se usa `train` para el fine-tun
 
 ## 8. Resultados
 
-> **PENDIENTE:** se completarán después de ejecutar `export_predictions.py` con el modelo entrenado.
+Evaluación sobre el split `validation` de MASSIVE es-ES (2033 muestras, ninguna omitida; el modelo vio las 60 intenciones en el entrenamiento). Las métricas de Python (`results/metrics.json`) y las de Java (`MiProyecto2026`) coinciden.
 
-| Métrica | Valor |
-|---|---|
-| Accuracy (validation) | _por completar_ |
-| F1 macro | _por completar_ |
-| Muestras evaluadas | _por completar_ |
+| Intento | Épocas | Accuracy | F1 macro |
+|---|---|---|---|
+| 1 | 3 | 0.4737 | 0.2389 |
+| 2 (**final**) | 8 | **0.6783** | **0.5377** |
 
-La matriz de confusión completa está en `results/confusion_matrix.csv` y su imagen en `models/confusion_matrix.png` (local, no versionada).
+El intento 2 es el modelo guardado (`checkpoint-1000`). Se ajustó solo el número de épocas, comparando en `validation`; el split `test` no se usó.
+
+Observaciones del pipeline Java sobre el modelo final:
+
+- Score promedio: 0.7417 (0.8251 en aciertos y 0.5656 en errores). 416 de 2033 predicciones tienen confianza menor a 0.5.
+- Índice AVL: 2033 nodos, altura 12, validado con `esAVLValido()`.
+- Confusiones más frecuentes (intención real → predicha, por número de clase): 2→42 (20 casos), 50→32 (13), 31→18 (11), 12→49 (11), 49→12 (11).
+- Java cuenta 59 clases presentes en los datos de validación; el modelo distingue 60.
+
+Archivos generados: `results/metrics.json`, `results/predictions.csv`, `results/confusion_matrix.csv` (Java), y `results/classification_report.txt` y `results/confusion_matrix.png` (`evaluate_model.py`).
+
+Antes de usar la muestra mezclada, con las primeras 1000 muestras solo aparecían 34 intenciones y se omitía casi la mitad de `validation`; esos números no son comparables con los de la tabla.
 
 ## 9. Documentación
 
@@ -126,7 +137,9 @@ La matriz de confusión completa está en `results/confusion_matrix.csv` y su im
 
 ## 10. Limitaciones
 
-- El fine-tuning usa solo 1000 muestras, por lo que puede que no aparezcan todas las intenciones de MASSIVE (60); el accuracy puede ser bajo. `export_predictions.py` omite las muestras de validación cuyas intenciones no vio el entrenamiento.
+- El fine-tuning usa solo 1000 muestras (unas 17 por intención), por lo que el accuracy (0.6783) y sobre todo el F1 macro (0.5377) son moderados. Se mantiene ese tamaño por la regla de subconjunto comparable de la consigna.
+- La muestra es aleatoria con semilla fija, no estratificada: la distribución de intenciones puede estar desbalanceada.
 - La conexión Java ↔ Python es por CSV, no en tiempo real.
 - `RepositorioMuestras.insertar` es O(n) porque valida la unicidad del id recorriendo la lista (decisión documentada en `docs/complejidad.md`).
 - El índice de árboles ordena los ids de forma lexicográfica (`String.compareTo`), no numérica.
+- Las intenciones aparecen como números de clase en los resultados, no con su nombre.
